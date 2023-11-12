@@ -1,34 +1,33 @@
 const path = require("path");
 const webpack = require("webpack");
 
-// [name].js has to be modified !!!!!!!!!!!!!
-
-module.exports = {
-  entry: "./src/index.js",
-  output: {
-    path: path.resolve(__dirname, "./static/frontend"),
-    filename: "[name].js",
-  },
-  module: {
-    rules: [
-      {
-        test: /\.js$/,
-        exclude: /node_modules/,
-        use: {
-          loader: "babel-loader",
+module.exports = (env, argv) => {
+  return {
+    entry: "./src/index.js",
+    output: {
+      path: path.resolve(__dirname, "./static/frontend"),
+      filename: "[name].js",
+    },
+    module: {
+      rules: [
+        {
+          test: /\.js$/,
+          exclude: /node_modules/,
+          use: {
+            loader: "babel-loader",
+          },
         },
-      },
-    ],
-  },
-  optimization: {
-    minimize: true,
-  },
-  plugins: [
-    new webpack.DefinePlugin({
-      "process.env": {
-        // This has effect on the react lib size
-        NODE_ENV: JSON.stringify("production"),
-      },
-    }),
-  ],
+      ],
+    },
+    optimization: {
+      minimize: argv.mode === "production",
+    },
+    plugins: argv.mode === "production"
+      ? [
+          new webpack.DefinePlugin({
+            "process.env.NODE_ENV": JSON.stringify("production"),
+          }),
+        ]
+      : [],
+  };
 };
