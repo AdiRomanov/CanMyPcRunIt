@@ -11,9 +11,12 @@ Pentru a rula aplicația, este important să folosim `virtualenv` pentru a crea 
    - Deschideți terminalul și executați: `pip install virtualenv`
 
 2. **Configurare Virtual Environment**
-   - Directorul de baza este cel cu `\CanMyPcRunIt`.
-   - După instalarea Python, deschideți terminalul in directorul de baza și executați următoarele comenzi(Eu foloses PyCharm Professional, e gratis pentru studenti):
+   - Directorul de baza este `PS C:\Users\Adi\Desktop\ProiectColectiv\CanMyPcRunIt>`.
+   - După instalarea Python, deschideți terminalul in directorul de baza al proiectului și executați următoarele comenzi pentru a va crea propriul `virtual env`
+   - Directorul `venv` este default un fisier inclus in .gitignore asa ca nu va fi uploadat pe GitHub.
+   - (Eu foloses PyCharm Professional, e gratis pentru studenti):
      ```bash
+     python -m venv venv
      cd .\venv\
      .\Scripts\activate
      ```
@@ -26,7 +29,7 @@ Pentru a rula aplicația, este important să folosim `virtualenv` pentru a crea 
    ```bash
    (venv) PS C:\Users\Adi\Desktop\ProiectColectiv\CanMyPcRunIt>
     ```
-    Pentru a ieși din mediu virtual, utilizați comanda: 'deactivate'. Astfel, veți reveni la directorul de bază: `PS C:\Users\Adi\Desktop\ProiectColectiv\CanMyPcRunIt>`
+    Pentru a ieși din mediu virtual, utilizați comanda: `deactivate`. Astfel, veți reveni la directorul de bază: `PS C:\Users\Adi\Desktop\ProiectColectiv\CanMyPcRunIt>`
 
     NOTĂ: Nu ieșiți din mediu virtual dacă nu aveți un motiv specific.
 
@@ -86,9 +89,12 @@ To run the application, it is important to use `virtualenv` to create isolated s
    - Open the terminal and run: `pip install virtualenv`
 
 2. **Configure Virtual Environment**
-   - The base directory is the one with `\CanMyPcRunIt`.
-   - After installing Python, open the terminal in the base directory and run the following commands(I use Pycharm Professional, it is free for students):
+   - The base directory is `PS C:\Users\Adi\Desktop\ProiectColectiv\CanMyPcRunIt>`.
+   - After installing Python, open the terminal in the base directory and run the following commands to create your own `virtual env`. 
+   - The `venv` directory it's by default included in the .gitignore file, its not going to be uploaded on GitHub.
+   - (I use Pycharm Professional, it is free for students):
      ```bash
+     python -m venv venv
      cd .\venv\
      .\Scripts\activate
      ```
@@ -101,7 +107,7 @@ To run the application, it is important to use `virtualenv` to create isolated s
    ```bash
    (venv) PS C:\Users\Adi\Desktop\ProiectColectiv\CanMyPcRunIt>
     ```
-    To exit the virtual environment, use the command: 'deactivate'. This will return you to the base directory: `PS C:\Users\Adi\Desktop\ProiectColectiv\CanMyPcRunIt>`
+    To exit the virtual environment, use the command: `deactivate`. This will return you to the base directory: `PS C:\Users\Adi\Desktop\ProiectColectiv\CanMyPcRunIt>`
 
     NOTE: Do not exit the virtual environment unless you have a specific reason.
 
