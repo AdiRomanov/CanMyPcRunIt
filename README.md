@@ -8,6 +8,7 @@ Pentru a rula aplicația, este important să folosim `virtualenv` pentru a crea 
 
 1. **Instalare Python și Virtualenv**
    - Instalați Python pe sistemul vostru.
+   - Instalați React: https://nodejs.org/en
    - Deschideți terminalul și executați: `pip install virtualenv`
 
 2. **Configurare Virtual Environment**
@@ -86,6 +87,7 @@ To run the application, it is important to use `virtualenv` to create isolated s
 
 1. **Install Python and Virtualenv**
    - Install Python on your system.
+   - Install React on your system: https://nodejs.org/en
    - Open the terminal and run: `pip install virtualenv`
 
 2. **Configure Virtual Environment**
