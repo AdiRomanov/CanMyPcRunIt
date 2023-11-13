@@ -16,7 +16,7 @@ Pentru a rula aplicația, este important să folosim `virtualenv` pentru a crea 
    - Directorul `venv` este default un fisier inclus in .gitignore asa ca nu va fi uploadat pe GitHub.
    - (Eu foloses PyCharm Professional, e gratis pentru studenti):
      ```bash
-     python -m venv venv
+     python -m venv venv (comanda asta se foloseste o singura data, la inceput, dupa o sa aveti fisierul venv creat si va fi nevoie numai de urmatoarele doua comenzi)
      cd .\venv\
      .\Scripts\activate
      ```
@@ -94,7 +94,7 @@ To run the application, it is important to use `virtualenv` to create isolated s
    - The `venv` directory it's by default included in the .gitignore file, its not going to be uploaded on GitHub.
    - (I use Pycharm Professional, it is free for students):
      ```bash
-     python -m venv venv
+     python -m venv venv (this command is used only once, at the begging, after that you will have the venv folder created and you will need only the following two commands)
      cd .\venv\
      .\Scripts\activate
      ```
