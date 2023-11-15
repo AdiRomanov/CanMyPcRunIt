@@ -1,0 +1,68 @@
+.circle-wrapper {
+	width: 100%;
+	height: 100%;
+	padding-top: 10vh;
+	display: flex;
+	justify-content: center;
+	padding-left: 50px;
+	background-image: "https://s3-alpha-sig.figma.com/img/6dee/48ec/bdfae73590170e9ef1831d0d4ebf8803?Expires=1701043200&Signature=KMrbJIcC23fVOwDUtXktW420t-pDguuAhe98jOi~NhwYzZZ7fOyVTSwwToXsxatoEwUBkkIEwsc3irn~7cq1elhpsQR3IRSW-~Q5mB50aQJy79jvBN6CakQM0h5FtkL1C5zj1qCtaceDE6U4NX2CQEH~R7btZ1Cf2gGYQGZc6YL3XxjTWF6TFlnBlw-pQfLiGvI6MQdc5Rs994Z-SQ4XEwTlCyyNnKmp0c2CTBWZ9kV6gppwnA9KieyrzHKEEd3zYs-oFH5k14gA6r-NYlX-CwKvY58IhnCq0J2uQALu8a0UflKuEyt77WmZiaewkvC67g4gthPKAoEyqumAsa4NFw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4";
+}
+.circle {
+	width: 50vh;
+	height: 50vh;
+	background: linear-gradient(#33ccff, #ff0066);
+	border-radius: 50%;
+	animation: animate 0.5s linear infinite;
+}
+
+@keyframes animate {
+	from {
+		transform: rotate(0deg);
+	}
+	to {
+		transform: rotate(360deg);
+	}
+}
+
+.circle:after {
+	content: "";
+	position: absolute;
+	top: 35px;
+	right: 35px;
+	bottom: 35px;
+	left: 35px;
+	border-radius: 50%;
+	background-color: black;
+}
+
+.circle span {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background: linear-gradient(#33ccff, #ff0066);
+	border-radius: 50%;
+}
+
+.circle span:nth-child(1) {
+	filter: blur(5px);
+}
+
+.circle span:nth-child(2) {
+	filter: blur(10px);
+}
+
+.circle span:nth-child(3) {
+	filter: blur(20px);
+}
+
+.circle span:nth-child(4) {
+	filter: blur(55px);
+}
+
+.search {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+	right: 335px;
+}
