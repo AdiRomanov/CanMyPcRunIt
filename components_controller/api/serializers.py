@@ -8,10 +8,12 @@ class DummyGameSerializer(serializers.ModelSerializer):
         fields = ('id', 'name', 'description', 'rating')
 
 
+"""
 class GameSerializer(serializers.ModelSerializer):
     class Meta:
         model = Game
         fields = '__all__'
+"""
 
 
 class InfoSerializer(serializers.ModelSerializer):

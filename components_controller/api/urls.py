@@ -6,7 +6,7 @@ router = DefaultRouter()
 router.register(r'games', GameViewSet)
 router.register(r'minimum-requirements', MinimumRequirementsViewSet)
 router.register(r'recommended-requirements', RecommendedRequirementsViewSet)
-router.register(r'games', GameViewSet)
+
 
 urlpatterns = [
     # path('dummygame', DummyGameView.as_view()),

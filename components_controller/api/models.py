@@ -35,13 +35,14 @@ class RecommendedRequirements(models.Model):
     storage_rec = models.FloatField(null=True, blank=True)
 
 
-class Game(models.Model):
+"""class Game(models.Model):
     info = models.OneToOneField(Info, on_delete=models.CASCADE)
     minimum_requirements = models.OneToOneField(MinimumRequirements, on_delete=models.CASCADE)
     recommended_requirements = models.OneToOneField(RecommendedRequirements, on_delete=models.CASCADE)
 
     def __str__(self):
         return self.info.name
+"""
 
 
 class Game(models.Model):
