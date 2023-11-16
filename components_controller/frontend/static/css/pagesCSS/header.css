@@ -6,11 +6,12 @@
 	opacity: 1;
 }
 .header {
-	background-color: red;
+	background-color: rgba(95, 105, 137, 0.34);
 	width: 100%;
 	display: grid;
 	grid-template-columns: 1fr 1fr;
 	gap: 0 100px;
+	border-radius: 0 0 50px 50px;
 }
 
 .menu-list {
@@ -20,9 +21,18 @@
 }
 
 .type1 {
-	padding: 10px 20px;
+	padding: 10px 50px;
 	border-radius: 15px;
-	background-color: #2e287b;
+	background-color: rgba(95, 105, 137, 0.34);
 	cursor: pointer;
-	color: #d9d9d9;
+	color: white;
+}
+.type1:hover {
+	background-color: rgb(25, 27, 36);
+}
+
+.logo {
+	display: flex;
+	flex-direction: column;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
