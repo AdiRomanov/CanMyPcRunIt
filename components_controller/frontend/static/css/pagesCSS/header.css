@@ -20,17 +20,6 @@
 	align-items: center;
 }
 
-.type1 {
-	padding: 10px 50px;
-	border-radius: 15px;
-	background-color: rgba(95, 105, 137, 0.34);
-	cursor: pointer;
-	color: white;
-}
-.type1:hover {
-	background-color: rgb(25, 27, 36);
-}
-
 .logo {
 	display: flex;
 	flex-direction: column;
