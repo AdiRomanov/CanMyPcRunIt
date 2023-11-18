@@ -23,7 +23,7 @@ export default class Pages extends Component {
 				<Routes>
 					<Route path="/" element={<Home />} />
 					<Route path="/popular-games" element={<PopularGamesPage />} />
-					<Route path="/search-game" element={<GameSearch />} />
+					<Route path="/search-game/:query" element={<SearchPage />} />
 				</Routes>
 			</Router>
 		);

@@ -1,17 +1,20 @@
 import React from "react";
+import GameSearch from "../GameSearch";
 const Circle = () => {
 	return (
-		<div className="circle-wrapper">
-			<div className="circle">
-				<span></span>
-				<span></span>
-				<span></span>
-				<span></span>
+		<>
+			<div className="circle-wrapper">
+				<div className="circle">
+					<span></span>
+					<span></span>
+					<span></span>
+					<span></span>
+				</div>
 			</div>
-			<div className="search">
-				<input style={{ width: "200px" }}></input>
+			<div className="circle-wrapper search">
+				<GameSearch />
 			</div>
-		</div>
+		</>
 	);
 };
 

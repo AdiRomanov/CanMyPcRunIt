@@ -4,7 +4,6 @@
 	padding-top: 10vh;
 	display: flex;
 	justify-content: center;
-	padding-left: 50px;
 }
 .circle {
 	width: 50vh;
@@ -59,9 +58,7 @@
 }
 
 .search {
-	display: flex;
-	justify-content: center;
-	align-items: center;
 	position: relative;
-	right: 335px;
+	bottom: 310px;
+	padding: 0;
 }

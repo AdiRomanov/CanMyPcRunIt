@@ -1,4 +1,5 @@
 @import "./pagesCSS/index.css";
+@import "./smallComponentsCSS/index.css";
 
 * {
 	margin: 0;
