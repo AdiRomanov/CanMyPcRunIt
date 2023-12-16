@@ -6,17 +6,16 @@ from rest_framework.decorators import action
 from rest_framework.response import Response
 
 from .forms import GameSearchForm
-from .models import DummyGame, Game, Info, MinimumRequirements, RecommendedRequirements
-from .serializers import DummyGameSerializer, GameSerializer, InfoSerializer
-from .serializers import MinimumRequirementsSerializer, RecommendedRequirementsSerializer
-from .utils import search_games
+from .models import Game
+from .serializers import GameSerializer
+from .utils import search_games, search_game_by_name
 
 
 # Create your views here.
 
 class SearchGameViewSet(viewsets.ModelViewSet):
-    queryset = Game.objects.all()  # Replace 'Game' with your actual model
-    serializer_class = GameSerializer  # Replace with your actual serializer
+    queryset = Game.objects.all()
+    serializer_class = GameSerializer
 
     @action(detail=False, methods=['get'])
     def search(self, request):
@@ -29,27 +28,16 @@ class SearchGameViewSet(viewsets.ModelViewSet):
         return Response({'results': serializer.data})
 
 
-class DummyGameView(generics.ListAPIView):
-    queryset = DummyGame.objects.all()
-    serializer_class = DummyGameSerializer
-
-
 class GameViewSet(viewsets.ModelViewSet):
     queryset = Game.objects.all()
     serializer_class = GameSerializer
 
 
-class InfoViewSet(viewsets.ModelViewSet):
-    queryset = Info.objects.all()
-    serializer_class = InfoSerializer
+def search_game_by_name_view(request, name):
+    results = search_game_by_name(name)
+    # Process or format the results as needed
+    return JsonResponse({'results': list(results)})
 
 
-class MinimumRequirementsViewSet(viewsets.ModelViewSet):
-    queryset = MinimumRequirements.objects.all()
-    serializer_class = MinimumRequirementsSerializer
 
-
-class RecommendedRequirementsViewSet(viewsets.ModelViewSet):
-    queryset = RecommendedRequirements.objects.all()
-    serializer_class = RecommendedRequirementsSerializer
 

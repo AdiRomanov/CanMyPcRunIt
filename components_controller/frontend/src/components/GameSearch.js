@@ -34,7 +34,7 @@ const GameSearch = () => {
 	const handleData = (data) => {
 		// Find the matching game by info.name
 		const matchingGame = data.find(
-			(game) => game.info.name.toLowerCase() === query.toLowerCase()
+			(game) => game.name.toLowerCase() === query.toLowerCase()
 		);
 		setResults(data);
 		setMatchingGame(matchingGame);
@@ -52,11 +52,12 @@ const GameSearch = () => {
 
 		try {
 			// Add a delay of 1.5 seconds before making the API request
-			await new Promise((resolve) => setTimeout(resolve, 1500));
+			// await new Promise((resolve) => setTimeout(resolve, 1500));
 
 			// Perform a fetch or use your preferred method to send a request to the Django backend
 			const response = await fetch(
 				`http://127.0.0.1:8000/api/search-game/?q=${query}`
+					//'http://127.0.0.1:8000/api/search-game-by-name/?q=${query}'
 			);
 			const data = await handleApiResponse(response);
 
