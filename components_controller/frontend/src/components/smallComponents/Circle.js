@@ -1,6 +1,9 @@
 import React from "react";
 import GameSearch from "../GameSearch";
 const Circle = () => {
+	/**
+     * Componenta reprezentând un cerc stilizat cu o căutare de jocuri în interior.
+     */
 	return (
 		<>
 			<div className="circle-wrapper">

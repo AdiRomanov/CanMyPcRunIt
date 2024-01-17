@@ -1,4 +1,6 @@
+/* Stilurile pentru animația cercului */
 .circle-wrapper {
+	/* Ocupă 100% din lățime și înălțime, cu o distanță de la partea de sus */
 	width: 100%;
 	height: 100%;
 	padding-top: 10vh;
@@ -6,14 +8,16 @@
 	justify-content: center;
 }
 .circle {
+	/* Dimensiunile și aspectul cercului principal */
 	width: 50vh;
 	height: 50vh;
-	background: linear-gradient(#33ccff, #ff0066);
+	background: linear-gradient(#33ccff, #ff0066); /* Gradient de culoare */
 	border-radius: 50%;
-	animation: animate 0.5s linear infinite;
+	animation: animate 0.5s linear infinite; /* Animație de rotație continuă */
 }
 
 @keyframes animate {
+	/* Definirea animației de rotație */
 	from {
 		transform: rotate(0deg);
 	}
@@ -23,6 +27,7 @@
 }
 
 .circle:after {
+	/* Adăugarea unui cerc suplimentar în interiorul cercului principal */
 	content: "";
 	position: absolute;
 	top: 35px;
@@ -30,7 +35,7 @@
 	bottom: 35px;
 	left: 35px;
 	border-radius: 50%;
-	background-color: black;
+	background-color: black; /* Culoare de fundal neagră */
 }
 
 .circle span {
@@ -41,24 +46,26 @@
 	border-radius: 50%;
 }
 
+/* Stilurile pentru expansele concentrice ale cercului */
 .circle span:nth-child(1) {
-	filter: blur(5px);
+	filter: blur(5px); /* Efect de estompare pentru primul spațiu */
 }
 
 .circle span:nth-child(2) {
-	filter: blur(10px);
+	filter: blur(10px); /* Efect de estompare pentru al doilea spațiu */
 }
 
 .circle span:nth-child(3) {
-	filter: blur(20px);
+	filter: blur(20px); /* Efect de estompare pentru al treilea spațiu */
 }
 
 .circle span:nth-child(4) {
-	filter: blur(55px);
+	filter: blur(55px); /* Efect de estompare pentru al patrulea spațiu */
 }
 
+/* Stiluri specifice pentru un element cu clasa "search" */
 .search {
 	position: relative;
-	bottom: 310px;
+	bottom: 310px; /* Coborâre în jos cu o valoare specifică */
 	padding: 0;
 }

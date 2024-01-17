@@ -4,8 +4,8 @@ from .views import GameViewSet, search_game_by_name_view
 from .views import SearchGameViewSet
 
 router = DefaultRouter()
-router.register(r'games', GameViewSet)
-router.register(r'search-game', SearchGameViewSet)
+router.register(r'games', GameViewSet)  # Setează ruta pentru resursa 'jocuri' utilizând GameViewSet
+router.register(r'search-game', SearchGameViewSet)  # Setează ruta pentru resursa 'cauta-joc' utilizând SearchGameViewSet
 
 urlpatterns = [
     path('', include(router.urls)),

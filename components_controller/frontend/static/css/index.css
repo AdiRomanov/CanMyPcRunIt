@@ -2,9 +2,9 @@
 @import "./smallComponentsCSS/index.css";
 
 * {
-	margin: 0;
+	margin: 0; /* Eliminarea marginilor implicite pentru toate elementele */
 }
 body {
-	background-image: url("../images/blue-galaxy-background1.jpg");
-	overflow-x: hidden;
+	background-image: url("../images/blue-galaxy-background1.jpg"); /* Imaginea de fundal a corpului paginii */
+	overflow-x: hidden; /* Ascunderea scrollbar-ului orizontal pentru evitarea derulării orizontale */
 }

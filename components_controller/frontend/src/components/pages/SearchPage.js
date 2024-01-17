@@ -2,12 +2,17 @@ import React from "react";
 import { useLocation } from "react-router-dom";
 
 const SearchPage = () => {
+		    /**
+     * Componenta reprezentând pagina de căutare.
+     * Extrage informațiile despre jocul potrivit din obiectul 'state'.
+     * Afisează detaliile jocului sau un mesaj de absență a rezultatelor potrivite.
+     */
 	const { state } = useLocation();
 
-	// Check if state contains the matchingGame object
+	// Verifică dacă obiectul 'state' conține jocul potrivit
 	const matchingGame = state && state.matchingGame ? state.matchingGame : null;
 
-	// Use matchingGame as needed in your component
+	// Utilizează 'matchingGame' după cum este necesar în componentă
 
 	return (
 	  <div>

@@ -1,19 +1,25 @@
+/* Stilurile pentru învelișul (wrapper) antetului */
 .header-wrapper {
-	opacity: 0;
-	width: 100vw;
+	opacity: 0; /* Opacitate inițială la 0 */
+	width: 100vw; /* Lățime de 100vw (100% din lățimea vizibilă a ecranului) */
 }
+
+/* Stilurile pentru afișarea învelișului la interacțiunea de hover */
 :hover {
 	opacity: 1;
 }
+
+/* Stilurile pentru antet */
 .header {
-	background-color: rgba(95, 105, 137, 0.34);
-	width: 100%;
-	display: grid;
-	grid-template-columns: 1fr 1fr;
-	gap: 0 100px;
-	border-radius: 0 0 50px 50px;
+    background-color: rgba(95, 105, 137, 0.34); /* Culoare de fundal cu opacitate */
+    width: 100%; /* Lățime de 100% */
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* Două coloane egale */
+    gap: 0 100px; /* Spațiere între coloane și elementele din ele */
+    border-radius: 0 0 50px 50px; /* Bordură cu colțuri rotunjite */
 }
 
+/* Stilurile pentru logo */
 .menu-list {
 	display: flex;
 	justify-content: space-evenly;

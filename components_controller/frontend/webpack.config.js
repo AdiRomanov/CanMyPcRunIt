@@ -1,6 +1,13 @@
 const path = require("path");
 const webpack = require("webpack");
 
+/**
+ * Configurația Webpack pentru construcția și optimizarea proiectului frontend.
+ *
+ * @param {object} env - Variabilele de mediu transmise către configurație.
+ * @param {object} argv - Argumente adiționale transmise către configurație.
+ * @returns {object} - Configurația finală a Webpack.
+ */
 module.exports = (env, argv) => {
   return {
     entry: "./src/index.js",

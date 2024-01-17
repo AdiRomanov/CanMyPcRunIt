@@ -3,6 +3,12 @@ import { render } from "react-dom";
 import Pages from "./Pages";
 
 export default class App extends Component {
+		/**
+     * Componenta principală a aplicației.
+	 * Metoda render():
+	 * - Returnează conținutul aplicației, inclusiv componenta 'Pagini'.
+	 *
+	 */
 	constructor(props) {
 		super(props);
 	}
@@ -16,5 +22,6 @@ export default class App extends Component {
 	}
 }
 
+// Renderează aplicația în elementul HTML cu id-ul "aplicatie".
 const appDiv = document.getElementById("app");
 render(<App />, appDiv);

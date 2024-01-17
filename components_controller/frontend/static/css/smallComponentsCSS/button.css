@@ -1,14 +1,16 @@
+/* Stilurile pentru butoanele de tip 1 */
 .type1 {
-	padding: 10px 50px;
-	border-radius: 15px;
-	background-color: rgba(95, 105, 137, 0.34);
-	cursor: pointer;
-	color: white;
+    padding: 10px 50px; /* Padding pentru dimensiuni confortabile */
+    border-radius: 15px; /* Coloane rotunjite pentru aspect plăcut */
+    background-color: rgba(95, 105, 137, 0.34); /* Culoare de fundal cu opacitate */
+    cursor: pointer; /* Indicare de cursor la interacțiune */
+    color: white; /* Culoarea textului */
 }
 .type1:hover {
-	background-color: rgb(25, 27, 36);
+	background-color: rgb(25, 27, 36); /* Culoare de fundal la interacțiunea de hover */
 }
 
+/* Stilurile pentru butoanele de tip 2 */
 .type2 {
 	box-shadow: inset 0px 1px 0px 0px #ffffff;
 	background: linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%);
@@ -27,10 +29,10 @@
 	padding: 10px 20px;
 }
 .type2:hover {
-	background: linear-gradient(to bottom, #f6f6f6 5%, #ffffff 100%);
-	background-color: #f6f6f6;
+    background: linear-gradient(to bottom, #f6f6f6 5%, #ffffff 100%); /* Schimbare de gradient la interacțiunea de hover */
+    background-color: #f6f6f6; /* Culoare de fundal la interacțiunea de hover */
 }
 .type2:active {
-	position: relative;
-	top: 1px;
+	position: relative; /* Poziționare relativă pentru efectul de apăsare */
+    top: 1px; /* Deplasare în jos cu 1px la apăsare */
 }
