@@ -10,7 +10,7 @@ from django.views.decorators.csrf import csrf_exempt
 from .forms import GameSearchForm
 from .models import Game
 from .serializers import GameSerializer
-from .utils import search_games, search_game_by_name
+from .utils import search_games, search_game_by_name, get_cpu_score
 
 import json
 
@@ -52,12 +52,38 @@ def get_csrf_token(request):
         return JsonResponse({'error': 'Invalid request method'}, status=400)
 
 
+def determine_compatibility(pc_specs, game_name):
+    game = search_game_by_name(game_name)
+
+    if game is None:
+        return {"error": f"Game '{game_name}' not found in the database"}
+
+    # Extract components from PC specs
+    gpu_model = pc_specs.get('GPU', '')
+    cpu_model = pc_specs.get('CPU', '')
+    total_ram = pc_specs.get('RAM', '')
+    total_storage = pc_specs.get('storage', '')
+
+    cpu_model_score = get_cpu_score(cpu_model)
+    print(cpu_model_score)
+
+    return {
+
+    }
+
+
 @csrf_exempt  # This decorator is used to exempt the view from CSRF protection
 @require_POST
 def receive_data(request):
     if request.method == 'POST':
         try:
             data = json.loads(request.body.decode('utf-8'))
+
+            # to be changed
+            dummy_game = "Red Dead Redemption 2"
+
+            # determine_compatibility(data, dummy_game)
+
             # Process the received data as needed
             # For now, let's just print it
             print("Received data:", data)

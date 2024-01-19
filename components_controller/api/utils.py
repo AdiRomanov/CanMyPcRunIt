@@ -1,6 +1,6 @@
 # games/utils.py
 from django.db.models import Q
-from .models import Game
+from .models import Game, CpuScore
 
 
 def search_games(query):
@@ -31,5 +31,11 @@ def search_game_by_name(name):
     return Game.objects.filter(name__icontains=name).values()
 
 
+def search_cpu_by_model(model):
+    cpu = CpuScore.objects.filter(model__icontains=model).values()
+    return cpu.score
 
 
+def get_cpu_score(cpu_name):
+    model = cpu_name.split(" ")[2].strip()
+    return search_cpu_by_model(model)

@@ -3,6 +3,12 @@ from django.db import models
 
 # Create your models here.
 
+class CpuScore(models.Model):
+    manufacturer = models.CharField(max_length=1500, default='DefaultName')
+    model = models.CharField(max_length=1500, default='DefaultNameM')
+    score = models.FloatField(null=True, blank=True)
+
+
 class Game(models.Model):
     """
     Această clasă definește modelul pentru jocuri în cadrul aplicației.
@@ -28,4 +34,3 @@ class Game(models.Model):
         Metodă care returnează reprezentarea șir a obiectului Game, utilizată pentru afișare în administrarea Django.
         """
         return self.name
-
