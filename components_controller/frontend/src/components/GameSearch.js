@@ -2,6 +2,10 @@ import React, { useState, useEffect } from "react";
 import Button from "./smallComponents/Button";
 import { Link, useNavigate } from "react-router-dom";
 const GameSearch = () => {
+	/**
+     * Componenta care gestionează căutarea jocurilor pe pagina principală.
+     * Folosește un câmp de intrare, un buton de căutare și afișează rezultatele.
+     */
 	const [query, setQuery] = useState("");
 	const [results, setResults] = useState([]);
 	const [loading, setLoading] = useState(false);
@@ -10,7 +14,8 @@ const GameSearch = () => {
 	const [matchingGame, setMatchingGame] = useState(null);
 	const navigate = useNavigate();
 
-	// Function to handle the API response
+
+	// Funcție pentru a gestiona răspunsul API-ului
 	const handleApiResponse = async (response) => {
 		try {
 			if (!response.ok) {
@@ -24,15 +29,15 @@ const GameSearch = () => {
 		} catch (error) {
 			setError("An error occurred while fetching search results.");
 			console.error("Error:", error);
-			throw error; // Re-throw the error to stop further processing
+			throw error; // Aruncă din nou eroarea pentru a opri procesarea ulterioară
 		} finally {
 			setLoading(false);
 		}
 	};
 
-	// Function to process the data from the API
+	// Funcție pentru a procesa datele de la API
 	const handleData = (data) => {
-		// Find the matching game by info.name
+		// Găsește jocul potrivit după info.name
 		const matchingGame = data.find(
 			(game) => game.name.toLowerCase() === query.toLowerCase()
 		);
@@ -43,7 +48,7 @@ const GameSearch = () => {
 		}
 	};
 
-	// Function to handle the search
+	// Funcție pentru a gestiona căutarea
 	const handleSearch = async () => {
 		setLoading(true);
 
@@ -51,10 +56,10 @@ const GameSearch = () => {
 		setSearched(true);
 
 		try {
-			// Add a delay of 1.5 seconds before making the API request
-			// await new Promise((resolve) => setTimeout(resolve, 1500));
+			// Adaugă un întârziere de 1.5 secunde înainte de a face cererea API
+            // await new Promise((rezolva) => setTimeout(rezolva, 1500));
 
-			// Perform a fetch or use your preferred method to send a request to the Django backend
+            // Realizează o cerere fetch sau folosește metoda preferată pentru a trimite o cerere către backend-ul Django
 			const response = await fetch(
 				`http://127.0.0.1:8000/api/search-game/?q=${query}`
 					//'http://127.0.0.1:8000/api/search-game-by-name/?q=${query}'

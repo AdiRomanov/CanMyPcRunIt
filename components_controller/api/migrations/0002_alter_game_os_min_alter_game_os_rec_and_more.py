@@ -4,6 +4,9 @@ from django.db import migrations, models
 
 
 class Migration(migrations.Migration):
+    """
+    Această migrație modifică câteva câmpuri în modelul Game.
+    """
 
     dependencies = [
         ('api', '0001_initial'),

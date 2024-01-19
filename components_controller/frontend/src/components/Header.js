@@ -4,6 +4,10 @@ import { FaHatWizard } from "react-icons/fa";
 import { FaComputer } from "react-icons/fa6";
 
 const Header = () => {
+	/**
+     * Componenta reprezentând antetul aplicației.
+     * Include logo-ul și o listă de butoane.
+     */
 	const myArray = ["thing 1", "thing 2", "thing 3"];
 	const handleClick = (item) => {
 		console.log("Div clicked!" + item);

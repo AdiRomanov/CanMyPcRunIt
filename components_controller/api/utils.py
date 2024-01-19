@@ -4,6 +4,9 @@ from .models import Game
 
 
 def search_games(query):
+    """
+    Funcție care returnează jocurile care corespund interogării specificate.
+    """
     return Game.objects.filter(
         Q(name__icontains=query) |
         Q(description__icontains=query) |
@@ -22,6 +25,9 @@ def search_games(query):
 
 
 def search_game_by_name(name):
+    """
+    Funcție care returnează informațiile despre jocurile care conțin numele specificat.
+    """
     return Game.objects.filter(name__icontains=name).values()
 
 

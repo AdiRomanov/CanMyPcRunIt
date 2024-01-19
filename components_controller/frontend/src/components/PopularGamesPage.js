@@ -7,6 +7,10 @@ import React, { Component} from "react";
  */
 
 export default class PopularGamesPage extends Component {
+    /**
+     * Componenta care reprezintă pagina de jocuri populare.
+     * Această pagină poate fi folosită ca exemplu pentru structura și funcționarea ulterioară.
+     */
     constructor(props) {
         super(props);
     }

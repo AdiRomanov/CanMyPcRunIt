@@ -1,6 +1,7 @@
+/* Stilurile pentru învelișul căutării de pe pagina de start */
 .home-page-search-wrapper {
 	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
+    flex-direction: column; /* Așezarea elementelor într-o coloană */
+    justify-content: center; /* Alinierea pe axa verticală */
+    align-items: center; /* Alinierea pe axa orizontală */
 }

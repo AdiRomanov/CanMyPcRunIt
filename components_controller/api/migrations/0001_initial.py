@@ -4,15 +4,21 @@ from django.db import migrations, models
 
 
 class Migration(migrations.Migration):
+    """
+    Această migrație creează modelul Game în baza de date.
+    """
 
     initial = True
 
     dependencies = [
+        # Lista de migrări de care depinde această migrație
+        # (în acest caz, nu depinde de nicio migrație anterioară)
     ]
 
     operations = [
         migrations.CreateModel(
             name='Game',
+            # Definirea câmpurilor modelului
             fields=[
                 ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
                 ('name', models.CharField(default='DefaultName', max_length=255)),
