@@ -5,27 +5,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Can My PC Run It?</title>
     {% load static %}
-
-    <!-- Includerea bibliotecii jQuery -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-
-    <!-- Importul fontului Roboto de pe Google Fonts -->
     <link
       rel="stylesheet"
       href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
     />
-    <!-- Importul fișierului CSS specific pentru index -->
-    <link rel="stylesheet" type="text/css" href='{% static "css/index.css" %}'
-    />
+    <link rel="stylesheet" type="text/css" href='{% static "css/index.css" %}' />
+    <script>
+      // Add a CSRF token variable to the global scope
+      window.csrf_token = "{{ csrf_token }}";
+    </script>
   </head>
   <body>
-  <!-- Div-ul principal cu id-ul "main" -->
     <div id="main">
-      <!-- Div-ul cu id-ul "app" unde va fi montată aplicația React -->
       <div id="app"></div>
     </div>
 
-    <!-- Includerea fișierului principal JavaScript pentru frontend -->
     <script src='{% static "frontend/main.js" %}'></script>
   </body>
 </html>
