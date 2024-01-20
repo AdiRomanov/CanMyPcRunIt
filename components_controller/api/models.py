@@ -9,6 +9,27 @@ class CpuScore(models.Model):
     score = models.FloatField(null=True, blank=True)
 
 
+class CPU(models.Model):
+    manufacturer = models.CharField(max_length=1500, default='DefaultName')
+    model = models.CharField(max_length=1500, default='DefaultNameM')
+    score = models.FloatField(null=True, blank=True)
+
+    class Meta:
+        managed = False
+        db_table = 'cpu_specs'
+
+
+class GPU(models.Model):
+    manufacturer = models.CharField(max_length=1500, default='DefaultName')
+    model = models.CharField(max_length=1500, default='DefaultNameM')
+    score = models.FloatField(null=True, blank=True)
+    size = models.IntegerField(null=True, blank=True)
+
+    class Meta:
+        managed = False
+        db_table = 'gpu_specs'
+
+
 class Game(models.Model):
     """
     Această clasă definește modelul pentru jocuri în cadrul aplicației.
