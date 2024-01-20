@@ -1,0 +1,67 @@
+# CanMyPcRunIt
+
+Limba Romana
+
+GHID PENTRU MEDIUL DE LUCRU!
+
+Pentru a da run la aplicatie e importat sa folosim virtualenv ca sa avem spatii izolate de python
+e important pentru ca o sa folosim multe librarii cu versiuni specifice si sa nu existe erori cu alte versiuni 
+pe care s-ar putea sa le aveti instalate.
+
+Dupa ce instalati python intrati in CMD si scrieti: pip install virtualenv
+
+Cand o sa fiti in proiect ar trebui sa arate cam asa in terminalul IDE-ului in caul meu (PyCharm Professional, aveti gratis ca studenti):
+PS C:\Users\Adi\Desktop\ProiectColectiv\CanMyPcRunIt>
+Ca sa intrati intr-un virtual enviroment scrieti:
+1)  cd .\venv\
+2) .\Scripts\activate
+
+Dupa "cd.." terminalul ar trebui sa arate asa:
+
+(venv) PS C:\Users\Adi\Desktop\ProiectColectiv\CanMyPcRunIt> 
+
+Are inainte de toate "(venv)".
+Pentru a iesi din (venv) scrieti pur si simplu: deactivate
+Asa o sa va intoarceti la: PS C:\Users\Adi\Desktop\ProiectColectiv\CanMyPcRunIt>
+
+
+!!! Daca NU aveti un motiv anume sa iesiti din (venv) nu iesiti :).
+
+
+Acum ca am ajuns in virtual env trebuie sa ne asiguram ca avem toate librariile necesare din proiect:
+
+Intrati in folderul de baza, la mine(trebuie sa fiti in folderul asta si sa fie (venv) cand scrieti urmatoarele comenzi):
+(venv) PS C:\Users\Adi\Desktop\ProiectColectiv\CanMyPcRunIt>
+	Aici o sa se afle fisierul requirements.txt unde sunt toate librariile de care avem nevoie.
+	Pentru a le instala automat folositi comanda: pip install -r .\requirements.txt 
+	(e important sa scrieti comanda de fiecare data cand intrati sa lucrati la proiect ca sa vedeti daca aveti totul up-to-date)
+	Dupa ce folositi: pip install ceva_librarie
+		e IMPORTANT sa dati update la fisierul requirements.txt cu comanda: pip freeze > requirements.txt 
+ 
+
+Acum ca avem si (venv) pentru proiect si toate librariile putem porni serverul local:
+	Pentru a porni Django din folderul de baza :
+	1) cd .\components_controller\
+	(venv) PS C:\Users\Adi\Desktop\ProiectColectiv\CanMyPcRunIt\components_controller> 
+	2) python .\manage.py runserver
+	O sa va apara: Starting development server at http://127.0.0.1:8000/ <- asta e local host-ul
+	3) Ca sa opriti executia: CTRL + C
+	
+	Pentru a porni partea de front end deschideti un terminal nou(nu il inchideti pe cel cu django, e nevoie de 2 terminale in paralel)
+	Din folderul de baza:
+	1) cd .\components_controller\frontend\
+	(venv) PS C:\Users\Adi\Desktop\ProiectColectiv\CanMyPcRunIt\components_controller\frontend>
+	2) npm run dev
+	Comanda asta o sa faca update la site de fiecare data cand dati save la un fisier (CTRL + S).
+	Se opreste executia tot cu CTRL + C si apoi Y
+	3) Daca nu vreti sa se faca update la fiecare save puteti scrie mai mult cod
+	Si cand vreti sa faceti update folositi: npm run build (aceasta se executa o singura data, face update si nu ramande niciun proces pornit)
+
+
+
+
+
+
+
+
+

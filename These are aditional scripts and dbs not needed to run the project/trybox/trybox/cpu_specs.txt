@@ -1,0 +1,12412 @@
+1.
+Intel
+Core i9 13900KF
+94.98
+2.
+Intel
+Core i9 13900K
+94.657
+3.
+Amd
+Ryzen 9 7950X
+91.778
+4.
+Amd
+Ryzen 9 7900X
+82.262
+5.
+Intel
+Core i7 13700K
+80.823
+6.
+Intel
+Core i7 13700KF
+80.745
+7.
+Intel
+Core i9 12900KS
+76.899
+8.
+Intel
+Core i9 12900K
+72.772
+9.
+Intel
+Core i9 12900KF
+71.678
+10.
+Amd
+Ryzen 7 7700X
+70.223
+11.
+Intel
+Core i5 13600K
+69.699
+12.
+Intel
+Core i5 13600KF
+69.399
+13.
+Intel
+Core i7 12700K
+65.459
+14.
+Intel
+Core i7 12700KF
+64.649
+15.
+Intel
+Core i9 12900
+64.564
+16.
+Amd
+Ryzen 9 5950X
+63.898
+17.
+Intel
+Core i9 13900KS
+63.096
+18.
+Amd
+Ryzen 5 7600X
+61.493
+19.
+Intel
+Core i7 12700F
+59.538
+20.
+Amd
+Ryzen 9 5900X
+59.484
+21.
+Intel
+Core i5 12600KF
+58.05
+22.
+Intel
+Core i5 12600K
+57.284
+23.
+Amd
+Ryzen 9 7950X3D
+57.151
+24.
+Intel
+Core i7 12700
+55.068
+25.
+Intel
+Core i9 11900K
+54.823
+26.
+Intel
+Core i9-7980XE
+54.82
+27.
+Intel
+Core i9 11900KF
+54.227
+28.
+Amd
+Ryzen 9 3950X
+53.656
+29.
+Amd
+Ryzen 9 7900X3D
+53.231
+30.
+Amd
+Ryzen 9 7900
+52.032
+31.
+Intel
+Core i7 11700K
+51.959
+32.
+Amd
+Ryzen 7 5800X
+51.394
+33.
+Intel
+Core i5 12600
+51.045
+34.
+Intel
+Core i7 11700KF
+50.867
+35.
+Amd
+Ryzen 7 5800X3D
+50.609
+36.
+Intel
+Core i9 13900
+49.537
+37.
+Intel
+Core i9 11900
+49.14
+38.
+Intel
+Core i9 10900KF
+48.46
+39.
+Amd
+Ryzen 7 7800X3D
+48.326
+40.
+Intel
+Core i9 10900K
+48.151
+41.
+Amd
+Ryzen 7 7700
+48.144
+42.
+Intel
+Core i7 11700F
+47.879
+43.
+Intel
+Core i7 11700
+47.655
+44.
+Amd
+Ryzen 9 3900X
+47.575
+45.
+Amd
+Ryzen 9 3900XT
+47.565
+46.
+Intel
+Core i9 10850K
+47.222
+47.
+Amd
+Ryzen 7 5800
+46.93
+48.
+Intel
+Core i5 12500
+46.89
+49.
+Intel
+Core i7 13700
+46.197
+50.
+Intel
+Core i5 11600KF
+45.681
+51.
+Intel
+Core i5 12400F
+45.597
+52.
+Intel
+Core i5 11600K
+45.572
+53.
+Intel
+Core i5 12400
+45.43
+54.
+Amd
+Ryzen 7 5700G
+44.832
+55.
+Intel
+Core i9 10900
+44.564
+56.
+Intel
+Core i9 10900F
+44.498
+57.
+Intel
+Core i7 11800H
+43.762
+58.
+Amd
+Ryzen 5 5600X
+43.562
+59.
+Intel
+Core i9-9900KS
+43.426
+60.
+Amd
+Ryzen 5 7600
+43.381
+61.
+Intel
+Core i7 10700K
+41.948
+62.
+Amd
+Ryzen 7 3800XT
+41.448
+63.
+Intel
+Core i7 10700KF
+41.179
+64.
+Amd
+Ryzen 9 5900HX
+41.111
+65.
+Amd
+Ryzen 7 3800X
+41.067
+66.
+Intel
+Core i9-9900KF
+41.052
+67.
+Intel
+Core i5 11500
+41.041
+68.
+Intel
+Core i5 13600
+41.011
+69.
+Intel
+Core i9-9900K
+40.778
+70.
+Intel
+Core i5 13500
+40.433
+71.
+Intel
+Core i9-7900X
+40.417
+72.
+Intel
+Core i5 11400F
+40.388
+73.
+Amd
+Ryzen 5 5600G
+39.647
+74.
+Intel
+Core i5 11400
+39.45
+75.
+Intel
+Core i7 10700F
+38.897
+76.
+Amd
+Ryzen 7 3700X
+38.734
+77.
+Intel
+Core i3 12100F
+38.7
+78.
+Amd
+Ryzen 7 5800H
+38.668
+79.
+Intel
+Core i9-9900
+38.467
+80.
+Intel
+Core i3 12100
+38.03
+81.
+Intel
+Core i7 10700
+37.473
+82.
+Intel
+Core i7-9700KF
+36.898
+83.
+Intel
+Core i5 11400H
+36.727
+84.
+Intel
+Core i7-9700K
+36.51
+85.
+Intel
+Core i7-8086K
+35.523
+86.
+Intel
+Core i5 11260H
+35.449
+87.
+Intel
+Core i5 10600K
+35.287
+88.
+Intel
+Core i5 10600KF
+35.207
+89.
+Intel
+Core i9 11900F
+34.77
+90.
+Intel
+Core i7-7820X
+34.75
+91.
+Intel
+Core i7-6950X
+34.176
+92.
+Amd
+Ryzen 5 3600X
+33.73
+93.
+Intel
+Core i7-9700
+33.188
+94.
+Intel
+Core i7-8700K
+33.181
+95.
+Intel
+Core i7-9700F
+33.146
+96.
+Amd
+Ryzen 5 5600H
+32.982
+97.
+Intel
+Core i7 10870H
+32.962
+98.
+Amd
+Ryzen 5 3600
+32.945
+99.
+Amd
+Ryzen 9 5900
+32.77
+100.
+Amd
+Ryzen 5 PRO 4650G
+31.96
+101.
+Intel
+Core i9 11900T
+31.568
+102.
+Intel
+Core i7-5960X
+31.491
+103.
+Intel
+Core i7-8700
+31.397
+104.
+Intel
+Core i5 11600
+31.115
+105.
+Intel
+Core i3 13100
+30.901
+106.
+Intel
+Core i7 11370H
+30.753
+107.
+Intel
+Core i9-10980XE
+30.693
+108.
+Intel
+Core i5-9600KF
+30.549
+109.
+Intel
+Core i5-9600K
+30.382
+110.
+Intel
+Core i5 10400F
+29.895
+111.
+Intel
+Xeon W-3175X
+29.357
+112.
+Intel
+Core i5 11300H
+29.296
+113.
+Intel
+Core i5 10400
+29.259
+114.
+Intel
+Core i5-8600K
+29.008
+115.
+Intel
+Core i9-10940X
+28.829
+116.
+Intel
+Core i7 10750H
+28.723
+117.
+Intel
+Xeon W-3245
+28.447
+118.
+Intel
+Core i9-10920X
+28.445
+119.
+Amd
+Ryzen 7 2700X
+28.418
+120.
+Amd
+Ryzen 7 PRO 5750G
+28.087
+121.
+Intel
+Core i7-7700K
+27.402
+122.
+Intel
+Xeon W-2295
+27.356
+123.
+Amd
+Ryzen 9 3900
+27.263
+124.
+Intel
+Core i9-9920X
+27.08
+125.
+Intel
+Core i9-9980XE
+27.049
+126.
+Intel
+Core i9-9960X
+26.731
+127.
+Intel
+Core i9-10900X
+26.598
+128.
+Intel
+Core i9-7960X
+26.498
+129.
+Amd
+Ryzen 5 PRO 5650G
+26.393
+130.
+Intel
+Xeon W-3275M
+26.254
+131.
+Intel
+Xeon W-3235
+26.174
+132.
+Intel
+Core i9-9940X
+25.994
+133.
+Amd
+Ryzen 7 1800X
+25.961
+134.
+Intel
+Core i7-6850K
+25.846
+135.
+Intel
+Core i5-8500
+25.602
+136.
+Intel
+Core i9 10910
+25.508
+137.
+Intel
+Core i7-9750H
+25.45
+138.
+Intel
+Core i7-6700K
+25.441
+139.
+Intel
+Core i5-9400F
+25.397
+140.
+Intel
+Core i5-9400
+25.226
+141.
+Intel
+Core i5-8400
+24.827
+142.
+Intel
+Core i7-6800K
+24.754
+143.
+Intel
+Core i9-9900X
+24.746
+144.
+Intel
+Core i9-7940X
+24.711
+145.
+Amd
+Ryzen 7 1700X
+24.454
+146.
+Intel
+Core i3 10100F
+24.443
+147.
+Amd
+Ryzen 5 2600X
+24.325
+148.
+Amd
+Ryzen 7 2700
+24.24
+149.
+Amd
+Ryzen 7 PRO 4750G
+24.191
+150.
+Intel
+Core i3 10100
+23.853
+151.
+Intel
+Core i7-8750H
+23.798
+152.
+Intel
+Core i7-5820K
+23.771
+153.
+Intel
+Core i7-5930K
+23.767
+154.
+Intel
+Core i7 11700T
+23.752
+155.
+Intel
+Core i5 11320H
+23.594
+156.
+Intel
+Core i7-7700
+23.557
+157.
+Intel
+Core i5-7600K
+23.556
+158.
+Intel
+Core i9-7920X
+23.414
+159.
+Amd
+Ryzen 7 PRO 5850U
+23.409
+160.
+Intel
+Xeon W-2155
+23.276
+161.
+Intel
+Xeon W-2145
+22.987
+162.
+Intel
+Core i7-4790K
+22.951
+163.
+Intel
+Core i5 10300H
+22.547
+164.
+Intel
+Xeon W-3223
+22.511
+165.
+Amd
+Ryzen 7 5800U
+22.426
+166.
+Amd
+Ryzen 5 2600
+22.323
+167.
+Intel
+Xeon E-2136
+22.319
+168.
+Amd
+Ryzen 5 1600X
+22.09
+169.
+Intel
+Core i5-6600K
+22.02
+170.
+Intel
+Core i7-9800X
+21.967
+171.
+Intel
+Core i5 11500T
+21.963
+172.
+Amd
+Ryzen 7 1700
+21.927
+173.
+Intel
+Core i5 10600
+21.874
+174.
+Amd
+Ryzen 5 5600U
+21.847
+175.
+Intel
+Core i7-6700
+21.31
+176.
+Amd
+Ryzen 3 5300G
+21.278
+177.
+Intel
+Core i7-8700B
+21.262
+178.
+Intel
+Core i3-9100F
+20.983
+179.
+Intel
+Core i7-4770K
+20.371
+180.
+Amd
+Ryzen 5 1600
+20.294
+181.
+Intel
+Core i9-9980HK
+20.029
+182.
+Intel
+Xeon W-2135
+19.976
+183.
+Intel
+Core i5 10500
+19.899
+184.
+Intel
+Core i5-9600
+19.859
+185.
+Intel
+Core i5-9300H
+19.845
+186.
+Intel
+Core i7-6900K
+19.756
+187.
+Intel
+Core i5-8300H
+19.703
+188.
+Intel
+Core i7-7740X
+19.642
+189.
+Intel
+Xeon E-2146G
+19.468
+190.
+Intel
+Core i7-4790
+19.196
+191.
+Intel
+Core i5-4690K
+19.168
+192.
+Intel
+Core i5-7500
+19.092
+193.
+Intel
+Core i9-9880H
+18.932
+194.
+Intel
+Core i5-9500
+18.847
+195.
+Intel
+Core i7-7800X
+18.801
+196.
+Intel
+Xeon E-2276M
+18.746
+197.
+Intel
+Core i5-4670K
+18.637
+198.
+Intel
+Core i7-4770
+18.41
+199.
+Intel
+Core i7 10850H
+18.269
+200.
+Intel
+Core i7-7700HQ
+18.237
+201.
+Intel
+Xeon E-2176M
+18.225
+202.
+Intel
+Core i7-8569U
+17.971
+203.
+Intel
+Core i7-9850H
+17.932
+204.
+Intel
+Core i5-8600
+17.812
+205.
+Intel
+Core i7-9700T
+17.687
+206.
+Intel
+Core i5-8500B
+17.479
+207.
+Intel
+Core i3-8350K
+17.356
+208.
+Intel
+Xeon W-2133
+17.253
+209.
+Intel
+Core i9-8950HK
+17.163
+210.
+Intel
+Xeon W-2125
+17.081
+211.
+Intel
+Core i5-6500
+17.051
+212.
+Intel
+Core i7-5775C
+17.005
+213.
+Intel
+Core i7-6700HQ
+16.93
+214.
+Intel
+Core i5-7400
+16.921
+215.
+Intel
+Core i7-8700T
+16.819
+216.
+Intel
+Core i7-8809G
+16.652
+217.
+Intel
+Core i7-8850H
+16.41
+218.
+Intel
+Core i5-4590
+15.902
+219.
+Intel
+Xeon W-3265M
+15.897
+220.
+Intel
+Core i5-9300HF
+15.851
+221.
+Intel
+Core i7-7820HK
+15.814
+222.
+Intel
+Core i7-8559U
+15.686
+223.
+Intel
+Core i5-7600
+15.505
+224.
+Intel
+Core i7-7920HQ
+15.201
+225.
+Intel
+Core i5-7300HQ
+15.156
+226.
+Intel
+Core i5-8257U
+14.995
+227.
+Intel
+Core i5-9500T
+14.928
+228.
+Intel
+Core i3-9100
+14.768
+229.
+Intel
+Core i3 10100T
+14.679
+230.
+Intel
+Core i5-4460
+14.486
+231.
+Intel
+Core i5-8259U
+14.469
+232.
+Intel
+Xeon W-2123
+14.432
+233.
+Intel
+Core i7-8705G
+14.363
+234.
+Intel
+Core i5-6600
+14.338
+235.
+Intel
+Core i3-8100B
+13.981
+236.
+Intel
+Core i5-8400H
+13.84
+237.
+Intel
+Core i7-4771
+13.809
+238.
+Intel
+Core i7-4940MX
+13.792
+239.
+Intel
+Core i5-8500T
+13.776
+240.
+Intel
+Core i7-10510U
+13.776
+241.
+Intel
+Core i5-8279U
+13.758
+242.
+Intel
+Xeon E3-1270 v3
+13.552
+243.
+Intel
+Core i3-8100
+13.503
+244.
+Intel
+Xeon E3-1245 v3
+13.461
+245.
+Intel
+Core i7-4790S
+13.426
+246.
+Intel
+Xeon E3-1275 v3
+13.389
+247.
+Intel
+Core i7-6700T
+13.24
+248.
+Intel
+Core i7-4980HQ
+13.223
+249.
+Intel
+Core i7-6770HQ
+13.175
+250.
+Intel
+Core i7-7820HQ
+13.155
+251.
+Intel
+Xeon E3-1240 v3
+13.143
+252.
+Intel
+Xeon E3-1280 v3
+13.113
+253.
+Intel
+Core i5-7600T
+13.015
+254.
+Intel
+Core i7-7567U
+13.004
+255.
+Intel
+Core i3-9100T
+12.952
+256.
+Intel
+Core i7-6920HQ
+12.861
+257.
+Intel
+Xeon E3-1230 v3
+12.794
+258.
+Intel
+Core i5-8400T
+12.785
+259.
+Intel
+Core i5-6600T
+12.754
+260.
+Intel
+Core i7-7700T
+12.711
+261.
+Intel
+Core i7-4960HQ
+12.703
+262.
+Intel
+Core i7-4770S
+12.689
+263.
+Amd
+Ryzen 3 2300X
+12.668
+264.
+Intel
+Core i5-7440HQ
+12.594
+265.
+Intel
+Core i5-4690
+12.587
+266.
+Intel
+Core i3-1005G1
+12.558
+267.
+Intel
+Core i5-4670
+12.46
+268.
+Intel
+Core i5-4690S
+12.413
+269.
+Intel
+Core i7-4930MX
+12.398
+270.
+Amd
+Ryzen 5 1500X
+12.379
+271.
+Intel
+Core i3-6320
+12.368
+272.
+Intel
+Core i7-4790T
+12.349
+273.
+Intel
+Core i7-6820HK
+12.255
+274.
+Intel
+Core i5-4670S
+12.185
+275.
+Intel
+Core i5-5575R
+12.033
+276.
+Intel
+Core i7-6820HQ
+11.883
+277.
+Intel
+Core i3-7100
+11.864
+278.
+Intel
+Core i5-7500T
+11.753
+279.
+Intel
+Core i5-10210U
+11.745
+280.
+Intel
+Core i7-5700HQ
+11.72
+281.
+Intel
+Core i7-4870HQ
+11.626
+282.
+Intel
+Core i3-4370
+11.559
+283.
+Intel
+Core i7-4770T
+11.527
+284.
+Intel
+Core i5-6400
+11.52
+285.
+Amd
+Ryzen 3 1300X
+11.501
+286.
+Intel
+Core i5-6402P
+11.455
+287.
+Intel
+Xeon D-1541
+11.449
+288.
+Intel
+Xeon E3-1220 v3
+11.444
+289.
+Intel
+Core i3-6100
+11.386
+290.
+Intel
+Core i7-4910MQ
+11.347
+291.
+Intel
+Core i5-4590S
+11.234
+292.
+Intel
+Core i3-8109U
+11.147
+293.
+Intel
+Core i7-7660U
+11.122
+294.
+Intel
+Core i3-8100T
+11.115
+295.
+Intel
+Core i5-4570
+11.106
+296.
+Intel
+Core i3-4360
+11.081
+297.
+Intel
+Core i7-4810MQ
+11.031
+298.
+Intel
+Core i7-4850HQ
+10.993
+299.
+Intel
+Core i5-7360U
+10.993
+300.
+Intel
+Core i7-7560U
+10.873
+301.
+Intel
+Core i7-3770K
+10.863
+302.
+Intel
+Core i5-4570S
+10.739
+303.
+Intel
+Core i3-6098P
+10.726
+304.
+Intel
+Core i3-6300T
+10.677
+305.
+Intel
+Core i7-4710MQ
+10.651
+306.
+Intel
+Core i7-4750HQ
+10.535
+307.
+Intel
+Core i5-6440HQ
+10.504
+308.
+Intel
+Core i3-10110U
+10.488
+309.
+Intel
+Core i7-4770HQ
+10.487
+310.
+Intel
+Core i5-7260U
+10.475
+311.
+Intel
+Core i3-7100T
+10.473
+312.
+Intel
+Core i7-4900MQ
+10.387
+313.
+Intel
+Core i7-4700HQ
+10.373
+314.
+Intel
+Core i5-4440
+10.336
+315.
+Intel
+Core i4 4690T
+10.318
+316.
+Intel
+Core i5-4670T
+10.301
+317.
+Intel
+Core i5-6500T
+10.28
+318.
+Intel
+Core i7-4720HQ
+10.216
+319.
+Intel
+Core i5-7400T
+10.138
+320.
+Intel
+Core i7-4700MQ
+10.074
+321.
+Amd
+Ryzen 5 1400
+10.049
+322.
+Intel
+Core i7-3770
+9.994
+323.
+Intel
+Core i7-4800MQ
+9.945
+324.
+Amd
+Ryzen 3 1200
+9.878
+325.
+Intel
+Core i5-4460S
+9.775
+326.
+Intel
+Core i7-4710HQ
+9.722
+327.
+Intel
+Core i5-4430
+9.72
+328.
+Intel
+Core i3-4330
+9.714
+329.
+Intel
+Core i5-6300HQ
+9.698
+330.
+Intel
+Core i7-2600K
+9.697
+331.
+Intel
+Core i7-5557U
+9.688
+332.
+Intel
+Core i3-4170
+9.676
+333.
+Intel
+Core i5-5287U
+9.621
+334.
+Intel
+Core i7-4785T
+9.478
+335.
+Intel
+Core i7-4610M
+9.353
+336.
+Intel
+Core i5-4430S
+9.348
+337.
+Intel
+Core i5-4570T
+9.326
+338.
+Intel
+Core i3-6100T
+9.324
+339.
+Intel
+Core i5-4308U
+9.307
+340.
+Intel
+Core i7-4712MQ
+9.238
+341.
+Intel
+Core i5-3570K
+9.22
+342.
+Intel
+Core i7-4702MQ
+9.218
+343.
+Intel
+Core i3-4150
+9.187
+344.
+Intel
+Core i7-4702HQ
+9.177
+345.
+Intel
+Core i7-4765T
+9.169
+346.
+Intel
+Core i5-6267U
+9.128
+347.
+Intel
+Core i7-6650U
+8.962
+348.
+Intel
+Core i5-6400T
+8.822
+349.
+Intel
+Core i3-4160
+8.797
+350.
+Intel
+Core i7-4600M
+8.792
+351.
+Intel
+Core i3-8130U
+8.421
+352.
+Intel
+Core i5-4590T
+8.421
+353.
+Intel
+Core i3-4170T
+8.37
+354.
+Amd
+Ryzen 9 5900HS
+8.358
+355.
+Intel
+Core i5-4310M
+8.32
+356.
+Intel
+Core i3-4130
+8.176
+357.
+Intel
+Core i5-4210H
+8.161
+358.
+Intel
+Core i5-2500K
+8.138
+359.
+Intel
+Core i5-6260U
+8.12
+360.
+Intel
+Core i5-6360U
+7.974
+361.
+Intel
+Core i7-5650U
+7.887
+362.
+Intel
+Core i5-8210Y
+7.858
+363.
+Intel
+Core i5-4570R
+7.833
+364.
+Intel
+Core i5-5257U
+7.753
+365.
+Intel
+Core i5-5350U
+7.711
+366.
+Intel
+Core i7-6560U
+7.64
+367.
+Intel
+Core i3-4130T
+7.539
+368.
+Intel
+Core i3-4160T
+7.535
+369.
+Intel
+Core i7-4712HQ
+7.531
+370.
+Intel
+Core i7-5600U
+7.438
+371.
+Intel
+Core i7-3960X
+7.432
+372.
+Intel
+Core i5-4210M
+7.28
+373.
+Intel
+Core i5-4300M
+7.196
+374.
+Intel
+Core i7-4930K
+7.111
+375.
+Intel
+Xeon E5-2687W
+7.043
+376.
+Intel
+Core i7-4960X
+7.033
+377.
+Intel
+Core i7-5500U
+6.961
+378.
+Intel
+Core i5-4278U
+6.904
+379.
+Intel
+Core i3-4150T
+6.881
+380.
+Intel
+Core i5-4200H
+6.871
+381.
+Intel
+Core i5-4200M
+6.856
+382.
+Intel
+Core i7-4510U
+6.74
+383.
+Intel
+Xeon E5-1660
+6.59
+384.
+Intel
+Core i5-4288U
+6.573
+385.
+Intel
+Core i3-7130U
+6.51
+386.
+Intel
+Core i7-3970X
+6.323
+387.
+Intel
+Core i5-4460T
+6.292
+388.
+Intel
+Core i7-4600U
+6.23
+389.
+Amd
+FX 8350
+6.172
+390.
+Intel
+Core i5-5300U
+6.143
+391.
+Intel
+Core i5-5250U
+6.047
+392.
+Intel
+Core i7-3930K
+6.027
+393.
+Intel
+Xeon E5-1650
+5.967
+394.
+Intel
+Core i7-4650U
+5.947
+395.
+Intel
+Core i3-6157U
+5.926
+396.
+Intel
+Xeon E5-2690
+5.873
+397.
+Intel
+Core i5-4258U
+5.864
+398.
+Intel
+Xeon E5-2680
+5.798
+399.
+Intel
+Core i3-4100M
+5.797
+400.
+Intel
+Core i5-4310U
+5.684
+401.
+Intel
+Core i5-4300U
+5.663
+402.
+Intel
+Core i3-7100U
+5.658
+403.
+Intel
+Core i7-2700K
+5.647
+404.
+Intel
+Core i7-3770S
+5.61
+405.
+Intel
+Core i5-5200U
+5.57
+406.
+Intel
+Core i5-4250U
+5.46
+407.
+Intel
+Core i3-6100U
+5.252
+408.
+Intel
+Core i7-4820K
+5.243
+409.
+Intel
+Core i5-4260U
+5.211
+410.
+Intel
+Core i7-4500U
+5.201
+411.
+Intel
+Core i7-3820
+5.122
+412.
+Intel
+Pentium G4600
+5.083
+413.
+Intel
+Core i7-3840QM
+5.081
+414.
+Intel
+Xeon W3680
+5.071
+415.
+Intel
+Xeon W3690
+5.026
+416.
+Intel
+Core i7-990X
+5.004
+417.
+Intel
+Core i5-3570
+4.968
+418.
+Intel
+Core i5-3570S
+4.954
+419.
+Intel
+Xeon E5-2670
+4.953
+420.
+Intel
+Core i7-4578U
+4.945
+421.
+Intel
+Core i3-7020U
+4.881
+422.
+Intel
+Core i5-4210U
+4.879
+423.
+Intel
+Xeon E5-1620
+4.821
+424.
+Intel
+Core i5-3550
+4.81
+425.
+Intel
+Xeon E3-1270
+4.77
+426.
+Intel
+Xeon X5690
+4.724
+427.
+Intel
+Pentium G4560
+4.696
+428.
+Intel
+Xeon E3-1230V2
+4.681
+429.
+Intel
+Core i7-2600
+4.616
+430.
+Intel
+Core i5-7267U
+4.61
+431.
+Intel
+Core i7-980X
+4.556
+432.
+Intel
+Xeon E3-1240
+4.539
+433.
+Intel
+Core i5-4200U
+4.517
+434.
+Intel
+Core i3-4000M
+4.502
+435.
+Intel
+Core i5-3470
+4.427
+436.
+Intel
+Xeon X5680
+4.394
+437.
+Intel
+Core i3-5015U
+4.337
+438.
+Intel
+Core i5-3450
+4.329
+439.
+Intel
+Core i7-3720QM
+4.323
+440.
+Intel
+Core i3-5020U
+4.284
+441.
+Intel
+Core i7-3740QM
+4.249
+442.
+Intel
+Pentium G4400
+4.239
+443.
+Intel
+Xeon E5-2643
+4.203
+444.
+Intel
+Core i5-3470S
+4.194
+445.
+Intel
+Core i7-970
+4.151
+446.
+Intel
+Core i7-2600S
+4.134
+447.
+Intel
+Core i3-5010U
+4.115
+448.
+Amd
+FX 9590
+4.114
+449.
+Intel
+Xeon E3-1230
+4.06
+450.
+Intel
+Core i5-3450S
+3.852
+451.
+Intel
+Core i5-2500
+3.844
+452.
+Intel
+Core i5-3340S
+3.817
+453.
+Intel
+Core i3-6006U
+3.798
+454.
+Intel
+Core i5-2500S
+3.777
+455.
+Intel
+Core i5-3475S
+3.762
+456.
+Intel
+Xeon X5675
+3.733
+457.
+Intel
+Core i5-2550K
+3.712
+458.
+Amd
+FX 9370
+3.704
+459.
+Intel
+Core i7-3630QM
+3.665
+460.
+Intel
+Core i7-3615QM
+3.66
+461.
+Intel
+Xeon E5-2660
+3.66
+462.
+Intel
+Xeon E3-1225
+3.595
+463.
+Intel
+Core i5-3380M
+3.554
+464.
+Intel
+Core i7-2860QM
+3.504
+465.
+Intel
+Xeon E3-1220
+3.473
+466.
+Intel
+Core i5-3350P
+3.436
+467.
+Intel
+Core i5-2400
+3.406
+468.
+Intel
+Xeon X5670
+3.368
+469.
+Intel
+Core i7-3635QM
+3.365
+470.
+Intel
+Core i7-2760QM
+3.362
+471.
+Intel
+Xeon X5660
+3.356
+472.
+Intel
+Core i5-3340
+3.317
+473.
+Intel
+Core i5-3330S
+3.315
+474.
+Intel
+Core i5-3330
+3.288
+475.
+Amd
+FX 8370
+3.27
+476.
+Intel
+Pentium G3258
+3.232
+477.
+Intel
+Core i7-3610QE
+3.21
+478.
+Intel
+Pentium G4400T
+3.183
+479.
+Intel
+Core i3-5005U
+3.144
+480.
+Intel
+Xeon X5650
+3.1
+481.
+Intel
+Core i7-3610QM
+3.062
+482.
+Intel
+Core i7-875K
+3.002
+483.
+Intel
+Core i7-3612QM
+2.987
+484.
+Intel
+Core i7-2960XM
+2.973
+485.
+Intel
+Core i5-3470T
+2.899
+486.
+Intel
+Core i5-3360M
+2.841
+487.
+Intel
+Core i7-3632QM
+2.837
+488.
+Intel
+Core i5-2320
+2.783
+489.
+Intel
+Pentium G3260
+2.749
+490.
+Intel
+Core i7-2820QM
+2.747
+491.
+Intel
+Core i5-2310
+2.728
+492.
+Intel
+Core i7-960
+2.72
+493.
+Intel
+Xeon W3565
+2.692
+494.
+Intel
+Core i3-4030U
+2.686
+495.
+Intel
+Core i5-2300
+2.66
+496.
+Amd
+FX 8320
+2.621
+497.
+Intel
+Xeon E5-2640
+2.602
+498.
+Intel
+Core i5-2405S
+2.563
+499.
+Intel
+Core i7-3520M
+2.56
+500.
+Intel
+Core i3-3225
+2.552
+501.
+Intel
+Pentium G3250
+2.531
+502.
+Amd
+FX 8300
+2.528
+503.
+Amd
+FX 6350
+2.459
+504.
+Intel
+Core i3-3240
+2.457
+505.
+Intel
+Core i7-870
+2.443
+506.
+Intel
+Core i5-3340M
+2.415
+507.
+Intel
+Core i5-4202Y
+2.413
+508.
+Intel
+Xeon W3550
+2.395
+509.
+Amd
+FX 8150
+2.348
+510.
+Intel
+Core i5-2400S
+2.334
+511.
+Intel
+Xeon E3-1260L
+2.324
+512.
+Intel
+Xeon E5-2430
+2.276
+513.
+Amd
+FX 6300
+2.259
+514.
+Intel
+Core i3-3220
+2.239
+515.
+Intel
+Pentium G3240
+2.234
+516.
+Intel
+Core i3-2130
+2.212
+517.
+Intel
+Core i7-950
+2.187
+518.
+Amd
+FX 4350
+2.112
+519.
+Intel
+Core i3-3210
+2.061
+520.
+Intel
+Core i3-4010U
+1.991
+521.
+Intel
+Core i5-3320M
+1.979
+522.
+Intel
+Pentium G3220
+1.975
+523.
+Intel
+Xeon E5-2620
+1.967
+524.
+Amd
+FX 8120
+1.941
+525.
+Intel
+Core i7-860
+1.927
+526.
+Intel
+Core i7-2670QM
+1.921
+527.
+Intel
+Core i7-2620M
+1.908
+528.
+Intel
+Core i5-3230M
+1.889
+529.
+Intel
+Core i3-2120
+1.871
+530.
+Intel
+Core i7-2720QM
+1.855
+531.
+Intel
+Pentium G3250T
+1.855
+532.
+Intel
+Core i7-3540M
+1.826
+533.
+Intel
+Core i5-760
+1.788
+534.
+Intel
+Core i7-2675QM
+1.785
+535.
+Intel
+Xeon W3530
+1.763
+536.
+Intel
+Core i7-2640M
+1.74
+537.
+Intel
+Core i3-4005U
+1.734
+538.
+Intel
+Xeon E5-2420
+1.725
+539.
+Intel
+Core i5-2540M
+1.656
+540.
+Amd
+FX 6200
+1.652
+541.
+Intel
+Core i7-930
+1.649
+542.
+Intel
+Core i3-2105
+1.609
+543.
+Intel
+Core i5-3210M
+1.596
+544.
+Intel
+Core i7-920
+1.586
+545.
+Intel
+Xeon X3450
+1.542
+546.
+Intel
+Core i3-2100
+1.473
+547.
+Intel
+Core i5-2435M
+1.434
+548.
+Intel
+Core i7-2630QM
+1.412
+549.
+Intel
+Core i5-660
+1.411
+550.
+Intel
+Pentium G2020
+1.391
+551.
+Intel
+Core i5-750
+1.378
+552.
+Intel
+Core i7-3687U
+1.337
+553.
+Intel
+Core i5-2520M
+1.322
+554.
+Intel
+Xeon X3440
+1.273
+555.
+Intel
+Core i5-2430M
+1.253
+556.
+Intel
+Core i5-3427U
+1.239
+557.
+Intel
+Pentium G860
+1.234
+558.
+Intel
+Core i5-2450M
+1.209
+559.
+Intel
+Core i3-4020Y
+1.183
+560.
+Intel
+Pentium G3220T
+1.149
+561.
+Amd
+FX 4300
+1.133
+562.
+Intel
+Core i7-3517U
+1.13
+563.
+Intel
+Xeon E5620
+1.099
+564.
+Intel
+Core i5-650
+1.099
+565.
+Intel
+Core i3-3220T
+1.089
+566.
+Intel
+Xeon X5460
+1.089
+567.
+Intel
+Core i7-3537U
+1.041
+568.
+Intel
+Core i7-3667U
+1.017
+569.
+Intel
+Core i7-620M
+0.969
+570.
+Intel
+Pentium G2030
+0.931
+571.
+Intel
+Pentium G645
+0.91
+572.
+Intel
+Core i3-3250
+0.889
+573.
+Intel
+Core i5-2410M
+0.861
+574.
+Amd
+FX 4100
+0.858
+575.
+Intel
+Core i5-3437U
+0.794
+576.
+Amd
+FX 6100
+0.75
+577.
+Intel
+Pentium G840
+0.726
+578.
+Intel
+Pentium G850
+0.708
+579.
+Intel
+Pentium 4415U
+0.693
+580.
+Intel
+Core i5-580M
+0.689
+581.
+Intel
+Core i3-550
+0.669
+582.
+Intel
+Xeon E5450
+0.576
+583.
+Intel
+Core i5-3337U
+0.528
+584.
+Intel
+Core i3-540
+0.504
+585.
+Intel
+Core i5-3317U
+0.377
+586.
+Intel
+Core i7-840QM
+0.34
+587.
+Intel
+Core i5-560M
+0.308
+588.
+Intel
+Pentium 4405U
+0.303
+589.
+Intel
+Xeon E5440
+0.229
+590.
+Intel
+Pentium 2020M
+0.213
+591.
+Intel
+Core i3-3120M
+0.211
+592.
+Intel
+Core i3-3110M
+0.21
+593.
+Intel
+Core i3-530
+0.152
+594.
+Intel
+Core i7-740QM
+0.117
+595.
+Intel
+Pentium G630
+0.097
+596.
+Intel
+Pentium G620
+0.059
+597.
+Amd
+X4 651
+0.037
+598.
+Intel
+Core i5-480M
+0.004
+599.
+Intel
+Core i7-720QM
+-0.074
+600.
+Intel
+Core i5-520M
+-0.129
+601.
+Intel
+Core i5-540M
+-0.339
+602.
+Intel
+Core i3-2370M
+-0.417
+603.
+Intel
+Pentium E5800
+-0.431
+604.
+Intel
+Core i3-2350M
+-0.436
+605.
+Intel
+Core i5-460M
+-0.443
+606.
+Intel
+Core i5-2467M
+-0.448
+607.
+Intel
+Core i5-450M
+-0.457
+608.
+Intel
+Core i7-640M
+-0.51
+609.
+Intel
+Core i3-2348M
+-0.516
+610.
+Intel
+Pentium B980
+-0.534
+611.
+Intel
+Core i3-2330M
+-0.558
+612.
+Intel
+Pentium E5700
+-0.704
+613.
+Intel
+Core i3-2310M
+-0.706
+614.
+Intel
+Core i3-380M
+-0.844
+615.
+Intel
+Core i5-430M
+-0.846
+616.
+Intel
+Pentium 4415Y
+-0.907
+617.
+Intel
+Core i3-370M
+-0.914
+618.
+Intel
+Pentium B960
+-0.95
+619.
+Intel
+Core i3-2328M
+-0.957
+620.
+Intel
+Core i5-2537M
+-0.972
+621.
+Intel
+Pentium 3805U
+-1.042
+622.
+Intel
+Core i3-3227U
+-1.138
+623.
+Intel
+Pentium 2117U
+-1.228
+624.
+Intel
+Core i3-3217U
+-1.255
+625.
+Intel
+Core i3-350M
+-1.324
+626.
+Intel
+Pentium B940
+-1.331
+627.
+Intel
+Pentium N4200
+-1.361
+628.
+Intel
+Core i3-330M
+-1.413
+629.
+Intel
+Pentium 3825U
+-1.485
+630.
+Intel
+Pentium B950
+-1.487
+631.
+Intel
+Pentium E5500
+-1.529
+632.
+Intel
+Pentium P6200
+-1.63
+633.
+Intel
+Pentium E5200
+-1.682
+634.
+Intel
+Pentium J4205
+-1.758
+635.
+Intel
+Core i5-8250U
+-1.77
+636.
+Intel
+Pentium E5400
+-1.917
+637.
+Intel
+Pentium T4400
+-2.018
+638.
+Intel
+Pentium J3710
+-2.339
+639.
+Intel
+Pentium N3540
+-2.381
+640.
+Intel
+Pentium T4200
+-2.419
+641.
+Intel
+Pentium N3530
+-2.542
+642.
+Intel
+Pentium T4300
+-2.631
+643.
+Intel
+Pentium N3700
+-2.658
+644.
+Intel
+Core i3-2365M
+-2.693
+645.
+Amd
+130
+-5.454
+646.
+Amd
+140
+-5.454
+647.
+Amd
+145
+-5.454
+648.
+Amd
+150
+-5.454
+649.
+Amd
+180
+-5.454
+650.
+Amd
+190
+-5.454
+651.
+Amd
+X2 215
+-5.454
+652.
+Amd
+X2 220
+-5.454
+653.
+Amd
+240
+-5.454
+654.
+Amd
+X2 245
+-5.454
+655.
+Amd
+250
+-5.454
+656.
+Amd
+X2 255
+-5.454
+657.
+Amd
+X2 260
+-5.454
+658.
+Amd
+X2 265
+-5.454
+659.
+Amd
+X2 270
+-5.454
+660.
+Amd
+X2 280
+-5.454
+661.
+Amd
+X2 350
+-5.454
+662.
+Amd
+X3 425
+-5.454
+663.
+Amd
+X3 435
+-5.454
+664.
+Amd
+X3 440
+-5.454
+665.
+Amd
+X3 445
+-5.454
+666.
+Amd
+X3 450
+-5.454
+667.
+Amd
+X3 455
+-5.454
+668.
+Amd
+X3 460
+-5.454
+669.
+Amd
+X2 511
+-5.454
+670.
+Amd
+X2 521
+-5.454
+671.
+Amd
+X2 545
+-5.454
+672.
+Amd
+X2 550
+-5.454
+673.
+Amd
+X4 620
+-5.454
+674.
+Amd
+X4 630
+-5.454
+675.
+Amd
+X4 635
+-5.454
+676.
+Amd
+X4 640
+-5.454
+677.
+Amd
+X4 645
+-5.454
+678.
+Amd
+X4 650
+-5.454
+679.
+Amd
+X3 710
+-5.454
+680.
+Amd
+X3 720
+-5.454
+681.
+Amd
+X4 750
+-5.454
+682.
+Amd
+X4 805
+-5.454
+683.
+Amd
+X4 810
+-5.454
+684.
+Amd
+X4 820
+-5.454
+685.
+Amd
+X4 830
+-5.454
+686.
+Amd
+X4 840
+-5.454
+687.
+Amd
+X4 850
+-5.454
+688.
+Amd
+X4 910
+-5.454
+689.
+Amd
+X4 920
+-5.454
+690.
+Amd
+X4 925
+-5.454
+691.
+Amd
+X4 945
+-5.454
+692.
+Amd
+X4 955
+-5.454
+693.
+Amd
+1352
+-5.454
+694.
+Amd
+1354
+-5.454
+695.
+Amd
+1356
+-5.454
+696.
+Amd
+1381
+-5.454
+697.
+Amd
+1385
+-5.454
+698.
+Amd
+1389
+-5.454
+699.
+Amd
+2347
+-5.454
+700.
+Amd
+2350
+-5.454
+701.
+Amd
+2352
+-5.454
+702.
+Amd
+2354
+-5.454
+703.
+Amd
+2356
+-5.454
+704.
+Amd
+2378
+-5.454
+705.
+Amd
+2380
+-5.454
+706.
+Amd
+2382
+-5.454
+707.
+Amd
+2384
+-5.454
+708.
+Amd
+2387
+-5.454
+709.
+Amd
+2389
+-5.454
+710.
+Amd
+2419
+-5.454
+711.
+Amd
+2427
+-5.454
+712.
+Amd
+2431
+-5.454
+713.
+Amd
+2435
+-5.454
+714.
+Amd
+3280
+-5.454
+715.
+Amd
+3365
+-5.454
+716.
+Amd
+3380
+-5.454
+717.
+Amd
+4122
+-5.454
+718.
+Amd
+4130
+-5.454
+719.
+Amd
+4133
+-5.454
+720.
+Amd
+4180
+-5.454
+721.
+Amd
+4184
+-5.454
+722.
+Amd
+4226
+-5.454
+723.
+Amd
+4234
+-5.454
+724.
+Amd
+4238
+-5.454
+725.
+Amd
+4280
+-5.454
+726.
+Amd
+4284
+-5.454
+727.
+Amd
+4334
+-5.454
+728.
+Amd
+4340
+-5.454
+729.
+Amd
+4386
+-5.454
+730.
+Amd
+6128
+-5.454
+731.
+Amd
+6134
+-5.454
+732.
+Amd
+6136
+-5.454
+733.
+Amd
+6140
+-5.454
+734.
+Amd
+6168
+-5.454
+735.
+Amd
+6172
+-5.454
+736.
+Amd
+6174
+-5.454
+737.
+Amd
+6176
+-5.454
+738.
+Amd
+6204
+-5.454
+739.
+Amd
+6212
+-5.454
+740.
+Amd
+6220
+-5.454
+741.
+Amd
+6234
+-5.454
+742.
+Amd
+6238
+-5.454
+743.
+Amd
+6272
+-5.454
+744.
+Amd
+6274
+-5.454
+745.
+Amd
+6276
+-5.454
+746.
+Amd
+6278
+-5.454
+747.
+Amd
+6308
+-5.454
+748.
+Amd
+6320
+-5.454
+749.
+Amd
+6328
+-5.454
+750.
+Amd
+6344
+-5.454
+751.
+Amd
+6348
+-5.454
+752.
+Amd
+6376
+-5.454
+753.
+Amd
+6378
+-5.454
+754.
+Amd
+6380
+-5.454
+755.
+Amd
+X2 7450
+-5.454
+756.
+Amd
+X2 7550
+-5.454
+757.
+Amd
+8347
+-5.454
+758.
+Amd
+8350
+-5.454
+759.
+Amd
+8352
+-5.454
+760.
+Amd
+8354
+-5.454
+761.
+Amd
+8356
+-5.454
+762.
+Amd
+8378
+-5.454
+763.
+Amd
+8380
+-5.454
+764.
+Amd
+8382
+-5.454
+765.
+Amd
+8384
+-5.454
+766.
+Amd
+8387
+-5.454
+767.
+Amd
+8389
+-5.454
+768.
+Amd
+X3 8400
+-5.454
+769.
+Amd
+8419
+-5.454
+770.
+Amd
+8423
+-5.454
+771.
+Amd
+8431
+-5.454
+772.
+Amd
+8435
+-5.454
+773.
+Amd
+X3 8450
+-5.454
+774.
+Amd
+X3 8550
+-5.454
+775.
+Amd
+X3 8600
+-5.454
+776.
+Amd
+X3 8650
+-5.454
+777.
+Amd
+X3 8750
+-5.454
+778.
+Amd
+X3 8850
+-5.454
+779.
+Amd
+X4 9500
+-5.454
+780.
+Amd
+X4 9550
+-5.454
+781.
+Amd
+X4 9600
+-5.454
+782.
+Amd
+X4 9650
+-5.454
+783.
+Amd
+X4 9750
+-5.454
+784.
+Amd
+X4 9850
+-5.454
+785.
+Amd
+Ryzen 7 4700G
+-5.454
+786.
+Intel
+Core i3-9350KF
+-5.454
+787.
+Amd
+3960x
+-5.454
+788.
+Amd
+3970x
+-5.454
+789.
+Amd
+3990x
+-5.454
+790.
+Intel
+Core i5-7640X
+-5.454
+791.
+Intel
+Core i5-8600T
+-5.454
+792.
+Intel
+Core i9-9820X
+-5.454
+793.
+Intel
+Core i5-5675C
+-5.454
+794.
+Amd
+2950X
+-5.454
+795.
+Amd
+2920X
+-5.454
+796.
+Intel
+Core i7-5775R
+-5.454
+797.
+Intel
+Core i7-5950HQ
+-5.454
+798.
+Intel
+Core i3-8300
+-5.454
+799.
+Amd
+2970WX
+-5.454
+800.
+Amd
+2990WX
+-5.454
+801.
+Intel
+Core i5-9400H
+-5.454
+802.
+Amd
+Ryzen 5 4600G
+-5.454
+803.
+Amd
+Ryzen 9 5980HS
+-5.454
+804.
+Intel
+Core i7-5850HQ
+-5.454
+805.
+Intel
+Core i7-8706G
+-5.454
+806.
+Amd
+1920X
+-5.454
+807.
+Amd
+1950X
+-5.454
+808.
+Amd
+1900X
+-5.454
+809.
+Intel
+Core i7-980
+-5.454
+810.
+Intel
+Core i3-7320
+-5.454
+811.
+Intel
+Core i5-8305G
+-5.454
+812.
+Amd
+Ryzen 7 5800HS
+-5.454
+813.
+Intel
+Xeon W3570
+-5.454
+814.
+Amd
+Ryzen 5 2500X
+-5.454
+815.
+Intel
+Core i7-975
+-5.454
+816.
+Intel
+Core i3-7350K
+-5.454
+817.
+Intel
+Core i5-2450P
+-5.454
+818.
+Intel
+Xeon X5667
+-5.454
+819.
+Intel
+Core i7-880
+-5.454
+820.
+Intel
+Core i3-7300
+-5.454
+821.
+Intel
+Core i7-3940XM
+-5.454
+822.
+Intel
+Xeon X5570
+-5.454
+823.
+Intel
+Xeon X3470
+-5.454
+824.
+Intel
+Core i3-7101E
+-5.454
+825.
+Intel
+Core i7-3920XM
+-5.454
+826.
+Intel
+Xeon X5560
+-5.454
+827.
+Intel
+Core i7-10710U
+-5.454
+828.
+Intel
+Xeon X3460
+-5.454
+829.
+Intel
+Core i3-7300T
+-5.454
+830.
+Intel
+Pentium G4620
+-5.454
+831.
+Intel
+Core i3-6300
+-5.454
+832.
+Intel
+Core i7-3820QM
+-5.454
+833.
+Intel
+Core i7-4722HQ
+-5.454
+834.
+Intel
+Core i3-4350
+-5.454
+835.
+Intel
+Core i7-940
+-5.454
+836.
+Intel
+Core i3-4340
+-5.454
+837.
+Intel
+Pentium G5400T
+-5.454
+838.
+Intel
+Xeon E5540
+-5.454
+839.
+Intel
+Xeon W3520
+-5.454
+840.
+Intel
+Pentium G5500T
+-5.454
+841.
+Intel
+Core i7-2920XM
+-5.454
+842.
+Intel
+Xeon X3430
+-5.454
+843.
+Intel
+Xeon E5530
+-5.454
+844.
+Amd
+Ryzen 3 5400U
+-5.454
+845.
+Intel
+Core i3-2125
+-5.454
+846.
+Intel
+Pentium G4560T
+-5.454
+847.
+Intel
+Pentium G4520
+-5.454
+848.
+Intel
+Core i7-5550U
+-5.454
+849.
+Amd
+FX 8310
+-5.454
+850.
+Intel
+Core i7-8665U
+-5.454
+851.
+Intel
+Xeon L5520
+-5.454
+852.
+Intel
+Core i3-7167U
+-5.454
+853.
+Intel
+Xeon E5520
+-5.454
+854.
+Intel
+Pentium G3470
+-5.454
+855.
+Amd
+X6 1100T Black Edition
+-5.454
+856.
+Intel
+Core i7-4558U
+-5.454
+857.
+Intel
+Core i5-1035G7
+-5.454
+858.
+Intel
+Core i5-10210Y
+-5.454
+859.
+Intel
+Pentium G3460
+-5.454
+860.
+Intel
+Core i7-2635QM
+-5.454
+861.
+Intel
+Core i7-6567U
+-5.454
+862.
+Intel
+Core i5-8365U
+-5.454
+863.
+Intel
+Pentium G3440
+-5.454
+864.
+Amd
+X6 1090T Black Edition
+-5.454
+865.
+Intel
+Core i7-10510Y
+-5.454
+866.
+Intel
+Pentium G3430
+-5.454
+867.
+Intel
+Core i3-6167U
+-5.454
+868.
+Amd
+X4 970
+-5.454
+869.
+Intel
+Pentium G4500
+-5.454
+870.
+Intel
+Pentium G3450
+-5.454
+871.
+Amd
+X6 1075T
+-5.454
+872.
+Amd
+X6 1075T Black Edition
+-5.454
+873.
+Intel
+Core i5-1035G4
+-5.454
+874.
+Intel
+Xeon E5507
+-5.454
+875.
+Intel
+Core i7-8565U
+-5.454
+876.
+Intel
+Xeon X5470
+-5.454
+877.
+Intel
+Xeon E5506
+-5.454
+878.
+Amd
+X6 1055T
+-5.454
+879.
+Amd
+X4 960T
+-5.454
+880.
+Amd
+X4 960T Black Edition
+-5.454
+881.
+Intel
+Pentium G2130
+-5.454
+882.
+Intel
+Pentium G3420
+-5.454
+883.
+Amd
+X6 1045T
+-5.454
+884.
+Intel
+Core i3-2120T
+-5.454
+885.
+Intel
+Core i7-1065G7
+-5.454
+886.
+Intel
+Core i7-8550U
+-5.454
+887.
+Amd
+X6 1035T
+-5.454
+888.
+Amd
+X4 840T
+-5.454
+889.
+Intel
+Core i3-8145U
+-5.454
+890.
+Intel
+Core i5-8265U
+-5.454
+891.
+Intel
+Pentium G2120
+-5.454
+892.
+Intel
+Pentium G870
+-5.454
+893.
+Intel
+Core i7-8650U
+-5.454
+894.
+Intel
+Xeon E5504
+-5.454
+895.
+Intel
+Core i5-680
+-5.454
+896.
+Intel
+Core i5-8350U
+-5.454
+897.
+Intel
+Core i7-2677M
+-5.454
+898.
+Intel
+Core i7-2637M
+-5.454
+899.
+Intel
+Core i5-1035G1
+-5.454
+900.
+Intel
+Xeon X5472
+-5.454
+901.
+Intel
+Xeon E5472
+-5.454
+902.
+Intel
+Pentium G2010
+-5.454
+903.
+Intel
+Core i7-4550U
+-5.454
+904.
+Intel
+Core i7-8500Y
+-5.454
+905.
+Intel
+Core i5-661
+-5.454
+906.
+Intel
+Pentium 5405U
+-5.454
+907.
+Intel
+Core i5-2557M
+-5.454
+908.
+Intel
+Core i7-7600U
+-5.454
+909.
+Intel
+Xeon X5450
+-5.454
+910.
+Intel
+Core i7-3689Y
+-5.454
+911.
+Intel
+Pentium 3550M
+-5.454
+912.
+Amd
+X4 940
+-5.454
+913.
+Intel
+Core i5-8200Y
+-5.454
+914.
+Intel
+Pentium 4417U
+-5.454
+915.
+Intel
+Pentium G640
+-5.454
+916.
+Intel
+Core i7-7500U
+-5.454
+917.
+Intel
+Xeon E5430
+-5.454
+918.
+Amd
+X4 641
+-5.454
+919.
+Intel
+Xeon E5462
+-5.454
+920.
+Intel
+Core m3-8100Y
+-5.454
+921.
+Intel
+Core i5-7Y54
+-5.454
+922.
+Intel
+Xeon L5420
+-5.454
+923.
+Amd
+X4 631
+-5.454
+924.
+Intel
+Core i7-6500U
+-5.454
+925.
+Intel
+Pentium B970
+-5.454
+926.
+Intel
+Core i5-7200U
+-5.454
+927.
+Intel
+Xeon E5420
+-5.454
+928.
+Amd
+X4 845
+-5.454
+929.
+Intel
+Core i5-7300U
+-5.454
+930.
+Intel
+Core i7-6600U
+-5.454
+931.
+Intel
+Core i5-4210Y
+-5.454
+932.
+Intel
+Pentium 2127U
+-5.454
+933.
+Intel
+Core i5-3339Y
+-5.454
+934.
+Intel
+Core i5-4300Y
+-5.454
+935.
+Intel
+Core i7-7Y75
+-5.454
+936.
+Intel
+Xeon X3220
+-5.454
+937.
+Intel
+Core i3-2375M
+-5.454
+938.
+Intel
+Core i3-4012Y
+-5.454
+939.
+Intel
+Xeon E3110
+-5.454
+940.
+Intel
+Core i3-2367M
+-5.454
+941.
+Intel
+Xeon E5405
+-5.454
+942.
+Intel
+Core i5-6200U
+-5.454
+943.
+Intel
+Pentium G6950
+-5.454
+944.
+Intel
+Xeon E5345
+-5.454
+945.
+Intel
+Pentium E6800
+-5.454
+946.
+Intel
+Core i5-6300U
+-5.454
+947.
+Intel
+Pentium 987
+-5.454
+948.
+Intel
+Core i3-2357M
+-5.454
+949.
+Intel
+Pentium E6700
+-5.454
+950.
+Intel
+Xeon E5335
+-5.454
+951.
+Intel
+Pentium E6500
+-5.454
+952.
+Intel
+Pentium E6600
+-5.454
+953.
+Intel
+Pentium 4410Y
+-5.454
+954.
+Intel
+Pentium E6300
+-5.454
+955.
+Intel
+Pentium 4405Y
+-5.454
+956.
+Intel
+Pentium 967
+-5.454
+957.
+Intel
+Pentium E5300
+-5.454
+958.
+Intel
+Xeon E5320
+-5.454
+959.
+Intel
+Pentium J2900
+-5.454
+960.
+Intel
+Pentium P6100
+-5.454
+961.
+Intel
+Pentium N3520
+-5.454
+962.
+Intel
+Xeon E5310
+-5.454
+963.
+Intel
+Pentium T4500
+-5.454
+964.
+Intel
+Pentium N3510
+-5.454
+965.
+Intel
+Core T2500
+-5.454
+966.
+Intel
+Core T2400
+-5.454
+967.
+Intel
+Core T2600
+-5.454
+968.
+Intel
+Core T2300
+-5.454
+969.
+Intel
+Core T2250
+-5.454
+970.
+Intel
+Atom D2700
+-5.454
+971.
+Intel
+Atom N2800
+-5.454
+972.
+Intel
+Pentium N3710
+-5.454
+973.
+Intel
+Atom D525
+-5.454
+974.
+Intel
+Atom N2600
+-5.454
+975.
+Intel
+Atom N570
+-5.454
+976.
+Intel
+Atom N550
+-5.454
+977.
+Intel
+Atom N455
+-5.454
+978.
+Intel
+Atom 330
+-5.454
+979.
+Intel
+Atom N450
+-5.454
+980.
+Intel
+Atom D410
+-5.454
+981.
+Intel
+Atom N280
+-5.454
+982.
+Intel
+Atom N270
+-5.454
+983.
+Intel
+Atom D510
+-5.454
+984.
+Intel
+Atom 230
+-5.454
+985.
+Intel
+Atom Z520
+-5.454
+986.
+Amd
+Ryzen 3 5300GE
+-5.454
+987.
+Amd
+Ryzen 3 PRO 5350G
+-5.454
+988.
+Amd
+Ryzen 3 PRO 5350GE
+-5.454
+989.
+Amd
+Ryzen 5 5600GE
+-5.454
+990.
+Amd
+Ryzen 5 PRO 5650GE
+-5.454
+991.
+Amd
+Ryzen 7 5700GE
+-5.454
+992.
+Amd
+Ryzen 7 PRO 5750GE
+-5.454
+993.
+Amd
+Ryzen 3 4300G
+-5.454
+994.
+Amd
+Ryzen 3 4300GE
+-5.454
+995.
+Amd
+Ryzen 3 PRO 4350G
+-5.454
+996.
+Amd
+Ryzen 3 PRO 4350GE
+-5.454
+997.
+Amd
+Ryzen 5 4600GE
+-5.454
+998.
+Amd
+Ryzen 5 PRO 4650GE
+-5.454
+999.
+Amd
+Ryzen 7 4700GE
+-5.454
+1000.
+Amd
+Ryzen 7 PRO 4750GE
+-5.454
+1001.
+Amd
+Ryzen 3 PRO 5450U
+-5.454
+1002.
+Amd
+Ryzen 5 5600HS
+-5.454
+1003.
+Amd
+Ryzen 5 PRO 5650U
+-5.454
+1004.
+Amd
+Ryzen 9 5980HX
+-5.454
+1005.
+Amd
+Ryzen 3 7440U
+-5.454
+1006.
+Amd
+Ryzen 7 7540U
+-5.454
+1007.
+Amd
+Ryzen 7 7640H
+-5.454
+1008.
+Amd
+Ryzen 7 7640HS
+-5.454
+1009.
+Amd
+Ryzen 7 7640U
+-5.454
+1010.
+Amd
+Ryzen 7 7840H
+-5.454
+1011.
+Amd
+Ryzen 7 7840HS
+-5.454
+1012.
+Amd
+Ryzen 7 7840U
+-5.454
+1013.
+Amd
+Ryzen 9 7940H
+-5.454
+1014.
+Amd
+Ryzen 9 7940HS
+-5.454
+1015.
+Amd
+K5 PR 120
+-5.454
+1016.
+Amd
+K5 PR 133
+-5.454
+1017.
+Amd
+K5 PR 166
+-5.454
+1018.
+Amd
+X4 9100e
+-5.454
+1019.
+Amd
+X4 9150e
+-5.454
+1020.
+Amd
+X4 9350e
+-5.454
+1021.
+Amd
+X4 9450e
+-5.454
+1022.
+Amd
+X4 9600B
+-5.454
+1023.
+Amd
+X4 9600 Black Edition
+-5.454
+1024.
+Amd
+X4 9750B
+-5.454
+1025.
+Amd
+X4 9850B
+-5.454
+1026.
+Amd
+X4 9850 Black Edition
+-5.454
+1027.
+Amd
+X4 9950 Black Edition
+-5.454
+1028.
+Amd
+Athlon 500 Argon
+-5.454
+1029.
+Amd
+Athlon 550 Argon
+-5.454
+1030.
+Amd
+Athlon 600 Argon
+-5.454
+1031.
+Amd
+Athlon 650 Argon
+-5.454
+1032.
+Amd
+Athlon 700 Argon
+-5.454
+1033.
+Amd
+Athlon XP 2500+ (Barton)
+-5.454
+1034.
+Amd
+Athlon XP 2600+ (Barton)
+-5.454
+1035.
+Amd
+Athlon XP 2800+ (Barton)
+-5.454
+1036.
+Amd
+Athlon XP 3000+ (Barton)
+-5.454
+1037.
+Amd
+Athlon XP 3200+ (Barton)
+-5.454
+1038.
+Amd
+X2 3250E Brisbane
+-5.454
+1039.
+Amd
+X2 3600+ Brisbane
+-5.454
+1040.
+Amd
+X2 4000+ Brisbane
+-5.454
+1041.
+Amd
+X2 4200+ Brisbane
+-5.454
+1042.
+Amd
+X2 4400+ Brisbane
+-5.454
+1043.
+Amd
+X2 4450B Brisbane
+-5.454
+1044.
+Amd
+X2 4450E Brisbane
+-5.454
+1045.
+Amd
+X2 4600+ Brisbane
+-5.454
+1046.
+Amd
+X2 4800+ Brisbane
+-5.454
+1047.
+Amd
+X2 4850B Brisbane
+-5.454
+1048.
+Amd
+X2 4850E Brisbane
+-5.454
+1049.
+Amd
+X2 5000+ Brisbane
+-5.454
+1050.
+Amd
+X2 5000+ Black Edition Brisbane
+-5.454
+1051.
+Amd
+X2 5000B Brisbane
+-5.454
+1052.
+Amd
+X2 5050E Brisbane
+-5.454
+1053.
+Amd
+X2 5200+ Brisbane
+-5.454
+1054.
+Amd
+X2 5200B Brisbane
+-5.454
+1055.
+Amd
+X2 5400+ Brisbane
+-5.454
+1056.
+Amd
+X2 5400+ Black Edition Brisbane
+-5.454
+1057.
+Amd
+X2 5400B Brisbane
+-5.454
+1058.
+Amd
+X2 5600+ Brisbane
+-5.454
+1059.
+Amd
+X2 5600B Brisbane
+-5.454
+1060.
+Amd
+X2 5800+ Brisbane
+-5.454
+1061.
+Amd
+X2 6000+ Brisbane
+-5.454
+1062.
+Amd
+X2 BE 2300 Brisbane
+-5.454
+1063.
+Amd
+X2 BE 2350 Brisbane
+-5.454
+1064.
+Amd
+X2 BE 2400 Brisbane
+-5.454
+1065.
+Amd
+X4 950
+-5.454
+1066.
+Amd
+FX 4130
+-5.454
+1067.
+Amd
+FX 4170
+-5.454
+1068.
+Amd
+FX 6120
+-5.454
+1069.
+Amd
+FX 8100
+-5.454
+1070.
+Amd
+X2 550 Black Edition
+-5.454
+1071.
+Amd
+X2 555 Black Edition
+-5.454
+1072.
+Amd
+X2 560 Black Edition
+-5.454
+1073.
+Amd
+X2 565 Black Edition
+-5.454
+1074.
+Amd
+X2 570 Black Edition
+-5.454
+1075.
+Amd
+X2 B53
+-5.454
+1076.
+Amd
+X2 B55
+-5.454
+1077.
+Amd
+X2 B57
+-5.454
+1078.
+Amd
+X2 B59
+-5.454
+1079.
+Amd
+X2 B60
+-5.454
+1080.
+Amd
+X4 835
+-5.454
+1081.
+Amd
+K6-2 266 Chomper
+-5.454
+1082.
+Amd
+K6-2 300 Chomper
+-5.454
+1083.
+Amd
+K6-2 333 Chomper
+-5.454
+1084.
+Amd
+K6-2 350 Chomper
+-5.454
+1085.
+Amd
+K6-2 366 Chomper
+-5.454
+1086.
+Amd
+K6-2 380 Chomper
+-5.454
+1087.
+Amd
+K6-2 400 Chomper
+-5.454
+1088.
+Amd
+K6-2 450 Chomper
+-5.454
+1089.
+Amd
+K6-2 475 Chomper
+-5.454
+1090.
+Amd
+K6-2 500 Chomper
+-5.454
+1091.
+Amd
+K6-2 533 Chomper
+-5.454
+1092.
+Amd
+K6-2 550 Chomper
+-5.454
+1093.
+Amd
+2800+ ClawHammer
+-5.454
+1094.
+Amd
+3000+ ClawHammer
+-5.454
+1095.
+Amd
+3200+ ClawHammer
+-5.454
+1096.
+Amd
+3200+ ClawHammer 1Mib L2
+-5.454
+1097.
+Amd
+3400+ ClawHammer
+-5.454
+1098.
+Amd
+3400+ ClawHammer 1Mib L2
+-5.454
+1099.
+Amd
+3500+ ClawHammer
+-5.454
+1100.
+Amd
+3600+ ClawHammer
+-5.454
+1101.
+Amd
+3700+ ClawHammer
+-5.454
+1102.
+Amd
+3800+ ClawHammer
+-5.454
+1103.
+Amd
+4000+ ClawHammer
+-5.454
+1104.
+Amd
+FX-53 ClawHammer
+-5.454
+1105.
+Amd
+X2 900e
+-5.454
+1106.
+Amd
+X4 905e
+-5.454
+1107.
+Amd
+X4 910e
+-5.454
+1108.
+Amd
+X4 940 Black Edition
+-5.454
+1109.
+Amd
+X4 955 Black Edition
+-5.454
+1110.
+Amd
+X4 965 Black Edition
+-5.454
+1111.
+Amd
+X4 970 Black Edition
+-5.454
+1112.
+Amd
+X4 975 Black Edition
+-5.454
+1113.
+Amd
+X4 980 Black Edition
+-5.454
+1114.
+Amd
+X4 B93
+-5.454
+1115.
+Amd
+X4 B95
+-5.454
+1116.
+Amd
+X4 B97
+-5.454
+1117.
+Amd
+X4 B99
+-5.454
+1118.
+Amd
+X3 700e
+-5.454
+1119.
+Amd
+X3 705e
+-5.454
+1120.
+Amd
+X3 715 Black Edition
+-5.454
+1121.
+Amd
+X3 720 Black Edition
+-5.454
+1122.
+Amd
+X3 740 Black Edition
+-5.454
+1123.
+Amd
+X3 B73
+-5.454
+1124.
+Amd
+X3 B75
+-5.454
+1125.
+Amd
+X3 B77
+-5.454
+1126.
+Amd
+X2 450
+-5.454
+1127.
+Amd
+X4 840 (2016)
+-5.454
+1128.
+Amd
+X4 840 (Piledriver)
+-5.454
+1129.
+Amd
+X4 860K
+-5.454
+1130.
+Amd
+X4 870K
+-5.454
+1131.
+Amd
+X4 880K
+-5.454
+1132.
+Amd
+X2 6500 Black Edition
+-5.454
+1133.
+Amd
+X2 7750 Black Edition
+-5.454
+1134.
+Amd
+X2 7850 Black Edition
+-5.454
+1135.
+Amd
+2650E
+-5.454
+1136.
+Amd
+2850E
+-5.454
+1137.
+Amd
+3500+ Lima
+-5.454
+1138.
+Amd
+3800+ Lima
+-5.454
+1139.
+Amd
+LE-1640 Lima
+-5.454
+1140.
+Amd
+LE-1640B Lima
+-5.454
+1141.
+Amd
+LE-1660 Lima
+-5.454
+1142.
+Amd
+K6 266 Little Foot
+-5.454
+1143.
+Amd
+K6 300 Little Foot
+-5.454
+1144.
+Amd
+X2 221
+-5.454
+1145.
+Amd
+X4 638
+-5.454
+1146.
+Amd
+X4 651K
+-5.454
+1147.
+Amd
+3200+ Manchester
+-5.454
+1148.
+Amd
+3500+ Manchester
+-5.454
+1149.
+Amd
+X2 3800+ Manchester
+-5.454
+1150.
+Amd
+X2 4200+ Manchester
+-5.454
+1151.
+Amd
+X2 4600+ Manchester
+-5.454
+1152.
+Amd
+Ryzen 5 3500x
+-5.454
+1153.
+Amd
+Ryzen 5 PRO 3600
+-5.454
+1154.
+Amd
+Ryzen 7 PRO 3700
+-5.454
+1155.
+Amd
+Ryzen 9 PRO 3900
+-5.454
+1156.
+Amd
+K6 166 Model-6
+-5.454
+1157.
+Amd
+K6 200 Model-6
+-5.454
+1158.
+Amd
+K6 233 Model-6
+-5.454
+1159.
+Amd
+2800+ Newcastle
+-5.454
+1160.
+Amd
+3000+ Newcastle
+-5.454
+1161.
+Amd
+3000+ Newcastle
+-5.454
+1162.
+Amd
+3200+ Newcastle
+-5.454
+1163.
+Amd
+3200+ Newcastle
+-5.454
+1164.
+Amd
+3300+ Newcastle
+-5.454
+1165.
+Amd
+3400+ Newcastle
+-5.454
+1166.
+Amd
+3400+ Newcastle
+-5.454
+1167.
+Amd
+3500+ Newcastle
+-5.454
+1168.
+Amd
+3800+ Newcastle
+-5.454
+1169.
+Amd
+Athlon 1000 Orion
+-5.454
+1170.
+Amd
+Athlon 900 Orion
+-5.454
+1171.
+Amd
+Athlon 950 Orion
+-5.454
+1172.
+Amd
+3000+ Orleans
+-5.454
+1173.
+Amd
+3200+ Orleans
+-5.454
+1174.
+Amd
+3500+ Orleans Ultra Low Power
+-5.454
+1175.
+Amd
+3500+ Orleans
+-5.454
+1176.
+Amd
+3800+ Orleans
+-5.454
+1177.
+Amd
+4000+ Orleans
+-5.454
+1178.
+Amd
+LE-1600 Orleans
+-5.454
+1179.
+Amd
+LE-1620 Orleans
+-5.454
+1180.
+Amd
+LE-1640 Orleans
+-5.454
+1181.
+Amd
+Athlon XP 1500+ (Palomino)
+-5.454
+1182.
+Amd
+Athlon XP 1600+ (Palomino)
+-5.454
+1183.
+Amd
+Athlon XP 1700+ (Palomino)
+-5.454
+1184.
+Amd
+Athlon XP 1800+ (Palomino)
+-5.454
+1185.
+Amd
+Athlon XP 1900+ (Palomino)
+-5.454
+1186.
+Amd
+Athlon XP 2000+ (Palomino)
+-5.454
+1187.
+Amd
+Athlon XP 2100+ (Palomino)
+-5.454
+1188.
+Amd
+FX 8320E
+-5.454
+1189.
+Amd
+FX 8370E
+-5.454
+1190.
+Amd
+Ryzen 5 2600E
+-5.454
+1191.
+Amd
+Ryzen 5 PRO 2600
+-5.454
+1192.
+Amd
+Ryzen 7 2700E
+-5.454
+1193.
+Amd
+Ryzen 7 PRO 2700
+-5.454
+1194.
+Amd
+Ryzen 7 PRO 2700X
+-5.454
+1195.
+Amd
+Athlon 550 Pluto
+-5.454
+1196.
+Amd
+Athlon 600 Pluto
+-5.454
+1197.
+Amd
+Athlon 650 Pluto
+-5.454
+1198.
+Amd
+Athlon 700 Pluto
+-5.454
+1199.
+Amd
+Athlon 750 Pluto
+-5.454
+1200.
+Amd
+Athlon 800 Pluto
+-5.454
+1201.
+Amd
+Athlon 850 Pluto
+-5.454
+1202.
+Amd
+X4 600e
+-5.454
+1203.
+Amd
+X4 605e
+-5.454
+1204.
+Amd
+X4 610e
+-5.454
+1205.
+Amd
+X4 615e
+-5.454
+1206.
+Amd
+X4 620e
+-5.454
+1207.
+Amd
+X3 400e
+-5.454
+1208.
+Amd
+X3 405e
+-5.454
+1209.
+Amd
+X3 415e
+-5.454
+1210.
+Amd
+X3 420e
+-5.454
+1211.
+Amd
+X3 425e
+-5.454
+1212.
+Amd
+X2 210e
+-5.454
+1213.
+Amd
+X2 235e
+-5.454
+1214.
+Amd
+X2 240e
+-5.454
+1215.
+Amd
+X2 245e
+-5.454
+1216.
+Amd
+X2 250e
+-5.454
+1217.
+Amd
+X2 250u
+-5.454
+1218.
+Amd
+X2 260u
+-5.454
+1219.
+Amd
+X2 270u
+-5.454
+1220.
+Amd
+X2 B22
+-5.454
+1221.
+Amd
+X2 B24
+-5.454
+1222.
+Amd
+X2 B26
+-5.454
+1223.
+Amd
+X2 B28
+-5.454
+1224.
+Amd
+X2 B30
+-5.454
+1225.
+Amd
+X2 370K
+-5.454
+1226.
+Amd
+X4 760K
+-5.454
+1227.
+Amd
+K5 PR 100
+-5.454
+1228.
+Amd
+K5 PR 75
+-5.454
+1229.
+Amd
+K5 PR 90
+-5.454
+1230.
+Amd
+3500+ San Diego
+-5.454
+1231.
+Amd
+3700+ San Diego
+-5.454
+1232.
+Amd
+4000+ San Diego
+-5.454
+1233.
+Amd
+FX-55 San-Diego
+-5.454
+1234.
+Amd
+FX-57 San-Diego
+-5.454
+1235.
+Amd
+160u
+-5.454
+1236.
+Amd
+170u
+-5.454
+1237.
+Amd
+K6-III 400 Sharptooth
+-5.454
+1238.
+Amd
+K6-III 450 Sharptooth
+-5.454
+1239.
+Amd
+FX-51 SlegeHammer
+-5.454
+1240.
+Amd
+FX-53 SlegeHammer
+-5.454
+1241.
+Amd
+Athlon XP 1600+ (Thoroughbred)
+-5.454
+1242.
+Amd
+Athlon XP 1700+ (Thoroughbred)
+-5.454
+1243.
+Amd
+Athlon XP 1800+ (Thoroughbred)
+-5.454
+1244.
+Amd
+Athlon XP 1900+ (Thoroughbred)
+-5.454
+1245.
+Amd
+Athlon XP 2000+ (Thoroughbred)
+-5.454
+1246.
+Amd
+Athlon XP 2100+ (Thoroughbred)
+-5.454
+1247.
+Amd
+Athlon XP 2200+ (Thoroughbred)
+-5.454
+1248.
+Amd
+Athlon XP 2400+ (Thoroughbred)
+-5.454
+1249.
+Amd
+Athlon XP 2600+ (Thoroughbred)
+-5.454
+1250.
+Amd
+Athlon XP 2700+ (Thoroughbred)
+-5.454
+1251.
+Amd
+Athlon XP 2800+ (Thoroughbred)
+-5.454
+1252.
+Amd
+Athlon XP 2000+ (Thorton)
+-5.454
+1253.
+Amd
+Athlon XP 2200+ (Thorton)
+-5.454
+1254.
+Amd
+Athlon XP 2400+ (Thorton)
+-5.454
+1255.
+Amd
+Athlon XP 2600+ (Thorton)
+-5.454
+1256.
+Amd
+Athlon XP 3100+ (Thorton)
+-5.454
+1257.
+Amd
+X6 1065T
+-5.454
+1258.
+Amd
+Athlon 1000B Thunderbird
+-5.454
+1259.
+Amd
+Athlon 1000C Thunderbird
+-5.454
+1260.
+Amd
+Athlon 1133 Thunderbird
+-5.454
+1261.
+Amd
+Athlon 1000B Thunderbird
+-5.454
+1262.
+Amd
+Athlon 1200C Thunderbird
+-5.454
+1263.
+Amd
+Athlon 1266 Thunderbird
+-5.454
+1264.
+Amd
+Athlon 1300 Thunderbird
+-5.454
+1265.
+Amd
+Athlon 1333 Thunderbird
+-5.454
+1266.
+Amd
+Athlon 1400B Thunderbird
+-5.454
+1267.
+Amd
+Athlon 1400C Thunderbird
+-5.454
+1268.
+Amd
+Athlon 600 Thunderbird
+-5.454
+1269.
+Amd
+Athlon 650 Thunderbird
+-5.454
+1270.
+Amd
+Athlon 700 Thunderbird
+-5.454
+1271.
+Amd
+Athlon 750 Thunderbird
+-5.454
+1272.
+Amd
+Athlon 800 Thunderbird
+-5.454
+1273.
+Amd
+Athlon 850 Thunderbird
+-5.454
+1274.
+Amd
+Athlon 900 Thunderbird
+-5.454
+1275.
+Amd
+Athlon 950 Thunderbird
+-5.454
+1276.
+Amd
+3700+ Toledo
+-5.454
+1277.
+Amd
+4000+ Toledo
+-5.454
+1278.
+Amd
+FX-60
+-5.454
+1279.
+Amd
+X2 3800+ Toledo
+-5.454
+1280.
+Amd
+X2 4200+ Toledo
+-5.454
+1281.
+Amd
+X2 4400+ Toledo
+-5.454
+1282.
+Amd
+X2 4600+ Toledo
+-5.454
+1283.
+Amd
+X2 4800+ Toledo
+-5.454
+1284.
+Amd
+X3 8250e
+-5.454
+1285.
+Amd
+X3 8450e
+-5.454
+1286.
+Amd
+X3 8600B
+-5.454
+1287.
+Amd
+X3 8750B
+-5.454
+1288.
+Amd
+X3 8750 Black Edition
+-5.454
+1289.
+Amd
+X2 340
+-5.454
+1290.
+Amd
+X4 740
+-5.454
+1291.
+Amd
+X4 750K
+-5.454
+1292.
+Amd
+4228HE
+-5.454
+1293.
+Amd
+4230HE
+-5.454
+1294.
+Amd
+4256EE
+-5.454
+1295.
+Amd
+4274HE
+-5.454
+1296.
+Amd
+4276HE
+-5.454
+1297.
+Amd
+1500+ Venice
+-5.454
+1298.
+Amd
+3000+ Venice
+-5.454
+1299.
+Amd
+3000+ Venice
+-5.454
+1300.
+Amd
+3200+ Venice
+-5.454
+1301.
+Amd
+3200+ Venice
+-5.454
+1302.
+Amd
+3400+ Venice
+-5.454
+1303.
+Amd
+3400+ Venice
+-5.454
+1304.
+Amd
+3500+ Venice
+-5.454
+1305.
+Amd
+3800+ Venice
+-5.454
+1306.
+Amd
+Ryzen 5 5600X3D
+-5.454
+1307.
+Amd
+3000+ Winchester
+-5.454
+1308.
+Amd
+3200+ Winchester
+-5.454
+1309.
+Amd
+3500+ Winchester
+-5.454
+1310.
+Amd
+FX-62
+-5.454
+1311.
+Amd
+FX-70
+-5.454
+1312.
+Amd
+FX-72
+-5.454
+1313.
+Amd
+FX-74
+-5.454
+1314.
+Amd
+X2 3600+ Windsor EF
+-5.454
+1315.
+Amd
+X2 3800+ Windsor
+-5.454
+1316.
+Amd
+X2 3800+ Windsor EF
+-5.454
+1317.
+Amd
+X2 3800+ Windsor UP
+-5.454
+1318.
+Amd
+X2 4000+ Windsor
+-5.454
+1319.
+Amd
+X2 4000+ Windsor EF
+-5.454
+1320.
+Amd
+X2 4200+ Windsor
+-5.454
+1321.
+Amd
+X2 4200+ Windsor EF
+-5.454
+1322.
+Amd
+X2 4400+ Windsor
+-5.454
+1323.
+Amd
+X2 4400+ Windsor EF
+-5.454
+1324.
+Amd
+X2 4600+ Windsor
+-5.454
+1325.
+Amd
+X2 4600+ Windsor EF
+-5.454
+1326.
+Amd
+X2 4800+ Windsor
+-5.454
+1327.
+Amd
+X2 4800+ Windsor
+-5.454
+1328.
+Amd
+X2 5000+ Windsor
+-5.454
+1329.
+Amd
+X2 5000+ Windsor
+-5.454
+1330.
+Amd
+X2 5200+ Windsor
+-5.454
+1331.
+Amd
+X2 5200+ Windsor EF
+-5.454
+1332.
+Amd
+X2 5400+ Windsor
+-5.454
+1333.
+Amd
+X2 5600+ Windsor
+-5.454
+1334.
+Amd
+X2 6000+ Windsor
+-5.454
+1335.
+Amd
+X2 6400+ Black Edition Windsor
+-5.454
+1336.
+Amd
+X4 650T
+-5.454
+1337.
+Amd
+6366HE
+-5.454
+1338.
+Amd
+6386SE
+-5.454
+1339.
+Amd
+2344HE
+-5.454
+1340.
+Amd
+2346HE
+-5.454
+1341.
+Amd
+2347HE
+-5.454
+1342.
+Amd
+2358SE
+-5.454
+1343.
+Amd
+2360SE
+-5.454
+1344.
+Amd
+8346HE
+-5.454
+1345.
+Amd
+8347HE
+-5.454
+1346.
+Amd
+8350HE
+-5.454
+1347.
+Amd
+8358SE
+-5.454
+1348.
+Amd
+8360SE
+-5.454
+1349.
+Amd
+3320EE
+-5.454
+1350.
+Amd
+3350HE
+-5.454
+1351.
+Amd
+EPYC 9124
+-5.454
+1352.
+Amd
+EPYC 9174F
+-5.454
+1353.
+Amd
+EPYC 9224
+-5.454
+1354.
+Amd
+EPYC 9254
+-5.454
+1355.
+Amd
+EPYC 9274F
+-5.454
+1356.
+Amd
+EPYC 9334
+-5.454
+1357.
+Amd
+EPYC 9354
+-5.454
+1358.
+Amd
+EPYC 9354P
+-5.454
+1359.
+Amd
+EPYC 9374F
+-5.454
+1360.
+Amd
+EPYC 9454
+-5.454
+1361.
+Amd
+EPYC 9454P
+-5.454
+1362.
+Amd
+EPYC 9474F
+-5.454
+1363.
+Amd
+EPYC 9534
+-5.454
+1364.
+Amd
+EPYC 9554
+-5.454
+1365.
+Amd
+EPYC 9554P
+-5.454
+1366.
+Amd
+EPYC 9634
+-5.454
+1367.
+Amd
+EPYC 9654
+-5.454
+1368.
+Amd
+EPYC 9654P
+-5.454
+1369.
+Amd
+6230HE
+-5.454
+1370.
+Amd
+6262HE
+-5.454
+1371.
+Amd
+6282SE
+-5.454
+1372.
+Amd
+6284SE
+-5.454
+1373.
+Amd
+2419EE
+-5.454
+1374.
+Amd
+2423HE
+-5.454
+1375.
+Amd
+2425HE
+-5.454
+1376.
+Amd
+2439SE
+-5.454
+1377.
+Amd
+8419EE
+-5.454
+1378.
+Amd
+8425HE
+-5.454
+1379.
+Amd
+8439SE
+-5.454
+1380.
+Amd
+4162EE
+-5.454
+1381.
+Amd
+4164EE
+-5.454
+1382.
+Amd
+4170HE
+-5.454
+1383.
+Amd
+4171HE
+-5.454
+1384.
+Amd
+4174HE
+-5.454
+1385.
+Amd
+4176HE
+-5.454
+1386.
+Amd
+6124HE
+-5.454
+1387.
+Amd
+6128HE
+-5.454
+1388.
+Amd
+6132HE
+-5.454
+1389.
+Amd
+6164HE
+-5.454
+1390.
+Amd
+6166HE
+-5.454
+1391.
+Amd
+6176SE
+-5.454
+1392.
+Amd
+6180SE
+-5.454
+1393.
+Amd
+Epyc 7251
+-5.454
+1394.
+Amd
+Epyc 7261
+-5.454
+1395.
+Amd
+Epyc 7281
+-5.454
+1396.
+Amd
+Epyc 7301
+-5.454
+1397.
+Amd
+Epyc 7351
+-5.454
+1398.
+Amd
+Epyc 7351P
+-5.454
+1399.
+Amd
+Epyc 7401
+-5.454
+1400.
+Amd
+Epyc 7401P
+-5.454
+1401.
+Amd
+Epyc 7451
+-5.454
+1402.
+Amd
+Epyc 7501
+-5.454
+1403.
+Amd
+Epyc 7551
+-5.454
+1404.
+Amd
+Epyc 7551P
+-5.454
+1405.
+Amd
+Epyc 7601
+-5.454
+1406.
+Amd
+Epyc 7232P
+-5.454
+1407.
+Amd
+Epyc 7252
+-5.454
+1408.
+Amd
+Epyc 7262
+-5.454
+1409.
+Amd
+Epyc 7272
+-5.454
+1410.
+Amd
+Epyc 7282
+-5.454
+1411.
+Amd
+Epyc 7302
+-5.454
+1412.
+Amd
+Epyc 7302P
+-5.454
+1413.
+Amd
+Epyc 7352
+-5.454
+1414.
+Amd
+Epyc 7402
+-5.454
+1415.
+Amd
+Epyc 7402P
+-5.454
+1416.
+Amd
+Epyc 7452
+-5.454
+1417.
+Amd
+Epyc 7502
+-5.454
+1418.
+Amd
+Epyc 7502P
+-5.454
+1419.
+Amd
+Epyc 7532
+-5.454
+1420.
+Amd
+Epyc 7542
+-5.454
+1421.
+Amd
+Epyc 7552
+-5.454
+1422.
+Amd
+Epyc 7642
+-5.454
+1423.
+Amd
+Epyc 7662
+-5.454
+1424.
+Amd
+Epyc 7702
+-5.454
+1425.
+Amd
+Epyc 7702P
+-5.454
+1426.
+Amd
+Epyc 7F32
+-5.454
+1427.
+Amd
+Epyc 7F52
+-5.454
+1428.
+Amd
+Epyc 7F72
+-5.454
+1429.
+Amd
+Epyc 7H12
+-5.454
+1430.
+Amd
+4310EE
+-5.454
+1431.
+Amd
+4332HE
+-5.454
+1432.
+Amd
+4365EE
+-5.454
+1433.
+Amd
+4376HE
+-5.454
+1434.
+Amd
+2372HE
+-5.454
+1435.
+Amd
+2373EE
+-5.454
+1436.
+Amd
+2374HE
+-5.454
+1437.
+Amd
+2376HE
+-5.454
+1438.
+Amd
+2377EE
+-5.454
+1439.
+Amd
+2379HE
+-5.454
+1440.
+Amd
+2381HE
+-5.454
+1441.
+Amd
+2386SE
+-5.454
+1442.
+Amd
+2393SE
+-5.454
+1443.
+Amd
+8374HE
+-5.454
+1444.
+Amd
+8376HE
+-5.454
+1445.
+Amd
+8379HE
+-5.454
+1446.
+Amd
+8381HE
+-5.454
+1447.
+Amd
+8386SE
+-5.454
+1448.
+Amd
+8393SE
+-5.454
+1449.
+Amd
+EPYC Embedded 3101
+-5.454
+1450.
+Amd
+EPYC Embedded 3151
+-5.454
+1451.
+Amd
+EPYC Embedded 3201
+-5.454
+1452.
+Amd
+EPYC Embedded 3251
+-5.454
+1453.
+Amd
+EPYC Embedded 3301
+-5.454
+1454.
+Amd
+EPYC Embedded 3351
+-5.454
+1455.
+Amd
+EPYC Embedded 3401
+-5.454
+1456.
+Amd
+EPYC Embedded 3451
+-5.454
+1457.
+Amd
+6338P
+-5.454
+1458.
+Amd
+6370P
+-5.454
+1459.
+Amd
+3250HE
+-5.454
+1460.
+Amd
+3260HE
+-5.454
+1461.
+Intel
+Core i7-8709G
+-5.454
+1462.
+Intel
+Core 2 duo e6300
+-5.454
+1463.
+Intel
+Core 2 duo e6550
+-5.454
+1464.
+Intel
+Core 2 duo e7400
+-5.454
+1465.
+Intel
+Core 2 duo e7500
+-5.454
+1466.
+Intel
+Core 2 duo e7600
+-5.454
+1467.
+Intel
+Core 2 duo e8400
+-5.454
+1468.
+Intel
+Core 2 duo e8500
+-5.454
+1469.
+Intel
+Core 2 duo e8600
+-5.454
+1470.
+Intel
+Core 2 duo p7450
+-5.454
+1471.
+Intel
+Core 2 duo p8400
+-5.454
+1472.
+Intel
+Core 2 duo p8600
+-5.454
+1473.
+Intel
+Core 2 duo p8700
+-5.454
+1474.
+Intel
+Core 2 duo t6500
+-5.454
+1475.
+Intel
+Core 2 duo t6600
+-5.454
+1476.
+Intel
+Core 2 duo t7500
+-5.454
+1477.
+Intel
+Core 2 duo t8300
+-5.454
+1478.
+Intel
+Core 2 duo t9300
+-5.454
+1479.
+Intel
+Core 2 duo t9400
+-5.454
+1480.
+Intel
+Core 2 duo t9500
+-5.454
+1481.
+Intel
+Core 2 duo t9600
+-5.454
+1482.
+Intel
+Core 2 quad q6600
+-5.454
+1483.
+Intel
+Core 2 quad q6700
+-5.454
+1484.
+Intel
+Core 2 quad q8200
+-5.454
+1485.
+Intel
+Core 2 quad q8300
+-5.454
+1486.
+Intel
+Core 2 quad q8400
+-5.454
+1487.
+Intel
+Core 2 quad q9400
+-5.454
+1488.
+Intel
+Core 2 quad q9450
+-5.454
+1489.
+Intel
+Core 2 quad q9500
+-5.454
+1490.
+Intel
+Core 2 quad q9505
+-5.454
+1491.
+Intel
+Core 2 quad q9550
+-5.454
+1492.
+Intel
+Core 2 quad q9650
+-5.454
+1493.
+Intel
+Core i3 1000ng4
+-5.454
+1494.
+Intel
+Core i3 1115g4
+-5.454
+1495.
+Intel
+Core i3 1125g4
+-5.454
+1496.
+Intel
+Core i3 1215u
+-5.454
+1497.
+Intel
+Core i3 8121u
+-5.454
+1498.
+Intel
+Core i5 1030ng7
+-5.454
+1499.
+Intel
+Core i5 1038ng7
+-5.454
+1500.
+Intel
+Core i5 1135g7
+-5.454
+1501.
+Intel
+Core i5 1145g7
+-5.454
+1502.
+Intel
+Core i5 1230u
+-5.454
+1503.
+Intel
+Core i5 1235u
+-5.454
+1504.
+Intel
+Core i5 2415m
+-5.454
+1505.
+Intel
+Core i5 l16g7
+-5.454
+1506.
+Intel
+Core i7 1060ng7
+-5.454
+1507.
+Intel
+Core i7 1068ng7
+-5.454
+1508.
+Intel
+Core i7 10875h
+-5.454
+1509.
+Intel
+Core i7 11375h
+-5.454
+1510.
+Intel
+Core i7 1165g7
+-5.454
+1511.
+Intel
+Core i7 1185g7
+-5.454
+1512.
+Intel
+Core i7 1195g7
+-5.454
+1513.
+Intel
+Core i7 1250u
+-5.454
+1514.
+Intel
+Core i7 1260u
+-5.454
+1515.
+Intel
+Core i7 1265u
+-5.454
+1516.
+Intel
+Core i9 10885h
+-5.454
+1517.
+Intel
+Core m 5y10c
+-5.454
+1518.
+Intel
+a10 4600m
+-5.454
+1519.
+Intel
+a10 5745m
+-5.454
+1520.
+Intel
+a10 5800K
+-5.454
+1521.
+Intel
+a10 6700
+-5.454
+1522.
+Intel
+a10 6800K
+-5.454
+1523.
+Intel
+a10 7300
+-5.454
+1524.
+Intel
+a10 7800
+-5.454
+1525.
+Intel
+a10 7850K
+-5.454
+1526.
+Intel
+a10 7860K
+-5.454
+1527.
+Intel
+a10 8700p
+-5.454
+1528.
+Intel
+a10 9600p
+-5.454
+1529.
+Intel
+a12 9720p
+-5.454
+1530.
+Intel
+a12 9800
+-5.454
+1531.
+Intel
+a4 3300m
+-5.454
+1532.
+Intel
+a4 3330mx
+-5.454
+1533.
+Intel
+a4 4300m
+-5.454
+1534.
+Intel
+a4 5000
+-5.454
+1535.
+Intel
+a4 5300
+-5.454
+1536.
+Intel
+a4 7210
+-5.454
+1537.
+Intel
+a6 4455m
+-5.454
+1538.
+Intel
+a6 5200
+-5.454
+1539.
+Intel
+a6 7310
+-5.454
+1540.
+Intel
+a6 9500
+-5.454
+1541.
+Intel
+a8 3870
+-5.454
+1542.
+Intel
+a8 4500m
+-5.454
+1543.
+Intel
+a8 5500
+-5.454
+1544.
+Intel
+a8 5500b
+-5.454
+1545.
+Intel
+a8 5545m
+-5.454
+1546.
+Intel
+a8 5550m
+-5.454
+1547.
+Intel
+a8 5600K
+-5.454
+1548.
+Intel
+a8 6500
+-5.454
+1549.
+Intel
+a8 6600K
+-5.454
+1550.
+Intel
+a8 7410
+-5.454
+1551.
+Intel
+athlon ii x2 260
+-5.454
+1552.
+Intel
+athlon ii x4 635
+-5.454
+1553.
+Intel
+athlon ii x4 640
+-5.454
+1554.
+Intel
+athlon ii x4 651
+-5.454
+1555.
+Intel
+athlon x4 840
+-5.454
+1556.
+Intel
+atom x5 z8500
+-5.454
+1557.
+Intel
+atom x5 z8550
+-5.454
+1558.
+Intel
+atom x7 e3950
+-5.454
+1559.
+Intel
+atom x7 z8700
+-5.454
+1560.
+Intel
+atom x7 z8750
+-5.454
+1561.
+Intel
+celeron 1005m
+-5.454
+1562.
+Intel
+celeron 1007u
+-5.454
+1563.
+Intel
+celeron 3205u
+-5.454
+1564.
+Intel
+celeron b815
+-5.454
+1565.
+Intel
+celeron b820
+-5.454
+1566.
+Intel
+celeron g1820
+-5.454
+1567.
+Intel
+celeron g3900
+-5.454
+1568.
+Intel
+celeron g3900T
+-5.454
+1569.
+Intel
+celeron g3930
+-5.454
+1570.
+Intel
+celeron g4900
+-5.454
+1571.
+Intel
+celeron g530
+-5.454
+1572.
+Intel
+celeron j1900
+-5.454
+1573.
+Intel
+celeron j4105
+-5.454
+1574.
+Intel
+celeron n2830
+-5.454
+1575.
+Intel
+celeron n2940
+-5.454
+1576.
+Intel
+celeron n3050
+-5.454
+1577.
+Intel
+celeron n3150
+-5.454
+1578.
+Intel
+celeron n4000
+-5.454
+1579.
+Intel
+celeron n4020
+-5.454
+1580.
+Intel
+celeron n4100
+-5.454
+1581.
+Intel
+e 300
+-5.454
+1582.
+Intel
+e 450
+-5.454
+1583.
+Intel
+e1 2500
+-5.454
+1584.
+Intel
+e1 6010
+-5.454
+1585.
+Intel
+e1 6015
+-5.454
+1586.
+Intel
+e2 1800
+-5.454
+1587.
+Intel
+e2 7110
+-5.454
+1588.
+Intel
+fx 9830p
+-5.454
+1589.
+Intel
+pentium gold 4417u
+-5.454
+1590.
+Intel
+pentium silver j5005
+-5.454
+1591.
+Intel
+pentium silver n5000
+-5.454
+1592.
+Intel
+phenom ii x4 955 black edition
+-5.454
+1593.
+Intel
+phenom ii x6 1100T black edition
+-5.454
+1594.
+Intel
+phenom x4 9550
+-5.454
+1595.
+Intel
+pro a10 8700b
+-5.454
+1596.
+Intel
+pro a10 8730b
+-5.454
+1597.
+Intel
+pro a8 8600b
+-5.454
+1598.
+Intel
+pro a8 8650b
+-5.454
+1599.
+Intel
+ryzen 3 2200u
+-5.454
+1600.
+Intel
+ryzen 3 3100
+-5.454
+1601.
+Intel
+ryzen 3 3200g
+-5.454
+1602.
+Intel
+ryzen 3 3200u
+-5.454
+1603.
+Intel
+ryzen 3 3300x
+-5.454
+1604.
+Intel
+ryzen 3 pro 1300
+-5.454
+1605.
+Intel
+ryzen 5 2400g
+-5.454
+1606.
+Intel
+ryzen 5 2500u
+-5.454
+1607.
+Intel
+ryzen 5 3600xt
+-5.454
+1608.
+Intel
+ryzen 5 4600u
+-5.454
+1609.
+Intel
+ryzen 5 5500
+-5.454
+1610.
+Intel
+ryzen 5 5600
+-5.454
+1611.
+Intel
+ryzen 5 pro 3500u
+-5.454
+1612.
+Intel
+ryzen 7 3780u microsoft surface edition
+-5.454
+1613.
+Intel
+ryzen 7 4700u
+-5.454
+1614.
+Intel
+ryzen 7 4800H
+-5.454
+1615.
+Intel
+ryzen 7 4800Hs
+-5.454
+1616.
+Intel
+ryzen 7 4800u
+-5.454
+1617.
+Intel
+ryzen 7 5700u
+-5.454
+1618.
+Intel
+ryzen 7 pro 1700
+-5.454
+1619.
+Intel
+ryzen 7 pro 2700u
+-5.454
+1620.
+Intel
+ryzen 7 pro 3700u
+-5.454
+1621.
+Intel
+ryzen 7 pro 4750u
+-5.454
+1622.
+Intel
+ryzen 9 6900Hs
+-5.454
+1623.
+Intel
+ryzen 9 7845hx
+-5.454
+1624.
+Intel
+ryzen 9 7945hx
+-5.454
+1625.
+Intel
+ryzen threadripper 1900x
+-5.454
+1626.
+Intel
+ryzen threadripper 1920x
+-5.454
+1627.
+Intel
+ryzen threadripper 1950x
+-5.454
+1628.
+Intel
+ryzen threadripper 2990wx
+-5.454
+1629.
+Intel
+ryzen threadripper 3970x
+-5.454
+1630.
+Intel
+ryzen threadripper pro 3945wx
+-5.454
+1631.
+Intel
+ryzen threadripper pro 3955wx
+-5.454
+1632.
+Intel
+ryzen threadripper pro 5965wx
+-5.454
+1633.
+Intel
+ryzen threadripper pro 5995wx
+-5.454
+1634.
+Intel
+xeon e3 1220 v2
+-5.454
+1635.
+Intel
+xeon e3 1225 v5
+-5.454
+1636.
+Intel
+xeon e3 1225 v6
+-5.454
+1637.
+Intel
+xeon e3 1226 v3
+-5.454
+1638.
+Intel
+xeon e3 1230 v5
+-5.454
+1639.
+Intel
+xeon e3 1230 v6
+-5.454
+1640.
+Intel
+xeon e3 1231 v3
+-5.454
+1641.
+Intel
+xeon e3 1240 v6
+-5.454
+1642.
+Intel
+xeon e3 1245 v5
+-5.454
+1643.
+Intel
+xeon e3 1276 v3
+-5.454
+1644.
+Intel
+xeon e3 1280 v2
+-5.454
+1645.
+Intel
+xeon e3 1505m v5
+-5.454
+1646.
+Intel
+xeon e3 1505m v6
+-5.454
+1647.
+Intel
+xeon e3 1535m v6
+-5.454
+1648.
+Intel
+xeon e5 1620 v3
+-5.454
+1649.
+Intel
+xeon e5 1630 v3
+-5.454
+1650.
+Intel
+xeon e5 1630 v4
+-5.454
+1651.
+Intel
+xeon e5 1650 v3
+-5.454
+1652.
+Intel
+xeon e5 1660 v3
+-5.454
+1653.
+Intel
+xeon e5 1660 v4
+-5.454
+1654.
+Intel
+xeon e5 2420 v2
+-5.454
+1655.
+Intel
+xeon e5 2470 v2
+-5.454
+1656.
+Intel
+xeon e5 2620 v2
+-5.454
+1657.
+Intel
+xeon e5 2630 v4
+-5.454
+1658.
+Intel
+xeon e5 2630l v3
+-5.454
+1659.
+Intel
+xeon e5 2637 v3
+-5.454
+1660.
+Intel
+xeon e5 2650 v3
+-5.454
+1661.
+Intel
+xeon e5 2650l v4
+-5.454
+1662.
+Intel
+xeon e5 2660 v2
+-5.454
+1663.
+Intel
+xeon e5 2670 v3
+-5.454
+1664.
+Intel
+xeon e5 2680 v4
+-5.454
+1665.
+Intel
+xeon e5 2683 v4
+-5.454
+1666.
+Intel
+xeon e5 2687w v3
+-5.454
+1667.
+Intel
+xeon e5 2690 v3
+-5.454
+1668.
+Intel
+xeon e5 2696 v2
+-5.454
+1669.
+Intel
+xeon e5 2697 v2
+-5.454
+1670.
+Intel
+xeon e5 2697 v4
+-5.454
+1671.
+Intel
+xeon e5 2697a v4
+-5.454
+1672.
+Intel
+xeon e5 2698 v3
+-5.454
+1673.
+Intel
+xeon e5 2699 v4
+-5.454
+1674.
+Intel
+xeon gold 6154
+-5.454
+1675.
+Intel
+xeon silver 4214
+-5.454
+1676.
+Intel
+xeon w 1290p
+-5.454
+1677.
+Intel
+xeon w 2140b
+-5.454
+1678.
+Intel
+xeon w 2150b
+-5.454
+1679.
+Intel
+Pentium 310
+-5.454
+1680.
+Intel
+Pentium 315
+-5.454
+1681.
+Intel
+Pentium 315J
+-5.454
+1682.
+Intel
+Pentium 320
+-5.454
+1683.
+Intel
+Pentium 325
+-5.454
+1684.
+Intel
+Pentium 326
+-5.454
+1685.
+Intel
+Pentium 325J
+-5.454
+1686.
+Intel
+Pentium 330
+-5.454
+1687.
+Intel
+Pentium 330J
+-5.454
+1688.
+Intel
+Pentium 331
+-5.454
+1689.
+Intel
+Pentium 335
+-5.454
+1690.
+Intel
+Pentium 335J
+-5.454
+1691.
+Intel
+Pentium 336
+-5.454
+1692.
+Intel
+Pentium 340
+-5.454
+1693.
+Intel
+Pentium 340J
+-5.454
+1694.
+Intel
+Pentium 341
+-5.454
+1695.
+Intel
+Pentium 345
+-5.454
+1696.
+Intel
+Pentium 345J
+-5.454
+1697.
+Intel
+Pentium 346
+-5.454
+1698.
+Intel
+Pentium 350
+-5.454
+1699.
+Intel
+Pentium 350J
+-5.454
+1700.
+Intel
+Pentium 351
+-5.454
+1701.
+Intel
+Pentium 352
+-5.454
+1702.
+Intel
+Pentium 355
+-5.454
+1703.
+Intel
+Pentium 356
+-5.454
+1704.
+Intel
+Pentium 360
+-5.454
+1705.
+Intel
+Pentium 370
+-5.454
+1706.
+Intel
+Pentium 380
+-5.454
+1707.
+Intel
+Pentium 390
+-5.454
+1708.
+Intel
+Pentium 410
+-5.454
+1709.
+Intel
+Pentium 420
+-5.454
+1710.
+Intel
+Pentium 430
+-5.454
+1711.
+Intel
+Pentium 440
+-5.454
+1712.
+Intel
+Pentium 450
+-5.454
+1713.
+Intel
+Pentium 333
+-5.454
+1714.
+Intel
+Pentium 353
+-5.454
+1715.
+Intel
+Pentium 373
+-5.454
+1716.
+Intel
+Pentium 383
+-5.454
+1717.
+Intel
+Pentium 423
+-5.454
+1718.
+Intel
+Xeon 3040
+-5.454
+1719.
+Intel
+Xeon 3050
+-5.454
+1720.
+Intel
+Xeon 3060
+-5.454
+1721.
+Intel
+Xeon 3070
+-5.454
+1722.
+Intel
+Xeon 5030
+-5.454
+1723.
+Intel
+Xeon 5040
+-5.454
+1724.
+Intel
+Xeon 5050
+-5.454
+1725.
+Intel
+Xeon 5060
+-5.454
+1726.
+Intel
+Xeon 5070
+-5.454
+1727.
+Intel
+Xeon 5080
+-5.454
+1728.
+Intel
+Xeon 5110
+-5.454
+1729.
+Intel
+Xeon 5120
+-5.454
+1730.
+Intel
+Xeon 5130
+-5.454
+1731.
+Intel
+Xeon 5140
+-5.454
+1732.
+Intel
+Xeon 5150
+-5.454
+1733.
+Intel
+Xeon 5160
+-5.454
+1734.
+Intel
+Xeon 5148
+-5.454
+1735.
+Intel
+Xeon 7020
+-5.454
+1736.
+Intel
+Xeon 7030
+-5.454
+1737.
+Intel
+Xeon 7040
+-5.454
+1738.
+Intel
+Xeon 7041
+-5.454
+1739.
+Intel
+Core L2300
+-5.454
+1740.
+Intel
+Core L2400
+-5.454
+1741.
+Intel
+Core L2500
+-5.454
+1742.
+Intel
+Core T2050
+-5.454
+1743.
+Intel
+Core T2300E
+-5.454
+1744.
+Intel
+Core T2700
+-5.454
+1745.
+Intel
+Core U2400
+-5.454
+1746.
+Intel
+Core U2500
+-5.454
+1747.
+Intel
+Core T1300
+-5.454
+1748.
+Intel
+Core T1350
+-5.454
+1749.
+Intel
+Core T1400
+-5.454
+1750.
+Intel
+Core U1300
+-5.454
+1751.
+Intel
+Core U1400
+-5.454
+1752.
+Intel
+Core E6300
+-5.454
+1753.
+Intel
+Core E6400
+-5.454
+1754.
+Intel
+Core E6600
+-5.454
+1755.
+Intel
+Core E6700
+-5.454
+1756.
+Intel
+Core T5200
+-5.454
+1757.
+Intel
+Core T5500
+-5.454
+1758.
+Intel
+Core T5600
+-5.454
+1759.
+Intel
+Core T7200
+-5.454
+1760.
+Intel
+Core T7400
+-5.454
+1761.
+Intel
+Core T7600
+-5.454
+1762.
+Intel
+Core X6800
+-5.454
+1763.
+Intel
+Xeon 7110M
+-5.454
+1764.
+Intel
+Xeon 7110N
+-5.454
+1765.
+Intel
+Xeon 7120M
+-5.454
+1766.
+Intel
+Xeon 7120N
+-5.454
+1767.
+Intel
+Xeon 7130M
+-5.454
+1768.
+Intel
+Xeon 7130N
+-5.454
+1769.
+Intel
+Xeon 7140M
+-5.454
+1770.
+Intel
+Xeon 7140N
+-5.454
+1771.
+Intel
+Pentium 518
+-5.454
+1772.
+Intel
+Pentium 532
+-5.454
+1773.
+Intel
+Pentium 538
+-5.454
+1774.
+Intel
+Pentium 548
+-5.454
+1775.
+Intel
+Pentium 552
+-5.454
+1776.
+Intel
+Pentium 520
+-5.454
+1777.
+Intel
+Pentium 505
+-5.454
+1778.
+Intel
+Pentium 505J
+-5.454
+1779.
+Intel
+Pentium 506
+-5.454
+1780.
+Intel
+Pentium 511
+-5.454
+1781.
+Intel
+Pentium 515
+-5.454
+1782.
+Intel
+Pentium 516
+-5.454
+1783.
+Intel
+Pentium 517
+-5.454
+1784.
+Intel
+Pentium 519
+-5.454
+1785.
+Intel
+Pentium 519K
+-5.454
+1786.
+Intel
+Pentium 520J
+-5.454
+1787.
+Intel
+Pentium 521
+-5.454
+1788.
+Intel
+Pentium 524
+-5.454
+1789.
+Intel
+Pentium 530
+-5.454
+1790.
+Intel
+Pentium 530J
+-5.454
+1791.
+Intel
+Pentium 531
+-5.454
+1792.
+Intel
+Pentium 540
+-5.454
+1793.
+Intel
+Pentium 540J
+-5.454
+1794.
+Intel
+Pentium 541
+-5.454
+1795.
+Intel
+Pentium 550
+-5.454
+1796.
+Intel
+Pentium 551
+-5.454
+1797.
+Intel
+Pentium 560
+-5.454
+1798.
+Intel
+Pentium 560J
+-5.454
+1799.
+Intel
+Pentium 561
+-5.454
+1800.
+Intel
+Pentium 570
+-5.454
+1801.
+Intel
+Pentium 571
+-5.454
+1802.
+Intel
+Pentium 620
+-5.454
+1803.
+Intel
+Pentium 630
+-5.454
+1804.
+Intel
+Pentium 631
+-5.454
+1805.
+Intel
+Pentium 640
+-5.454
+1806.
+Intel
+Pentium 641
+-5.454
+1807.
+Intel
+Pentium 650
+-5.454
+1808.
+Intel
+Pentium 651
+-5.454
+1809.
+Intel
+Pentium 660
+-5.454
+1810.
+Intel
+Pentium 661
+-5.454
+1811.
+Intel
+Pentium 662
+-5.454
+1812.
+Intel
+Pentium 670
+-5.454
+1813.
+Intel
+Pentium 672
+-5.454
+1814.
+Intel
+Pentium 805
+-5.454
+1815.
+Intel
+Pentium 820
+-5.454
+1816.
+Intel
+Pentium 830
+-5.454
+1817.
+Intel
+Pentium 840
+-5.454
+1818.
+Intel
+Pentium 915
+-5.454
+1819.
+Intel
+Pentium 920
+-5.454
+1820.
+Intel
+Pentium 925
+-5.454
+1821.
+Intel
+Pentium 930
+-5.454
+1822.
+Intel
+Pentium 940
+-5.454
+1823.
+Intel
+Pentium 945
+-5.454
+1824.
+Intel
+Pentium 950
+-5.454
+1825.
+Intel
+Pentium 960
+-5.454
+1826.
+Intel
+Pentium 705
+-5.454
+1827.
+Intel
+Pentium 715
+-5.454
+1828.
+Intel
+Pentium 725
+-5.454
+1829.
+Intel
+Pentium 730
+-5.454
+1830.
+Intel
+Pentium 735
+-5.454
+1831.
+Intel
+Pentium 740
+-5.454
+1832.
+Intel
+Pentium 745
+-5.454
+1833.
+Intel
+Pentium 745A
+-5.454
+1834.
+Intel
+Pentium 750
+-5.454
+1835.
+Intel
+Pentium 755
+-5.454
+1836.
+Intel
+Pentium 760
+-5.454
+1837.
+Intel
+Pentium 765
+-5.454
+1838.
+Intel
+Pentium 770
+-5.454
+1839.
+Intel
+Pentium 780
+-5.454
+1840.
+Intel
+Pentium 718
+-5.454
+1841.
+Intel
+Pentium 738
+-5.454
+1842.
+Intel
+Pentium 758
+-5.454
+1843.
+Intel
+Pentium 778
+-5.454
+1844.
+Intel
+Pentium 713
+-5.454
+1845.
+Intel
+Pentium 723
+-5.454
+1846.
+Intel
+Pentium 733
+-5.454
+1847.
+Intel
+Pentium 753
+-5.454
+1848.
+Intel
+Pentium 773
+-5.454
+1849.
+Intel
+Pentium 955
+-5.454
+1850.
+Intel
+Pentium 965
+-5.454
+1851.
+Intel
+Pentium 347
+-5.454
+1852.
+Intel
+Pentium 365
+-5.454
+1853.
+Intel
+Pentium 443
+-5.454
+1854.
+Intel
+Pentium 935
+-5.454
+1855.
+Intel
+Xeon 5063
+-5.454
+1856.
+Intel
+Pentium T2060
+-5.454
+1857.
+Intel
+Core U1500
+-5.454
+1858.
+Intel
+Core E4300
+-5.454
+1859.
+Intel
+Core L7200
+-5.454
+1860.
+Intel
+Core L7400
+-5.454
+1861.
+Intel
+Core QX6700
+-5.454
+1862.
+Intel
+Xeon 7150N
+-5.454
+1863.
+Intel
+Xeon X3210
+-5.454
+1864.
+Intel
+Xeon X5355
+-5.454
+1865.
+Intel
+Pentium E2140
+-5.454
+1866.
+Intel
+Pentium E2160
+-5.454
+1867.
+Intel
+Pentium T2080
+-5.454
+1868.
+Intel
+Core T2350
+-5.454
+1869.
+Intel
+Core T2450
+-5.454
+1870.
+Intel
+Core E4400
+-5.454
+1871.
+Intel
+Core E6320
+-5.454
+1872.
+Intel
+Core E6420
+-5.454
+1873.
+Intel
+Core L7300
+-5.454
+1874.
+Intel
+Core L7500
+-5.454
+1875.
+Intel
+Core T5300
+-5.454
+1876.
+Intel
+Core T7100
+-5.454
+1877.
+Intel
+Core T7300
+-5.454
+1878.
+Intel
+Core T7500
+-5.454
+1879.
+Intel
+Core T7700
+-5.454
+1880.
+Intel
+Core U7500
+-5.454
+1881.
+Intel
+Core U7600
+-5.454
+1882.
+Intel
+Core Q6600
+-5.454
+1883.
+Intel
+Xeon L5320
+-5.454
+1884.
+Intel
+Xeon L5310
+-5.454
+1885.
+Intel
+Xeon 5128
+-5.454
+1886.
+Intel
+Xeon 5133
+-5.454
+1887.
+Intel
+Xeon 5138
+-5.454
+1888.
+Intel
+Xeon X5365
+-5.454
+1889.
+Intel
+Core QX6800
+-5.454
+1890.
+Intel
+Pentium 550J
+-5.454
+1891.
+Intel
+Pentium T2130
+-5.454
+1892.
+Intel
+Xeon 3065
+-5.454
+1893.
+Intel
+Xeon 5113
+-5.454
+1894.
+Intel
+Xeon E7210
+-5.454
+1895.
+Intel
+Xeon E7220
+-5.454
+1896.
+Intel
+Core E4500
+-5.454
+1897.
+Intel
+Core E6540
+-5.454
+1898.
+Intel
+Core E6550
+-5.454
+1899.
+Intel
+Core E6750
+-5.454
+1900.
+Intel
+Core E6850
+-5.454
+1901.
+Intel
+Core T5250
+-5.454
+1902.
+Intel
+Core T5450
+-5.454
+1903.
+Intel
+Core X7800
+-5.454
+1904.
+Intel
+Core QX6850
+-5.454
+1905.
+Intel
+Core Q6700
+-5.454
+1906.
+Intel
+Xeon L5335
+-5.454
+1907.
+Intel
+Xeon E7310
+-5.454
+1908.
+Intel
+Xeon E7320
+-5.454
+1909.
+Intel
+Xeon E7330
+-5.454
+1910.
+Intel
+Xeon E7340
+-5.454
+1911.
+Intel
+Xeon X7350
+-5.454
+1912.
+Intel
+Xeon X3230
+-5.454
+1913.
+Intel
+Core T7250
+-5.454
+1914.
+Intel
+Core T7800
+-5.454
+1915.
+Intel
+Core X7900
+-5.454
+1916.
+Intel
+Pentium E2180
+-5.454
+1917.
+Intel
+Core T5470
+-5.454
+1918.
+Intel
+Core U2100
+-5.454
+1919.
+Intel
+Core U2200
+-5.454
+1920.
+Intel
+Xeon L7345
+-5.454
+1921.
+Intel
+Pentium 215
+-5.454
+1922.
+Intel
+Pentium 523
+-5.454
+1923.
+Intel
+Core E4600
+-5.454
+1924.
+Intel
+Core L7700
+-5.454
+1925.
+Intel
+Core T5550
+-5.454
+1926.
+Intel
+Pentium E2220
+-5.454
+1927.
+Intel
+Pentium T2310
+-5.454
+1928.
+Intel
+Pentium T2330
+-5.454
+1929.
+Intel
+Xeon L3110
+-5.454
+1930.
+Intel
+Xeon E5410
+-5.454
+1931.
+Intel
+Xeon X5482
+-5.454
+1932.
+Intel
+Xeon L5410
+-5.454
+1933.
+Intel
+Xeon L5430
+-5.454
+1934.
+Intel
+Xeon E5205
+-5.454
+1935.
+Intel
+Core T5270
+-5.454
+1936.
+Intel
+Core T8300
+-5.454
+1937.
+Intel
+Pentium 220
+-5.454
+1938.
+Intel
+Xeon X5260
+-5.454
+1939.
+Intel
+Xeon X5272
+-5.454
+1940.
+Intel
+Core E8200
+-5.454
+1941.
+Intel
+Core E8400
+-5.454
+1942.
+Intel
+Core E8500
+-5.454
+1943.
+Intel
+Core T5750
+-5.454
+1944.
+Intel
+Core T8100
+-5.454
+1945.
+Intel
+Core T9300
+-5.454
+1946.
+Intel
+Core T9500
+-5.454
+1947.
+Intel
+Core U7700
+-5.454
+1948.
+Intel
+Core QX9650
+-5.454
+1949.
+Intel
+Core Q9300
+-5.454
+1950.
+Intel
+Core Q9450
+-5.454
+1951.
+Intel
+Core Q9550
+-5.454
+1952.
+Intel
+Pentium E2200
+-5.454
+1953.
+Intel
+Xeon X3320
+-5.454
+1954.
+Intel
+Xeon X3350
+-5.454
+1955.
+Intel
+Xeon X3360
+-5.454
+1956.
+Intel
+Pentium E1200
+-5.454
+1957.
+Intel
+Core E4700
+-5.454
+1958.
+Intel
+Core E8190
+-5.454
+1959.
+Intel
+Core X9000
+-5.454
+1960.
+Intel
+Core QX9770
+-5.454
+1961.
+Intel
+Pentium T2370
+-5.454
+1962.
+Intel
+Core QX9775
+-5.454
+1963.
+Intel
+Xeon L5408
+-5.454
+1964.
+Intel
+Xeon L5238
+-5.454
+1965.
+Intel
+Xeon E5240
+-5.454
+1966.
+Intel
+Pentium E1600
+-5.454
+1967.
+Intel
+Core E8300
+-5.454
+1968.
+Intel
+Pentium E1500
+-5.454
+1969.
+Intel
+Pentium E1400
+-5.454
+1970.
+Intel
+Xeon L5318
+-5.454
+1971.
+Intel
+Xeon L5240
+-5.454
+1972.
+Intel
+Pentium T2390
+-5.454
+1973.
+Intel
+Core T5670
+-5.454
+1974.
+Intel
+Core E7200
+-5.454
+1975.
+Intel
+Core Q9400
+-5.454
+1976.
+Intel
+Core Q9650
+-5.454
+1977.
+Intel
+Xeon E3120
+-5.454
+1978.
+Intel
+Core X9100
+-5.454
+1979.
+Intel
+Xeon X3330
+-5.454
+1980.
+Intel
+Xeon X3370
+-5.454
+1981.
+Intel
+Atom Z540
+-5.454
+1982.
+Intel
+Atom Z530
+-5.454
+1983.
+Intel
+Atom Z510
+-5.454
+1984.
+Intel
+Atom Z500
+-5.454
+1985.
+Intel
+Core T9400
+-5.454
+1986.
+Intel
+Core T9600
+-5.454
+1987.
+Intel
+Core P9500
+-5.454
+1988.
+Intel
+Core P8600
+-5.454
+1989.
+Intel
+Core P8400
+-5.454
+1990.
+Intel
+Core T5800
+-5.454
+1991.
+Intel
+Pentium T3400
+-5.454
+1992.
+Intel
+Core E8600
+-5.454
+1993.
+Intel
+Core E7300
+-5.454
+1994.
+Intel
+Core E7400
+-5.454
+1995.
+Intel
+Core E7500
+-5.454
+1996.
+Intel
+Core Q8200
+-5.454
+1997.
+Intel
+Xeon E5220
+-5.454
+1998.
+Intel
+Xeon X5270
+-5.454
+1999.
+Intel
+Pentium 575
+-5.454
+2000.
+Intel
+Pentium 585
+-5.454
+2001.
+Intel
+Xeon L5215
+-5.454
+2002.
+Intel
+Core SL9300
+-5.454
+2003.
+Intel
+Core SL9400
+-5.454
+2004.
+Intel
+Core SP9300
+-5.454
+2005.
+Intel
+Core SP9400
+-5.454
+2006.
+Intel
+Core SU9300
+-5.454
+2007.
+Intel
+Core SU9400
+-5.454
+2008.
+Intel
+Core QX9300
+-5.454
+2009.
+Intel
+Core P7450
+-5.454
+2010.
+Intel
+Pentium 722
+-5.454
+2011.
+Intel
+Core P7350
+-5.454
+2012.
+Intel
+Xeon L3014
+-5.454
+2013.
+Intel
+Xeon X5492
+-5.454
+2014.
+Intel
+Xeon L7445
+-5.454
+2015.
+Intel
+Xeon L7455
+-5.454
+2016.
+Intel
+Xeon E7430
+-5.454
+2017.
+Intel
+Xeon E7450
+-5.454
+2018.
+Intel
+Xeon E7440
+-5.454
+2019.
+Intel
+Xeon E7420
+-5.454
+2020.
+Intel
+Xeon X7460
+-5.454
+2021.
+Intel
+Core T9800
+-5.454
+2022.
+Intel
+Core P8700
+-5.454
+2023.
+Intel
+Core Q9100
+-5.454
+2024.
+Intel
+Core T5870
+-5.454
+2025.
+Intel
+Xeon E5502
+-5.454
+2026.
+Intel
+Xeon E5503
+-5.454
+2027.
+Intel
+Xeon X5550
+-5.454
+2028.
+Intel
+Xeon W5580
+-5.454
+2029.
+Intel
+Core P7370
+-5.454
+2030.
+Intel
+Pentium T1700
+-5.454
+2031.
+Intel
+Core T9550
+-5.454
+2032.
+Intel
+Core SU3500
+-5.454
+2033.
+Intel
+Pentium 743
+-5.454
+2034.
+Intel
+Core i7-965
+-5.454
+2035.
+Intel
+Core Q9500
+-5.454
+2036.
+Intel
+Pentium T3200
+-5.454
+2037.
+Intel
+Core SL9380
+-5.454
+2038.
+Intel
+Core T1250
+-5.454
+2039.
+Intel
+Core T6600
+-5.454
+2040.
+Intel
+Pentium T3100
+-5.454
+2041.
+Intel
+Core SP9600
+-5.454
+2042.
+Intel
+Core SL9600
+-5.454
+2043.
+Intel
+Core SU9600
+-5.454
+2044.
+Intel
+Core P9600
+-5.454
+2045.
+Intel
+Core Q8400
+-5.454
+2046.
+Intel
+Pentium T1600
+-5.454
+2047.
+Intel
+Core Q8300
+-5.454
+2048.
+Intel
+Core T6500
+-5.454
+2049.
+Intel
+Core T9900
+-5.454
+2050.
+Intel
+Xeon W3540
+-5.454
+2051.
+Intel
+Xeon W3580
+-5.454
+2052.
+Intel
+Core P8800
+-5.454
+2053.
+Intel
+Core T6400
+-5.454
+2054.
+Intel
+Core Q9000
+-5.454
+2055.
+Intel
+Xeon L3360
+-5.454
+2056.
+Intel
+Xeon L5506
+-5.454
+2057.
+Intel
+Xeon L5508
+-5.454
+2058.
+Intel
+Xeon L5518
+-5.454
+2059.
+Intel
+Atom Z515
+-5.454
+2060.
+Intel
+Atom Z550
+-5.454
+2061.
+Intel
+Core Q9400S
+-5.454
+2062.
+Intel
+Core Q9550S
+-5.454
+2063.
+Intel
+Core Q8200S
+-5.454
+2064.
+Intel
+Xeon X3380
+-5.454
+2065.
+Intel
+Atom Z530P
+-5.454
+2066.
+Intel
+Atom Z520PT
+-5.454
+2067.
+Intel
+Atom Z510P
+-5.454
+2068.
+Intel
+Atom Z510PT
+-5.454
+2069.
+Intel
+Core i7-860S
+-5.454
+2070.
+Intel
+Pentium 573
+-5.454
+2071.
+Intel
+Core E7600
+-5.454
+2072.
+Intel
+Pentium 900
+-5.454
+2073.
+Intel
+Xeon W5590
+-5.454
+2074.
+Intel
+Xeon L5530
+-5.454
+2075.
+Intel
+Core P7550
+-5.454
+2076.
+Intel
+Pentium T3500
+-5.454
+2077.
+Intel
+Core T6670
+-5.454
+2078.
+Intel
+Core Q8400S
+-5.454
+2079.
+Intel
+Core P7570
+-5.454
+2080.
+Intel
+Core P9700
+-5.454
+2081.
+Intel
+Pentium E3200
+-5.454
+2082.
+Intel
+Pentium E3300
+-5.454
+2083.
+Intel
+Pentium E3400
+-5.454
+2084.
+Intel
+Pentium E3500
+-5.454
+2085.
+Intel
+Pentium SU2300
+-5.454
+2086.
+Intel
+Pentium E6500K
+-5.454
+2087.
+Intel
+Core i5-750S
+-5.454
+2088.
+Intel
+Core Q9505
+-5.454
+2089.
+Intel
+Core Q9505S
+-5.454
+2090.
+Intel
+Core i7-820QM
+-5.454
+2091.
+Intel
+Core i7-920XM
+-5.454
+2092.
+Intel
+Core i7-940XM
+-5.454
+2093.
+Intel
+Xeon L3426
+-5.454
+2094.
+Intel
+Core i5-670
+-5.454
+2095.
+Intel
+Core i7-620LM
+-5.454
+2096.
+Intel
+Core i7-620UM
+-5.454
+2097.
+Intel
+Core i7-640LM
+-5.454
+2098.
+Intel
+Pentium G6951
+-5.454
+2099.
+Intel
+Atom N470
+-5.454
+2100.
+Intel
+Pentium G6960
+-5.454
+2101.
+Intel
+Xeon E6510
+-5.454
+2102.
+Intel
+Xeon E6540
+-5.454
+2103.
+Intel
+Xeon E7520
+-5.454
+2104.
+Intel
+Xeon E7530
+-5.454
+2105.
+Intel
+Xeon E7540
+-5.454
+2106.
+Intel
+Xeon L7545
+-5.454
+2107.
+Intel
+Xeon L7555
+-5.454
+2108.
+Intel
+Xeon X6550
+-5.454
+2109.
+Intel
+Xeon X7542
+-5.454
+2110.
+Intel
+Xeon X7550
+-5.454
+2111.
+Intel
+Xeon X7560
+-5.454
+2112.
+Intel
+Pentium T3300
+-5.454
+2113.
+Intel
+Pentium P4500
+-5.454
+2114.
+Intel
+Core i5-520UM
+-5.454
+2115.
+Intel
+Xeon L3406
+-5.454
+2116.
+Intel
+Xeon EC5549
+-5.454
+2117.
+Intel
+Xeon EC5539
+-5.454
+2118.
+Intel
+Xeon LC5528
+-5.454
+2119.
+Intel
+Xeon EC3539
+-5.454
+2120.
+Intel
+Xeon EC5509
+-5.454
+2121.
+Intel
+Xeon LC5518
+-5.454
+2122.
+Intel
+Xeon LC3528
+-5.454
+2123.
+Intel
+Xeon LC3518
+-5.454
+2124.
+Intel
+Pentium P1053
+-5.454
+2125.
+Intel
+Core i7-640UM
+-5.454
+2126.
+Intel
+Xeon W3670
+-5.454
+2127.
+Intel
+Xeon E5640
+-5.454
+2128.
+Intel
+Xeon E5630
+-5.454
+2129.
+Intel
+Xeon L5640
+-5.454
+2130.
+Intel
+Xeon L5630
+-5.454
+2131.
+Intel
+Xeon L5609
+-5.454
+2132.
+Intel
+Xeon X5677
+-5.454
+2133.
+Intel
+Core i7-620LE
+-5.454
+2134.
+Intel
+Core i7-620UE
+-5.454
+2135.
+Intel
+Core i5-520E
+-5.454
+2136.
+Intel
+Core i7-610E
+-5.454
+2137.
+Intel
+Core i3-330E
+-5.454
+2138.
+Intel
+Pentium P4505
+-5.454
+2139.
+Intel
+Core i7-870S
+-5.454
+2140.
+Intel
+Xeon X3480
+-5.454
+2141.
+Intel
+Core i5-655K
+-5.454
+2142.
+Intel
+Xeon L5638
+-5.454
+2143.
+Intel
+Xeon L5618
+-5.454
+2144.
+Intel
+Xeon E5645
+-5.454
+2145.
+Intel
+Core i3-330UM
+-5.454
+2146.
+Intel
+Core i5-430UM
+-5.454
+2147.
+Intel
+Pentium P6000
+-5.454
+2148.
+Intel
+Pentium U5400
+-5.454
+2149.
+Intel
+Pentium U3400
+-5.454
+2150.
+Intel
+Core i7-660UM
+-5.454
+2151.
+Intel
+Core i5-540UM
+-5.454
+2152.
+Intel
+Atom D425
+-5.454
+2153.
+Intel
+Atom N475
+-5.454
+2154.
+Intel
+Core i7-660LM
+-5.454
+2155.
+Intel
+Atom Z600
+-5.454
+2156.
+Intel
+Atom Z615
+-5.454
+2157.
+Intel
+Atom Z625
+-5.454
+2158.
+Intel
+Core i7-680UM
+-5.454
+2159.
+Intel
+Core i5-560UM
+-5.454
+2160.
+Intel
+Atom Z560
+-5.454
+2161.
+Intel
+Core i7-660UE
+-5.454
+2162.
+Intel
+Core i5-470UM
+-5.454
+2163.
+Intel
+Core i3-380UM
+-5.454
+2164.
+Intel
+Pentium U5600
+-5.454
+2165.
+Intel
+Pentium U3600
+-5.454
+2166.
+Intel
+Pentium U3405
+-5.454
+2167.
+Intel
+Core i3-560
+-5.454
+2168.
+Intel
+Pentium P6300
+-5.454
+2169.
+Intel
+Core i5-2500T
+-5.454
+2170.
+Intel
+Xeon E3-1235
+-5.454
+2171.
+Intel
+Xeon E3-1245
+-5.454
+2172.
+Intel
+Xeon E3-1275
+-5.454
+2173.
+Intel
+Xeon E3-1280
+-5.454
+2174.
+Intel
+Pentium P4600
+-5.454
+2175.
+Intel
+Atom E620
+-5.454
+2176.
+Intel
+Atom E620T
+-5.454
+2177.
+Intel
+Atom E640
+-5.454
+2178.
+Intel
+Atom E640T
+-5.454
+2179.
+Intel
+Atom E660
+-5.454
+2180.
+Intel
+Atom E660T
+-5.454
+2181.
+Intel
+Atom E680
+-5.454
+2182.
+Intel
+Atom E680T
+-5.454
+2183.
+Intel
+Xeon X5687
+-5.454
+2184.
+Intel
+Xeon X5672
+-5.454
+2185.
+Intel
+Xeon X5647
+-5.454
+2186.
+Intel
+Xeon E5649
+-5.454
+2187.
+Intel
+Xeon E5607
+-5.454
+2188.
+Intel
+Xeon E5606
+-5.454
+2189.
+Intel
+Xeon E5603
+-5.454
+2190.
+Intel
+Core i3-390M
+-5.454
+2191.
+Intel
+Xeon E3-1220L
+-5.454
+2192.
+Intel
+Pentium G530
+-5.454
+2193.
+Intel
+Pentium G530T
+-5.454
+2194.
+Intel
+Pentium G540
+-5.454
+2195.
+Intel
+Pentium G540T
+-5.454
+2196.
+Intel
+Pentium G550
+-5.454
+2197.
+Intel
+Pentium G550T
+-5.454
+2198.
+Intel
+Core i3-2100T
+-5.454
+2199.
+Intel
+Core i3-2102
+-5.454
+2200.
+Intel
+Core i3-2312M
+-5.454
+2201.
+Intel
+Core i3-2330E
+-5.454
+2202.
+Intel
+Core i5-2390T
+-5.454
+2203.
+Intel
+Core i5-2510E
+-5.454
+2204.
+Intel
+Core i7-2710QE
+-5.454
+2205.
+Intel
+Pentium G620T
+-5.454
+2206.
+Intel
+Pentium G622
+-5.454
+2207.
+Intel
+Pentium G630T
+-5.454
+2208.
+Intel
+Pentium G632
+-5.454
+2209.
+Intel
+Pentium G640T
+-5.454
+2210.
+Intel
+Xeon E7-2803
+-5.454
+2211.
+Intel
+Xeon E7-4807
+-5.454
+2212.
+Intel
+Xeon E7-2860
+-5.454
+2213.
+Intel
+Xeon E7-4860
+-5.454
+2214.
+Intel
+Xeon E7-8860
+-5.454
+2215.
+Intel
+Xeon E7-2850
+-5.454
+2216.
+Intel
+Xeon E7-4850
+-5.454
+2217.
+Intel
+Xeon E7-8850
+-5.454
+2218.
+Intel
+Xeon E7-8837
+-5.454
+2219.
+Intel
+Xeon E7-8867L
+-5.454
+2220.
+Intel
+Xeon E7-2870
+-5.454
+2221.
+Intel
+Xeon E7-4870
+-5.454
+2222.
+Intel
+Xeon E7-8870
+-5.454
+2223.
+Intel
+Xeon E7-2820
+-5.454
+2224.
+Intel
+Xeon E7-2830
+-5.454
+2225.
+Intel
+Xeon E7-4820
+-5.454
+2226.
+Intel
+Xeon E7-4830
+-5.454
+2227.
+Intel
+Xeon E7-8830
+-5.454
+2228.
+Intel
+Pentium 763
+-5.454
+2229.
+Intel
+Atom E645C
+-5.454
+2230.
+Intel
+Atom E645CT
+-5.454
+2231.
+Intel
+Atom E665C
+-5.454
+2232.
+Intel
+Atom E665CT
+-5.454
+2233.
+Intel
+Core i7-2629M
+-5.454
+2234.
+Intel
+Core i7-2649M
+-5.454
+2235.
+Intel
+Core i7-2657M
+-5.454
+2236.
+Intel
+Core i7-2617M
+-5.454
+2237.
+Intel
+Core i7-2655LE
+-5.454
+2238.
+Intel
+Core i3-2310E
+-5.454
+2239.
+Intel
+Core i7-2715QE
+-5.454
+2240.
+Intel
+Core i7-2610UE
+-5.454
+2241.
+Intel
+Core i3-2340UE
+-5.454
+2242.
+Intel
+Core i5-2515E
+-5.454
+2243.
+Intel
+Core i3-2377M
+-5.454
+2244.
+Intel
+Xeon E3-1290
+-5.454
+2245.
+Intel
+Pentium 957
+-5.454
+2246.
+Intel
+Pentium B810
+-5.454
+2247.
+Intel
+Atom Z670
+-5.454
+2248.
+Intel
+Atom Z650
+-5.454
+2249.
+Intel
+Pentium B810E
+-5.454
+2250.
+Intel
+Pentium 847E
+-5.454
+2251.
+Intel
+Pentium 827E
+-5.454
+2252.
+Intel
+Pentium 847
+-5.454
+2253.
+Intel
+Pentium G440
+-5.454
+2254.
+Intel
+Pentium B710
+-5.454
+2255.
+Intel
+Pentium B800
+-5.454
+2256.
+Intel
+Pentium 787
+-5.454
+2257.
+Intel
+Pentium 857
+-5.454
+2258.
+Intel
+Atom D2500
+-5.454
+2259.
+Intel
+Pentium B840
+-5.454
+2260.
+Intel
+Xeon E5-2648L
+-5.454
+2261.
+Intel
+Xeon E5-2658
+-5.454
+2262.
+Intel
+Pentium 807UE
+-5.454
+2263.
+Intel
+Pentium G460
+-5.454
+2264.
+Intel
+Pentium 977
+-5.454
+2265.
+Intel
+Pentium 797
+-5.454
+2266.
+Intel
+Pentium 867
+-5.454
+2267.
+Intel
+Pentium B815
+-5.454
+2268.
+Intel
+Pentium B720
+-5.454
+2269.
+Intel
+Xeon E5-2650L
+-5.454
+2270.
+Intel
+Xeon E5-2630L
+-5.454
+2271.
+Intel
+Xeon E5-2609
+-5.454
+2272.
+Intel
+Xeon E5-2667
+-5.454
+2273.
+Intel
+Xeon E5-2650
+-5.454
+2274.
+Intel
+Xeon E5-2603
+-5.454
+2275.
+Intel
+Xeon E5-2630
+-5.454
+2276.
+Intel
+Xeon E5-2665
+-5.454
+2277.
+Intel
+Xeon E5-2637
+-5.454
+2278.
+Intel
+Xeon E5-4610
+-5.454
+2279.
+Intel
+Xeon E5-4640
+-5.454
+2280.
+Intel
+Xeon E5-4607
+-5.454
+2281.
+Intel
+Xeon E5-4650L
+-5.454
+2282.
+Intel
+Xeon E5-4620
+-5.454
+2283.
+Intel
+Xeon E5-4617
+-5.454
+2284.
+Intel
+Xeon E5-4603
+-5.454
+2285.
+Intel
+Xeon E5-2450L
+-5.454
+2286.
+Intel
+Xeon E5-2450
+-5.454
+2287.
+Intel
+Xeon E5-2440
+-5.454
+2288.
+Intel
+Xeon E5-2430L
+-5.454
+2289.
+Intel
+Xeon E5-2407
+-5.454
+2290.
+Intel
+Xeon E5-2403
+-5.454
+2291.
+Intel
+Xeon E5-4650
+-5.454
+2292.
+Intel
+Xeon E5-2470
+-5.454
+2293.
+Intel
+Core i5-2380P
+-5.454
+2294.
+Intel
+Atom D2550
+-5.454
+2295.
+Intel
+Core i5-3550S
+-5.454
+2296.
+Intel
+Core i5-3570T
+-5.454
+2297.
+Intel
+Core i7-3770T
+-5.454
+2298.
+Intel
+Core i3-3217UE
+-5.454
+2299.
+Intel
+Core i3-3120ME
+-5.454
+2300.
+Intel
+Core i5-3610ME
+-5.454
+2301.
+Intel
+Core i7-3615QE
+-5.454
+2302.
+Intel
+Core i7-3612QE
+-5.454
+2303.
+Intel
+Core i7-3555LE
+-5.454
+2304.
+Intel
+Core i7-3517UE
+-5.454
+2305.
+Intel
+Xeon E3-1290V2
+-5.454
+2306.
+Intel
+Xeon E3-1280V2
+-5.454
+2307.
+Intel
+Xeon E3-1275V2
+-5.454
+2308.
+Intel
+Xeon E3-1270V2
+-5.454
+2309.
+Intel
+Xeon E3-1265LV2
+-5.454
+2310.
+Intel
+Xeon E3-1245V2
+-5.454
+2311.
+Intel
+Xeon E3-1240V2
+-5.454
+2312.
+Intel
+Xeon E3-1225V2
+-5.454
+2313.
+Intel
+Xeon E3-1220V2
+-5.454
+2314.
+Intel
+Xeon E3-1220LV2
+-5.454
+2315.
+Intel
+Pentium G2100T
+-5.454
+2316.
+Intel
+Core i3-3240T
+-5.454
+2317.
+Intel
+Pentium 1405
+-5.454
+2318.
+Intel
+Xeon E5-1428L
+-5.454
+2319.
+Intel
+Pentium G860T
+-5.454
+2320.
+Intel
+Xeon E5-2448L
+-5.454
+2321.
+Intel
+Xeon E5-2428L
+-5.454
+2322.
+Intel
+Xeon E5-2418L
+-5.454
+2323.
+Intel
+Pentium 877
+-5.454
+2324.
+Intel
+Pentium B820
+-5.454
+2325.
+Intel
+Pentium 807
+-5.454
+2326.
+Intel
+Xeon E3-1125C
+-5.454
+2327.
+Intel
+Xeon E3-1105C
+-5.454
+2328.
+Intel
+Core i3-2115C
+-5.454
+2329.
+Intel
+Pentium B915C
+-5.454
+2330.
+Intel
+Pentium 725C
+-5.454
+2331.
+Intel
+Pentium G555
+-5.454
+2332.
+Intel
+Pentium 997
+-5.454
+2333.
+Intel
+Pentium 887
+-5.454
+2334.
+Intel
+Pentium G465
+-5.454
+2335.
+Intel
+Pentium G645T
+-5.454
+2336.
+Intel
+Pentium G2020T
+-5.454
+2337.
+Intel
+Pentium G1610
+-5.454
+2338.
+Intel
+Pentium G1620
+-5.454
+2339.
+Intel
+Pentium G1610T
+-5.454
+2340.
+Intel
+Pentium G2120T
+-5.454
+2341.
+Intel
+Pentium B830
+-5.454
+2342.
+Intel
+Atom S1260
+-5.454
+2343.
+Intel
+Atom S1240
+-5.454
+2344.
+Intel
+Atom S1220
+-5.454
+2345.
+Intel
+Atom S1289
+-5.454
+2346.
+Intel
+Atom S1279
+-5.454
+2347.
+Intel
+Atom S1269
+-5.454
+2348.
+Intel
+Pentium 1020M
+-5.454
+2349.
+Intel
+Pentium 1037U
+-5.454
+2350.
+Intel
+Core i3-3229Y
+-5.454
+2351.
+Intel
+Core i5-3439Y
+-5.454
+2352.
+Intel
+Pentium 2129Y
+-5.454
+2353.
+Intel
+Core i3-3130M
+-5.454
+2354.
+Intel
+Pentium 2030M
+-5.454
+2355.
+Intel
+Pentium 1000M
+-5.454
+2356.
+Intel
+Pentium 1007U
+-5.454
+2357.
+Intel
+Pentium 1020E
+-5.454
+2358.
+Intel
+Pentium 1047UE
+-5.454
+2359.
+Intel
+Pentium 927UE
+-5.454
+2360.
+Intel
+Pentium G470
+-5.454
+2361.
+Intel
+Core i3-3250T
+-5.454
+2362.
+Intel
+Core i3-3245
+-5.454
+2363.
+Intel
+Pentium G2140
+-5.454
+2364.
+Intel
+Pentium G2030T
+-5.454
+2365.
+Intel
+Core i5-4350U
+-5.454
+2366.
+Intel
+Core i5-4360U
+-5.454
+2367.
+Intel
+Core i5-4440S
+-5.454
+2368.
+Intel
+Xeon E3-1220LV3
+-5.454
+2369.
+Intel
+Xeon E3-1230Lv3
+-5.454
+2370.
+Intel
+Pentium 1019Y
+-5.454
+2371.
+Intel
+Core i3-4100U
+-5.454
+2372.
+Intel
+Pentium 1017U
+-5.454
+2373.
+Intel
+Pentium 1005M
+-5.454
+2374.
+Intel
+Xeon E7-2850V2
+-5.454
+2375.
+Intel
+Xeon E7-2870V2
+-5.454
+2376.
+Intel
+Xeon E7-2880V2
+-5.454
+2377.
+Intel
+Xeon E7-2890V2
+-5.454
+2378.
+Intel
+Xeon E7-4809V2
+-5.454
+2379.
+Intel
+Xeon E7-4820V2
+-5.454
+2380.
+Intel
+Xeon E7-4830V2
+-5.454
+2381.
+Intel
+Xeon E7-4850V2
+-5.454
+2382.
+Intel
+Xeon E7-4860V2
+-5.454
+2383.
+Intel
+Xeon E7-4870V2
+-5.454
+2384.
+Intel
+Xeon E7-4890V2
+-5.454
+2385.
+Intel
+Xeon E7-8850V2
+-5.454
+2386.
+Intel
+Xeon E7-8857V2
+-5.454
+2387.
+Intel
+Xeon E7-8870V2
+-5.454
+2388.
+Intel
+Xeon E7-8880LV2
+-5.454
+2389.
+Intel
+Xeon E7-8880V2
+-5.454
+2390.
+Intel
+Xeon E7-8890V2
+-5.454
+2391.
+Intel
+Xeon E7-8891V2
+-5.454
+2392.
+Intel
+Xeon E7-8893V2
+-5.454
+2393.
+Intel
+Xeon E5-2440V2
+-5.454
+2394.
+Intel
+Xeon E5-2450V2
+-5.454
+2395.
+Intel
+Xeon E5-2450LV2
+-5.454
+2396.
+Intel
+Xeon E5-2470V2
+-5.454
+2397.
+Intel
+Xeon E5-2640V2
+-5.454
+2398.
+Intel
+Xeon E5-2643V2
+-5.454
+2399.
+Intel
+Xeon E5-2650V2
+-5.454
+2400.
+Intel
+Xeon E5-2650LV2
+-5.454
+2401.
+Intel
+Xeon E5-2660V2
+-5.454
+2402.
+Intel
+Xeon E5-2667V2
+-5.454
+2403.
+Intel
+Xeon E5-2670V2
+-5.454
+2404.
+Intel
+Xeon E5-2680V2
+-5.454
+2405.
+Intel
+Xeon E5-2690V2
+-5.454
+2406.
+Intel
+Xeon E5-2695V2
+-5.454
+2407.
+Intel
+Xeon E5-2697V2
+-5.454
+2408.
+Intel
+Xeon E5-4610V2
+-5.454
+2409.
+Intel
+Xeon E5-4620V2
+-5.454
+2410.
+Intel
+Xeon E5-4627V2
+-5.454
+2411.
+Intel
+Xeon E5-4640V2
+-5.454
+2412.
+Intel
+Xeon E5-4650V2
+-5.454
+2413.
+Intel
+Xeon E5-4657LV2
+-5.454
+2414.
+Intel
+Xeon E3-1225V3
+-5.454
+2415.
+Intel
+Xeon E3-1265Lv3
+-5.454
+2416.
+Intel
+Xeon E3-1285 v3
+-5.454
+2417.
+Intel
+Xeon E3-1285Lv3
+-5.454
+2418.
+Intel
+Xeon E3-1268LV3
+-5.454
+2419.
+Intel
+Core i5-4570TE
+-5.454
+2420.
+Intel
+Core i7-4700EQ
+-5.454
+2421.
+Intel
+Core i5-4402EC
+-5.454
+2422.
+Intel
+Core i7-4700EC
+-5.454
+2423.
+Intel
+Core i7-4702EC
+-5.454
+2424.
+Intel
+Pentium 2955U
+-5.454
+2425.
+Intel
+Core i7-4770TE
+-5.454
+2426.
+Intel
+Xeon E7-4880V2
+-5.454
+2427.
+Intel
+Xeon E5-1428LV2
+-5.454
+2428.
+Intel
+Xeon E5-1620V2
+-5.454
+2429.
+Intel
+Xeon E5-1650V2
+-5.454
+2430.
+Intel
+Xeon E5-1660V2
+-5.454
+2431.
+Intel
+Xeon E5-2407V2
+-5.454
+2432.
+Intel
+Xeon E5-2418LV2
+-5.454
+2433.
+Intel
+Xeon E5-2420V2
+-5.454
+2434.
+Intel
+Xeon E5-2430V2
+-5.454
+2435.
+Intel
+Xeon E5-2430LV2
+-5.454
+2436.
+Intel
+Xeon E5-2609V2
+-5.454
+2437.
+Intel
+Xeon E5-2618LV2
+-5.454
+2438.
+Intel
+Xeon E5-2620V2
+-5.454
+2439.
+Intel
+Xeon E5-2630V2
+-5.454
+2440.
+Intel
+Xeon E5-2630LV2
+-5.454
+2441.
+Intel
+Xeon E5-2637V2
+-5.454
+2442.
+Intel
+Xeon E5-4603V2
+-5.454
+2443.
+Intel
+Xeon E5-4607V2
+-5.454
+2444.
+Intel
+Core i5-4200Y
+-5.454
+2445.
+Intel
+Xeon E5-2448LV2
+-5.454
+2446.
+Intel
+Xeon E5-2428LV2
+-5.454
+2447.
+Intel
+Xeon E5-2403V2
+-5.454
+2448.
+Intel
+Core i3-4010Y
+-5.454
+2449.
+Intel
+Core i3-4158U
+-5.454
+2450.
+Intel
+Core i7-4950HQ
+-5.454
+2451.
+Intel
+Core i7-4860HQ
+-5.454
+2452.
+Intel
+Core i7-4760HQ
+-5.454
+2453.
+Intel
+Xeon E5-2603V2
+-5.454
+2454.
+Intel
+Xeon E5-2628LV2
+-5.454
+2455.
+Intel
+Xeon E5-2648LV2
+-5.454
+2456.
+Intel
+Xeon E5-2658V2
+-5.454
+2457.
+Intel
+Xeon E5-2687WV2
+-5.454
+2458.
+Intel
+Core i5-4400E
+-5.454
+2459.
+Intel
+Core i3-4100E
+-5.454
+2460.
+Intel
+Core i3-4102E
+-5.454
+2461.
+Intel
+Pentium 2000E
+-5.454
+2462.
+Intel
+Pentium 2002E
+-5.454
+2463.
+Intel
+Xeon E3-1275LV3
+-5.454
+2464.
+Intel
+Core i5-4402E
+-5.454
+2465.
+Intel
+Pentium G1630
+-5.454
+2466.
+Intel
+Pentium G1620T
+-5.454
+2467.
+Intel
+Xeon E5-4624LV2
+-5.454
+2468.
+Intel
+Pentium J2850
+-5.454
+2469.
+Intel
+Pentium J1850
+-5.454
+2470.
+Intel
+Pentium J1750
+-5.454
+2471.
+Intel
+Core i5-4302Y
+-5.454
+2472.
+Intel
+Core i7-4610Y
+-5.454
+2473.
+Intel
+Pentium 2980U
+-5.454
+2474.
+Intel
+Pentium 3556U
+-5.454
+2475.
+Intel
+Pentium 3560Y
+-5.454
+2476.
+Intel
+Core i5-4670R
+-5.454
+2477.
+Intel
+Core i7-4770R
+-5.454
+2478.
+Intel
+Core i5-4330M
+-5.454
+2479.
+Intel
+Pentium N2910
+-5.454
+2480.
+Intel
+Pentium N2810
+-5.454
+2481.
+Intel
+Pentium N2805
+-5.454
+2482.
+Intel
+Pentium 2950M
+-5.454
+2483.
+Intel
+Core i3-4110M
+-5.454
+2484.
+Intel
+Core i3-4350T
+-5.454
+2485.
+Intel
+Core i3-4360T
+-5.454
+2486.
+Intel
+Core i3-4330T
+-5.454
+2487.
+Intel
+Pentium G3420T
+-5.454
+2488.
+Intel
+Core i3-4330TE
+-5.454
+2489.
+Intel
+Pentium 1405V2
+-5.454
+2490.
+Intel
+Atom C2338
+-5.454
+2491.
+Intel
+Atom C2350
+-5.454
+2492.
+Intel
+Atom C2358
+-5.454
+2493.
+Intel
+Atom C2518
+-5.454
+2494.
+Intel
+Atom C2530
+-5.454
+2495.
+Intel
+Atom C2538
+-5.454
+2496.
+Intel
+Atom C2550
+-5.454
+2497.
+Intel
+Atom C2558
+-5.454
+2498.
+Intel
+Atom C2718
+-5.454
+2499.
+Intel
+Atom C2730
+-5.454
+2500.
+Intel
+Atom C2738
+-5.454
+2501.
+Intel
+Atom C2750
+-5.454
+2502.
+Intel
+Atom C2758
+-5.454
+2503.
+Intel
+Pentium G3320TE
+-5.454
+2504.
+Intel
+Xeon E3-1105CV2
+-5.454
+2505.
+Intel
+Xeon E3-1125CV2
+-5.454
+2506.
+Intel
+Pentium B925C
+-5.454
+2507.
+Intel
+Core i3-3115C
+-5.454
+2508.
+Intel
+Pentium A1018
+-5.454
+2509.
+Intel
+Atom E3825
+-5.454
+2510.
+Intel
+Atom E3845
+-5.454
+2511.
+Intel
+Atom E3815
+-5.454
+2512.
+Intel
+Atom E3826
+-5.454
+2513.
+Intel
+Atom E3827
+-5.454
+2514.
+Intel
+Pentium J1800
+-5.454
+2515.
+Intel
+Pentium J1900
+-5.454
+2516.
+Intel
+Pentium 2957U
+-5.454
+2517.
+Intel
+Pentium 2961Y
+-5.454
+2518.
+Intel
+Pentium 2981U
+-5.454
+2519.
+Intel
+Pentium 3558U
+-5.454
+2520.
+Intel
+Pentium 3561Y
+-5.454
+2521.
+Intel
+Pentium G1830
+-5.454
+2522.
+Intel
+Pentium G1820
+-5.454
+2523.
+Intel
+Pentium G1820T
+-5.454
+2524.
+Intel
+Pentium G1820TE
+-5.454
+2525.
+Intel
+Pentium N2806
+-5.454
+2526.
+Intel
+Pentium N2815
+-5.454
+2527.
+Intel
+Pentium N2820
+-5.454
+2528.
+Intel
+Pentium N2920
+-5.454
+2529.
+Intel
+Core i3-4110E
+-5.454
+2530.
+Intel
+Core i3-4112E
+-5.454
+2531.
+Intel
+Core i5-4410E
+-5.454
+2532.
+Intel
+Core i5-4422E
+-5.454
+2533.
+Intel
+Core i5-4340M
+-5.454
+2534.
+Intel
+Pentium G3450T
+-5.454
+2535.
+Intel
+Pentium G3440T
+-5.454
+2536.
+Intel
+Pentium G3240T
+-5.454
+2537.
+Intel
+Pentium G1850
+-5.454
+2538.
+Intel
+Pentium G1840
+-5.454
+2539.
+Intel
+Pentium G1840T
+-5.454
+2540.
+Intel
+Core i5-4690T
+-5.454
+2541.
+Intel
+Xeon E3-1281V3
+-5.454
+2542.
+Intel
+Xeon E3-1271V3
+-5.454
+2543.
+Intel
+Xeon E3-1241V3
+-5.454
+2544.
+Intel
+Xeon E3-1231V3
+-5.454
+2545.
+Intel
+Xeon E3-1240LV3
+-5.454
+2546.
+Intel
+Xeon E3-1286V3
+-5.454
+2547.
+Intel
+Xeon E3-1286LV3
+-5.454
+2548.
+Intel
+Xeon E3-1276V3
+-5.454
+2549.
+Intel
+Xeon E3-1246V3
+-5.454
+2550.
+Intel
+Xeon E3-1226V3
+-5.454
+2551.
+Intel
+Core i3-4340TE
+-5.454
+2552.
+Intel
+Pentium 3560M
+-5.454
+2553.
+Intel
+Pentium 2970M
+-5.454
+2554.
+Intel
+Core i3-4120U
+-5.454
+2555.
+Intel
+Core i3-4025U
+-5.454
+2556.
+Intel
+Core i5-4220Y
+-5.454
+2557.
+Intel
+Core i3-4030Y
+-5.454
+2558.
+Intel
+Xeon E5-2683V3
+-5.454
+2559.
+Intel
+Xeon E5-2695V3
+-5.454
+2560.
+Intel
+Xeon E5-2697V3
+-5.454
+2561.
+Intel
+Xeon E5-2698V3
+-5.454
+2562.
+Intel
+Xeon E5-2699V3
+-5.454
+2563.
+Intel
+Pentium N2830
+-5.454
+2564.
+Intel
+Pentium N2807
+-5.454
+2565.
+Intel
+Pentium N2930
+-5.454
+2566.
+Intel
+Core i3-4370T
+-5.454
+2567.
+Intel
+Atom C2508
+-5.454
+2568.
+Intel
+Atom C2308
+-5.454
+2569.
+Intel
+Xeon E5-2628LV3
+-5.454
+2570.
+Intel
+Xeon E5-2650V3
+-5.454
+2571.
+Intel
+Xeon E5-2660V3
+-5.454
+2572.
+Intel
+Xeon E5-2670V3
+-5.454
+2573.
+Intel
+Xeon E5-2690V3
+-5.454
+2574.
+Intel
+Xeon E5-2609V3
+-5.454
+2575.
+Intel
+Xeon E5-2643V3
+-5.454
+2576.
+Intel
+Xeon E5-2648LV3
+-5.454
+2577.
+Intel
+Xeon E5-2650LV3
+-5.454
+2578.
+Intel
+Xeon E5-2658V3
+-5.454
+2579.
+Intel
+Xeon E5-2680V3
+-5.454
+2580.
+Intel
+Xeon E5-2687WV3
+-5.454
+2581.
+Intel
+Pentium N2808
+-5.454
+2582.
+Intel
+Pentium N2840
+-5.454
+2583.
+Intel
+Pentium N2940
+-5.454
+2584.
+Intel
+Xeon E5-1620V3
+-5.454
+2585.
+Intel
+Xeon E5-1630V3
+-5.454
+2586.
+Intel
+Xeon E5-1650V3
+-5.454
+2587.
+Intel
+Xeon E5-1660V3
+-5.454
+2588.
+Intel
+Xeon E5-1680V3
+-5.454
+2589.
+Intel
+Xeon E5-2603V3
+-5.454
+2590.
+Intel
+Xeon E5-2608LV3
+-5.454
+2591.
+Intel
+Xeon E5-2618LV3
+-5.454
+2592.
+Intel
+Xeon E5-2620V3
+-5.454
+2593.
+Intel
+Xeon E5-2623V3
+-5.454
+2594.
+Intel
+Xeon E5-2630V3
+-5.454
+2595.
+Intel
+Xeon E5-2630LV3
+-5.454
+2596.
+Intel
+Xeon E5-2637V3
+-5.454
+2597.
+Intel
+Xeon E5-2640V3
+-5.454
+2598.
+Intel
+Xeon E5-2667V3
+-5.454
+2599.
+Intel
+Pentium G3460T
+-5.454
+2600.
+Intel
+Core 5Y10
+-5.454
+2601.
+Intel
+Core 5Y10a
+-5.454
+2602.
+Intel
+Core 5Y70
+-5.454
+2603.
+Intel
+Atom E3805
+-5.454
+2604.
+Intel
+Xeon E5-1428LV3
+-5.454
+2605.
+Intel
+Xeon E5-2408LV3
+-5.454
+2606.
+Intel
+Xeon E5-2418LV3
+-5.454
+2607.
+Intel
+Xeon E5-2428LV3
+-5.454
+2608.
+Intel
+Xeon E5-2438LV3
+-5.454
+2609.
+Intel
+Core 5Y31
+-5.454
+2610.
+Intel
+Core 5Y51
+-5.454
+2611.
+Intel
+Core 5Y71
+-5.454
+2612.
+Intel
+Xeon E7-4809V3
+-5.454
+2613.
+Intel
+Xeon E7-4820V3
+-5.454
+2614.
+Intel
+Xeon E7-4830V3
+-5.454
+2615.
+Intel
+Xeon E7-4850V3
+-5.454
+2616.
+Intel
+Xeon E7-8860V3
+-5.454
+2617.
+Intel
+Xeon E7-8867V3
+-5.454
+2618.
+Intel
+Xeon E7-8870V3
+-5.454
+2619.
+Intel
+Xeon E7-8880V3
+-5.454
+2620.
+Intel
+Xeon E7-8880LV3
+-5.454
+2621.
+Intel
+Xeon E7-8890V3
+-5.454
+2622.
+Intel
+Xeon E7-8891V3
+-5.454
+2623.
+Intel
+Xeon E7-8893V3
+-5.454
+2624.
+Intel
+Pentium 3205U
+-5.454
+2625.
+Intel
+Pentium 3215U
+-5.454
+2626.
+Intel
+Pentium 3755U
+-5.454
+2627.
+Intel
+Pentium 3765U
+-5.454
+2628.
+Intel
+Core i3-5157U
+-5.454
+2629.
+Intel
+Core 5Y10c
+-5.454
+2630.
+Intel
+Xeon E5-4610V3
+-5.454
+2631.
+Intel
+Xeon E5-4620V3
+-5.454
+2632.
+Intel
+Xeon E5-4627V3
+-5.454
+2633.
+Intel
+Xeon E5-4640V3
+-5.454
+2634.
+Intel
+Xeon E5-4648V3
+-5.454
+2635.
+Intel
+Xeon E5-4650V3
+-5.454
+2636.
+Intel
+Xeon E5-4655V3
+-5.454
+2637.
+Intel
+Xeon E5-4660V3
+-5.454
+2638.
+Intel
+Xeon E5-4667V3
+-5.454
+2639.
+Intel
+Xeon E5-4669V3
+-5.454
+2640.
+Intel
+Xeon E5-2658AV3
+-5.454
+2641.
+Intel
+Xeon D-1520
+-5.454
+2642.
+Intel
+Xeon D-1540
+-5.454
+2643.
+Intel
+Pentium N3050
+-5.454
+2644.
+Intel
+Pentium N3150
+-5.454
+2645.
+Intel
+Pentium N3000
+-5.454
+2646.
+Intel
+Pentium G3260T
+-5.454
+2647.
+Intel
+Core i5-5350H
+-5.454
+2648.
+Intel
+Core i5-5675R
+-5.454
+2649.
+Intel
+Core i7-5750HQ
+-5.454
+2650.
+Intel
+Xeon E3-1265LV4
+-5.454
+2651.
+Intel
+Xeon E3-1285LV4
+-5.454
+2652.
+Intel
+Xeon E3-1285V4
+-5.454
+2653.
+Intel
+Core i7-5700EQ
+-5.454
+2654.
+Intel
+Core i7-5850EQ
+-5.454
+2655.
+Intel
+Xeon E3-1258LV4
+-5.454
+2656.
+Intel
+Xeon E3-1278LV4
+-5.454
+2657.
+Intel
+Xeon E3-1225V5
+-5.454
+2658.
+Intel
+Xeon E3-1240LV5
+-5.454
+2659.
+Intel
+Xeon E3-1235LV5
+-5.454
+2660.
+Intel
+Xeon E3-1280V5
+-5.454
+2661.
+Intel
+Xeon E3-1220V5
+-5.454
+2662.
+Intel
+Xeon E3-1245V5
+-5.454
+2663.
+Intel
+Xeon E3-1270V5
+-5.454
+2664.
+Intel
+Xeon E3-1260LV5
+-5.454
+2665.
+Intel
+Xeon E3-1240V5
+-5.454
+2666.
+Intel
+Xeon E3-1275V5
+-5.454
+2667.
+Intel
+Xeon E3-1268LV5
+-5.454
+2668.
+Intel
+Core i3-6100TE
+-5.454
+2669.
+Intel
+Xeon E3-1230V5
+-5.454
+2670.
+Intel
+Core i5-6500TE
+-5.454
+2671.
+Intel
+Core M5-6Y57
+-5.454
+2672.
+Intel
+Core M3-6Y30
+-5.454
+2673.
+Intel
+Core M7-6Y75
+-5.454
+2674.
+Intel
+Core i7-6700TE
+-5.454
+2675.
+Intel
+Core M5-6Y54
+-5.454
+2676.
+Intel
+Core i3-6100H
+-5.454
+2677.
+Intel
+Xeon E3-1505MV5
+-5.454
+2678.
+Intel
+Xeon E3-1535MV5
+-5.454
+2679.
+Intel
+Core i5-6440EQ
+-5.454
+2680.
+Intel
+Core i7-6820EQ
+-5.454
+2681.
+Intel
+Pentium G4400TE
+-5.454
+2682.
+Intel
+Core i3-6100E
+-5.454
+2683.
+Intel
+Core i3-6102E
+-5.454
+2684.
+Intel
+Core i7-6822EQ
+-5.454
+2685.
+Intel
+Core i5-6442EQ
+-5.454
+2686.
+Intel
+Xeon E3-1505LV5
+-5.454
+2687.
+Intel
+Pentium G3902E
+-5.454
+2688.
+Intel
+Pentium G3900TE
+-5.454
+2689.
+Intel
+Pentium G3900E
+-5.454
+2690.
+Intel
+Pentium G4500T
+-5.454
+2691.
+Intel
+Pentium G3920
+-5.454
+2692.
+Intel
+Pentium G3900T
+-5.454
+2693.
+Intel
+Pentium G3900
+-5.454
+2694.
+Intel
+Core i5-6287U
+-5.454
+2695.
+Intel
+Core i7-6660U
+-5.454
+2696.
+Intel
+Xeon D-1529
+-5.454
+2697.
+Intel
+Xeon D-1527
+-5.454
+2698.
+Intel
+Xeon D-1537
+-5.454
+2699.
+Intel
+Xeon D-1528
+-5.454
+2700.
+Intel
+Xeon D-1539
+-5.454
+2701.
+Intel
+Xeon D-1518
+-5.454
+2702.
+Intel
+Xeon D-1521
+-5.454
+2703.
+Intel
+Xeon D-1531
+-5.454
+2704.
+Intel
+Xeon D-1548
+-5.454
+2705.
+Intel
+Xeon E5-2695V4
+-5.454
+2706.
+Intel
+Xeon E5-2699V4
+-5.454
+2707.
+Intel
+Pentium J3160
+-5.454
+2708.
+Intel
+Pentium J3060
+-5.454
+2709.
+Intel
+Pentium D1517
+-5.454
+2710.
+Intel
+Pentium D1508
+-5.454
+2711.
+Intel
+Pentium D1519
+-5.454
+2712.
+Intel
+Pentium D1509
+-5.454
+2713.
+Intel
+Pentium D1507
+-5.454
+2714.
+Intel
+Pentium N3010
+-5.454
+2715.
+Intel
+Xeon E5-2687WV4
+-5.454
+2716.
+Intel
+Xeon E5-2650LV4
+-5.454
+2717.
+Intel
+Xeon E5-2698V4
+-5.454
+2718.
+Intel
+Xeon E5-2680V4
+-5.454
+2719.
+Intel
+Xeon E5-2697V4
+-5.454
+2720.
+Intel
+Xeon E5-2648LV4
+-5.454
+2721.
+Intel
+Xeon E5-2683V4
+-5.454
+2722.
+Intel
+Xeon E5-2650V4
+-5.454
+2723.
+Intel
+Xeon E5-2697AV4
+-5.454
+2724.
+Intel
+Xeon E5-2690V4
+-5.454
+2725.
+Intel
+Xeon E5-2658V4
+-5.454
+2726.
+Intel
+Xeon E5-2660V4
+-5.454
+2727.
+Intel
+Xeon E5-2628LV4
+-5.454
+2728.
+Intel
+Pentium N3160
+-5.454
+2729.
+Intel
+Pentium N3060
+-5.454
+2730.
+Intel
+Atom E8000
+-5.454
+2731.
+Intel
+Pentium 3855U
+-5.454
+2732.
+Intel
+Pentium 3955U
+-5.454
+2733.
+Intel
+Xeon E5-2630LV4
+-5.454
+2734.
+Intel
+Xeon E5-2667V4
+-5.454
+2735.
+Intel
+Xeon E5-2623V4
+-5.454
+2736.
+Intel
+Xeon E5-2630V4
+-5.454
+2737.
+Intel
+Xeon E5-2618LV4
+-5.454
+2738.
+Intel
+Xeon E5-2637V4
+-5.454
+2739.
+Intel
+Xeon E5-2640V4
+-5.454
+2740.
+Intel
+Xeon E5-1660V4
+-5.454
+2741.
+Intel
+Xeon E5-2620V4
+-5.454
+2742.
+Intel
+Xeon E5-1630V4
+-5.454
+2743.
+Intel
+Xeon E5-2608LV4
+-5.454
+2744.
+Intel
+Xeon E5-2643V4
+-5.454
+2745.
+Intel
+Xeon E5-2609V4
+-5.454
+2746.
+Intel
+Xeon E5-1620V4
+-5.454
+2747.
+Intel
+Xeon E5-1680V4
+-5.454
+2748.
+Intel
+Xeon E5-2603V4
+-5.454
+2749.
+Intel
+Xeon E5-1650V4
+-5.454
+2750.
+Intel
+Pentium A1020
+-5.454
+2751.
+Intel
+Core i5-6350HQ
+-5.454
+2752.
+Intel
+Core i7-6970HQ
+-5.454
+2753.
+Intel
+Core i5-6585R
+-5.454
+2754.
+Intel
+Core i5-6685R
+-5.454
+2755.
+Intel
+Core i7-6785R
+-5.454
+2756.
+Intel
+Core i7-6870HQ
+-5.454
+2757.
+Intel
+Xeon D-1559
+-5.454
+2758.
+Intel
+Xeon D-1577
+-5.454
+2759.
+Intel
+Xeon E3-1575MV5
+-5.454
+2760.
+Intel
+Xeon D-1571
+-5.454
+2761.
+Intel
+Xeon D-1567
+-5.454
+2762.
+Intel
+Xeon E3-1515MV5
+-5.454
+2763.
+Intel
+Xeon E3-1545MV5
+-5.454
+2764.
+Intel
+Xeon D-1557
+-5.454
+2765.
+Intel
+Xeon E3-1565LV5
+-5.454
+2766.
+Intel
+Xeon E3-1585LV5
+-5.454
+2767.
+Intel
+Xeon E3-1585V5
+-5.454
+2768.
+Intel
+Xeon E7-8890V4
+-5.454
+2769.
+Intel
+Xeon E7-8893V4
+-5.454
+2770.
+Intel
+Xeon E7-8880V4
+-5.454
+2771.
+Intel
+Xeon E7-8860V4
+-5.454
+2772.
+Intel
+Xeon E7-4809V4
+-5.454
+2773.
+Intel
+Xeon E7-8891V4
+-5.454
+2774.
+Intel
+Xeon E5-4660V4
+-5.454
+2775.
+Intel
+Xeon E5-4640V4
+-5.454
+2776.
+Intel
+Xeon E5-4627V4
+-5.454
+2777.
+Intel
+Xeon E5-4620V4
+-5.454
+2778.
+Intel
+Xeon E7-8870V4
+-5.454
+2779.
+Intel
+Xeon E5-4628LV4
+-5.454
+2780.
+Intel
+Xeon E7-8867V4
+-5.454
+2781.
+Intel
+Xeon E5-4669V4
+-5.454
+2782.
+Intel
+Xeon E7-4850V4
+-5.454
+2783.
+Intel
+Xeon E5-4667V4
+-5.454
+2784.
+Intel
+Xeon E5-4655V4
+-5.454
+2785.
+Intel
+Xeon E5-4650V4
+-5.454
+2786.
+Intel
+Xeon E7-4830V4
+-5.454
+2787.
+Intel
+Xeon E5-4610V4
+-5.454
+2788.
+Intel
+Xeon E7-4820V4
+-5.454
+2789.
+Intel
+Xeon E3-1558LV5
+-5.454
+2790.
+Intel
+Xeon E3-1578LV5
+-5.454
+2791.
+Intel
+Core M3-7Y30
+-5.454
+2792.
+Intel
+Pentium J3455
+-5.454
+2793.
+Intel
+Pentium N3450
+-5.454
+2794.
+Intel
+Pentium J3355
+-5.454
+2795.
+Intel
+Pentium N3350
+-5.454
+2796.
+Intel
+Atom E3940
+-5.454
+2797.
+Intel
+Atom E3930
+-5.454
+2798.
+Intel
+Atom E3950
+-5.454
+2799.
+Intel
+Pentium 3965U
+-5.454
+2800.
+Intel
+Pentium 3865U
+-5.454
+2801.
+Intel
+Xeon E5-2699AV4
+-5.454
+2802.
+Intel
+Xeon E7-8894V4
+-5.454
+2803.
+Intel
+Xeon E5-2699RV4
+-5.454
+2804.
+Intel
+Core i3-7102E
+-5.454
+2805.
+Intel
+Core i3-7101TE
+-5.454
+2806.
+Intel
+Core i3-7100H
+-5.454
+2807.
+Intel
+Core i7-7820EQ
+-5.454
+2808.
+Intel
+Core i3-7100E
+-5.454
+2809.
+Intel
+Pentium G3950
+-5.454
+2810.
+Intel
+Pentium G3930
+-5.454
+2811.
+Intel
+Core i5-7Y57
+-5.454
+2812.
+Intel
+Xeon E3-1505MV6
+-5.454
+2813.
+Intel
+Pentium G3930T
+-5.454
+2814.
+Intel
+Xeon E3-1535MV6
+-5.454
+2815.
+Intel
+Xeon E3-1240V6
+-5.454
+2816.
+Intel
+Xeon E3-1220V6
+-5.454
+2817.
+Intel
+Xeon E3-1245V6
+-5.454
+2818.
+Intel
+Xeon E3-1230V6
+-5.454
+2819.
+Intel
+Xeon E3-1280V6
+-5.454
+2820.
+Intel
+Xeon E3-1225V6
+-5.454
+2821.
+Intel
+Xeon E3-1275V6
+-5.454
+2822.
+Intel
+Xeon E3-1270V6
+-5.454
+2823.
+Intel
+Pentium G4600T
+-5.454
+2824.
+Intel
+Core i5-7440EQ
+-5.454
+2825.
+Intel
+Core i5-7287U
+-5.454
+2826.
+Intel
+Core i5-7442EQ
+-5.454
+2827.
+Intel
+Core M3-7Y32
+-5.454
+2828.
+Intel
+Atom C3758
+-5.454
+2829.
+Intel
+Atom C3958
+-5.454
+2830.
+Intel
+Atom C3338
+-5.454
+2831.
+Intel
+Atom C3538
+-5.454
+2832.
+Intel
+Atom C3508
+-5.454
+2833.
+Intel
+Atom C3830
+-5.454
+2834.
+Intel
+Atom C3850
+-5.454
+2835.
+Intel
+Atom C3955
+-5.454
+2836.
+Intel
+Atom C3708
+-5.454
+2837.
+Intel
+Atom C3308
+-5.454
+2838.
+Intel
+Atom C3858
+-5.454
+2839.
+Intel
+Atom C3558
+-5.454
+2840.
+Intel
+Atom C3750
+-5.454
+2841.
+Intel
+Atom C3808
+-5.454
+2842.
+Intel
+Atom C3950
+-5.454
+2843.
+Intel
+Xeon E3-1505LV6
+-5.454
+2844.
+Intel
+Xeon E3-1285V6
+-5.454
+2845.
+Intel
+Xeon 5118
+-5.454
+2846.
+Intel
+Xeon 5122
+-5.454
+2847.
+Intel
+Xeon 6138
+-5.454
+2848.
+Intel
+Xeon 5120T
+-5.454
+2849.
+Intel
+Xeon 6136
+-5.454
+2850.
+Intel
+Xeon 4116
+-5.454
+2851.
+Intel
+Xeon 6128
+-5.454
+2852.
+Intel
+Xeon 6126
+-5.454
+2853.
+Intel
+Xeon 5115
+-5.454
+2854.
+Intel
+Xeon 6140
+-5.454
+2855.
+Intel
+Xeon 6142
+-5.454
+2856.
+Intel
+Xeon 6148
+-5.454
+2857.
+Intel
+Xeon 6150
+-5.454
+2858.
+Intel
+Xeon 6152
+-5.454
+2859.
+Intel
+Xeon 6130
+-5.454
+2860.
+Intel
+Xeon 6134
+-5.454
+2861.
+Intel
+Xeon 6154
+-5.454
+2862.
+Intel
+Xeon 8180
+-5.454
+2863.
+Intel
+Xeon 8153
+-5.454
+2864.
+Intel
+Xeon 8156
+-5.454
+2865.
+Intel
+Xeon 8158
+-5.454
+2866.
+Intel
+Xeon 8160
+-5.454
+2867.
+Intel
+Xeon 8164
+-5.454
+2868.
+Intel
+Xeon 8168
+-5.454
+2869.
+Intel
+Xeon 8170
+-5.454
+2870.
+Intel
+Xeon 8176
+-5.454
+2871.
+Intel
+Pentium 3965Y
+-5.454
+2872.
+Intel
+Xeon E3-1501MV6
+-5.454
+2873.
+Intel
+Xeon E3-1501LV6
+-5.454
+2874.
+Intel
+Pentium G3930E
+-5.454
+2875.
+Intel
+Pentium G3930TE
+-5.454
+2876.
+Intel
+Xeon D-1533N
+-5.454
+2877.
+Intel
+Xeon D-1513N
+-5.454
+2878.
+Intel
+Xeon D-1543N
+-5.454
+2879.
+Intel
+Xeon D-1523N
+-5.454
+2880.
+Intel
+Xeon D-1553N
+-5.454
+2881.
+Intel
+Atom C2316
+-5.454
+2882.
+Intel
+Atom C2516
+-5.454
+2883.
+Intel
+Xeon 3106
+-5.454
+2884.
+Intel
+Xeon 6132
+-5.454
+2885.
+Intel
+Xeon 6138T
+-5.454
+2886.
+Intel
+Xeon 8160T
+-5.454
+2887.
+Intel
+Xeon 4108
+-5.454
+2888.
+Intel
+Xeon 6130T
+-5.454
+2889.
+Intel
+Xeon 3104
+-5.454
+2890.
+Intel
+Xeon 4110
+-5.454
+2891.
+Intel
+Xeon 6126T
+-5.454
+2892.
+Intel
+Xeon 4109T
+-5.454
+2893.
+Intel
+Xeon 4114
+-5.454
+2894.
+Intel
+Xeon 4112
+-5.454
+2895.
+Intel
+Xeon 6142F
+-5.454
+2896.
+Intel
+Xeon 6138F
+-5.454
+2897.
+Intel
+Xeon 8160F
+-5.454
+2898.
+Intel
+Xeon 6130F
+-5.454
+2899.
+Intel
+Xeon 6126F
+-5.454
+2900.
+Intel
+Xeon 6148F
+-5.454
+2901.
+Intel
+Xeon 6146
+-5.454
+2902.
+Intel
+Xeon 6144
+-5.454
+2903.
+Intel
+Xeon 8176F
+-5.454
+2904.
+Intel
+Xeon 4114T
+-5.454
+2905.
+Intel
+Xeon 5119T
+-5.454
+2906.
+Intel
+Xeon 4116T
+-5.454
+2907.
+Intel
+Xeon W-2195
+-5.454
+2908.
+Intel
+Pentium N4100
+-5.454
+2909.
+Intel
+Pentium J5005
+-5.454
+2910.
+Intel
+Pentium N4000
+-5.454
+2911.
+Intel
+Pentium J4105
+-5.454
+2912.
+Intel
+Pentium N5000
+-5.454
+2913.
+Intel
+Pentium J4005
+-5.454
+2914.
+Intel
+Pentium G4900
+-5.454
+2915.
+Intel
+Core i3-8300T
+-5.454
+2916.
+Intel
+Pentium G5600
+-5.454
+2917.
+Intel
+Pentium G5500
+-5.454
+2918.
+Intel
+Pentium G4920
+-5.454
+2919.
+Intel
+Pentium G5400
+-5.454
+2920.
+Intel
+Pentium G4900T
+-5.454
+2921.
+Intel
+Xeon W-2175
+-5.454
+2922.
+Intel
+Xeon E-2124G
+-5.454
+2923.
+Intel
+Xeon E-2186G
+-5.454
+2924.
+Intel
+Xeon E-2124
+-5.454
+2925.
+Intel
+Xeon E-2134
+-5.454
+2926.
+Intel
+Xeon E-2186M
+-5.454
+2927.
+Intel
+Xeon E-2176G
+-5.454
+2928.
+Intel
+Xeon E-2144G
+-5.454
+2929.
+Intel
+Xeon E-2126G
+-5.454
+2930.
+Intel
+Xeon E-2174G
+-5.454
+2931.
+Intel
+Pentium G4930T
+-5.454
+2932.
+Intel
+Core i3-9300T
+-5.454
+2933.
+Intel
+Pentium G4930
+-5.454
+2934.
+Intel
+Pentium G4950
+-5.454
+2935.
+Intel
+Core i3-9300
+-5.454
+2936.
+Intel
+Core i5-8400B
+-5.454
+2937.
+Intel
+Core i5-9400T
+-5.454
+2938.
+Intel
+Pentium G5600T
+-5.454
+2939.
+Intel
+Pentium G5420T
+-5.454
+2940.
+Intel
+Pentium G5420
+-5.454
+2941.
+Intel
+Pentium G5620
+-5.454
+2942.
+Intel
+Xeon D-2123IT
+-5.454
+2943.
+Intel
+Xeon D-2141I
+-5.454
+2944.
+Intel
+Xeon D-2143IT
+-5.454
+2945.
+Intel
+Xeon D-2142IT
+-5.454
+2946.
+Intel
+Xeon D-2145NT
+-5.454
+2947.
+Intel
+Xeon D-2146NT
+-5.454
+2948.
+Intel
+Xeon D-2161I
+-5.454
+2949.
+Intel
+Xeon D-2177NT
+-5.454
+2950.
+Intel
+Xeon D-2163IT
+-5.454
+2951.
+Intel
+Xeon D-2173IT
+-5.454
+2952.
+Intel
+Xeon D-2166NT
+-5.454
+2953.
+Intel
+Xeon D-2187NT
+-5.454
+2954.
+Intel
+Xeon D-2183IT
+-5.454
+2955.
+Intel
+Core i5-8269U
+-5.454
+2956.
+Intel
+Xeon 6138P
+-5.454
+2957.
+Intel
+Core i3-8100H
+-5.454
+2958.
+Intel
+Atom C3336
+-5.454
+2959.
+Intel
+Core i3-9350K
+-5.454
+2960.
+Intel
+Pentium 3867U
+-5.454
+2961.
+Intel
+Pentium 4205U
+-5.454
+2962.
+Intel
+Core i5-9500F
+-5.454
+2963.
+Intel
+Xeon E-2286G
+-5.454
+2964.
+Intel
+Xeon E-2276G
+-5.454
+2965.
+Intel
+Xeon E-2224
+-5.454
+2966.
+Intel
+Xeon E-2224G
+-5.454
+2967.
+Intel
+Xeon E-2226G
+-5.454
+2968.
+Intel
+Xeon E-2234
+-5.454
+2969.
+Intel
+Xeon E-2236
+-5.454
+2970.
+Intel
+Xeon E-2244G
+-5.454
+2971.
+Intel
+Xeon E-2274G
+-5.454
+2972.
+Intel
+Xeon E-2246G
+-5.454
+2973.
+Intel
+Core i9-9900T
+-5.454
+2974.
+Intel
+Core i7-9750HF
+-5.454
+2975.
+Intel
+Core i5-9600T
+-5.454
+2976.
+Intel
+Core i3-9320
+-5.454
+2977.
+Intel
+Xeon 6230
+-5.454
+2978.
+Intel
+Xeon 6238T
+-5.454
+2979.
+Intel
+Xeon 6242
+-5.454
+2980.
+Intel
+Xeon 6244
+-5.454
+2981.
+Intel
+Xeon 6240
+-5.454
+2982.
+Intel
+Xeon 5218
+-5.454
+2983.
+Intel
+Xeon 5222
+-5.454
+2984.
+Intel
+Xeon 6248
+-5.454
+2985.
+Intel
+Xeon 6252
+-5.454
+2986.
+Intel
+Xeon 6240Y
+-5.454
+2987.
+Intel
+Xeon 6230N
+-5.454
+2988.
+Intel
+Xeon 6254
+-5.454
+2989.
+Intel
+Xeon 8253
+-5.454
+2990.
+Intel
+Xeon 8256
+-5.454
+2991.
+Intel
+Xeon 8276
+-5.454
+2992.
+Intel
+Xeon 8276M
+-5.454
+2993.
+Intel
+Xeon 8280L
+-5.454
+2994.
+Intel
+Xeon 8280M
+-5.454
+2995.
+Intel
+Xeon 8260
+-5.454
+2996.
+Intel
+Xeon 8276L
+-5.454
+2997.
+Intel
+Xeon 8260L
+-5.454
+2998.
+Intel
+Xeon 8260M
+-5.454
+2999.
+Intel
+Xeon 8280
+-5.454
+3000.
+Intel
+Xeon 8260Y
+-5.454
+3001.
+Intel
+Xeon 8268
+-5.454
+3002.
+Intel
+Xeon 8270
+-5.454
+3003.
+Intel
+Pentium 4425Y
+-5.454
+3004.
+Intel
+Xeon E-2286M
+-5.454
+3005.
+Intel
+Core i7-8557U
+-5.454
+3006.
+Intel
+Xeon 3204
+-5.454
+3007.
+Intel
+Xeon 4209T
+-5.454
+3008.
+Intel
+Xeon 4210
+-5.454
+3009.
+Intel
+Xeon 4214
+-5.454
+3010.
+Intel
+Xeon 5220
+-5.454
+3011.
+Intel
+Xeon 4215
+-5.454
+3012.
+Intel
+Xeon 4208
+-5.454
+3013.
+Intel
+Xeon 5215
+-5.454
+3014.
+Intel
+Xeon 5215M
+-5.454
+3015.
+Intel
+Xeon 5215L
+-5.454
+3016.
+Intel
+Xeon 4216
+-5.454
+3017.
+Intel
+Xeon 5217
+-5.454
+3018.
+Intel
+Xeon 5218N
+-5.454
+3019.
+Intel
+Xeon 4214Y
+-5.454
+3020.
+Intel
+Core i7-8665UE
+-5.454
+3021.
+Intel
+Core i5-8365UE
+-5.454
+3022.
+Intel
+Core i3-8145UE
+-5.454
+3023.
+Intel
+Pentium 4305U
+-5.454
+3024.
+Intel
+Xeon 5218B
+-5.454
+3025.
+Intel
+Pentium 4305UE
+-5.454
+3026.
+Intel
+Xeon D-1653N
+-5.454
+3027.
+Intel
+Xeon D-1602
+-5.454
+3028.
+Intel
+Xeon D-1622
+-5.454
+3029.
+Intel
+Xeon D-1623N
+-5.454
+3030.
+Intel
+Xeon D-1627
+-5.454
+3031.
+Intel
+Xeon D-1637
+-5.454
+3032.
+Intel
+Xeon D-1633N
+-5.454
+3033.
+Intel
+Xeon D-1649N
+-5.454
+3034.
+Intel
+Xeon E-2254ME
+-5.454
+3035.
+Intel
+Xeon E-2276ME
+-5.454
+3036.
+Intel
+Xeon E-2288G
+-5.454
+3037.
+Intel
+Xeon E-2254ML
+-5.454
+3038.
+Intel
+Xeon E-2278G
+-5.454
+3039.
+Intel
+Xeon W-3265
+-5.454
+3040.
+Intel
+Xeon W-3225
+-5.454
+3041.
+Intel
+Xeon E-2276ML
+-5.454
+3042.
+Intel
+Xeon W-3245M
+-5.454
+3043.
+Intel
+Xeon W-3275
+-5.454
+3044.
+Intel
+Xeon 6238
+-5.454
+3045.
+Intel
+Xeon 5220S
+-5.454
+3046.
+Intel
+Xeon 6252N
+-5.454
+3047.
+Intel
+Xeon 6230T
+-5.454
+3048.
+Intel
+Xeon 5218T
+-5.454
+3049.
+Intel
+Xeon 6234
+-5.454
+3050.
+Intel
+Xeon 6238M
+-5.454
+3051.
+Intel
+Xeon 6226
+-5.454
+3052.
+Intel
+Xeon 6238L
+-5.454
+3053.
+Intel
+Xeon 6240L
+-5.454
+3054.
+Intel
+Xeon 6240M
+-5.454
+3055.
+Intel
+Xeon 6222V
+-5.454
+3056.
+Intel
+Xeon 6246
+-5.454
+3057.
+Intel
+Xeon 5220T
+-5.454
+3058.
+Intel
+Xeon 6262V
+-5.454
+3059.
+Intel
+Xeon 9242
+-5.454
+3060.
+Intel
+Xeon 9282
+-5.454
+3061.
+Intel
+Core i3-9100E
+-5.454
+3062.
+Intel
+Core i3-9100HL
+-5.454
+3063.
+Intel
+Core i3-9100TE
+-5.454
+3064.
+Intel
+Core i5-8310Y
+-5.454
+3065.
+Intel
+Pentium N4200E
+-5.454
+3066.
+Intel
+Pentium N3350E
+-5.454
+3067.
+Intel
+Pentium J3455E
+-5.454
+3068.
+Intel
+Pentium J3355E
+-5.454
+3069.
+Intel
+Core i7-9700E
+-5.454
+3070.
+Intel
+Xeon E-2278GEL
+-5.454
+3071.
+Intel
+Core i5-9500E
+-5.454
+3072.
+Intel
+Xeon E-2226GE
+-5.454
+3073.
+Intel
+Core i5-9500TE
+-5.454
+3074.
+Intel
+Core i7-9850HE
+-5.454
+3075.
+Intel
+Core i7-9700TE
+-5.454
+3076.
+Intel
+Pentium G4932E
+-5.454
+3077.
+Intel
+Pentium G4930E
+-5.454
+3078.
+Intel
+Core i7-9850HL
+-5.454
+3079.
+Intel
+Xeon E-2278GE
+-5.454
+3080.
+Intel
+Xeon 9221
+-5.454
+3081.
+Intel
+Xeon 9222
+-5.454
+3082.
+Intel
+Core i5-10310Y
+-5.454
+3083.
+Intel
+Core i3-10110Y
+-5.454
+3084.
+Intel
+Core i5-1030G7
+-5.454
+3085.
+Intel
+Core i7-1060G7
+-5.454
+3086.
+Intel
+Core i5-1030G4
+-5.454
+3087.
+Intel
+Core i3-1000G1
+-5.454
+3088.
+Intel
+Core i3-1000G4
+-5.454
+3089.
+Intel
+Pentium J5040
+-5.454
+3090.
+Intel
+Pentium J4125
+-5.454
+3091.
+Intel
+Pentium J4025
+-5.454
+3092.
+Intel
+Pentium N5030
+-5.454
+3093.
+Intel
+Pentium N4120
+-5.454
+3094.
+Intel
+Pentium N4020
+-5.454
+3095.
+Intel
+Pentium 6405U
+-5.454
+3096.
+Intel
+Pentium 5205U
+-5.454
+3097.
+Intel
+Xeon W-2275
+-5.454
+3098.
+Intel
+Xeon W-2265
+-5.454
+3099.
+Intel
+Xeon W-2255
+-5.454
+3100.
+Intel
+Xeon W-2223
+-5.454
+3101.
+Intel
+Xeon W-2235
+-5.454
+3102.
+Intel
+Xeon W-2245
+-5.454
+3103.
+Intel
+Xeon W-2225
+-5.454
